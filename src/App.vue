@@ -64,9 +64,6 @@ export default {
     sortAscByName(arr) {
       return arr.sort((a, b) => a.name.localeCompare(b.name));
     }
-  },
-  mounted() {
-    console.log(productsJson)
   }
 }
 </script>

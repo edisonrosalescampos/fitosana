@@ -22,7 +22,7 @@ export default {
   },
   methods: {
     getImage(filename) {
-      return "src/assets/" + filename;
+      return "./images/" + filename; 
     }
   },
 }
