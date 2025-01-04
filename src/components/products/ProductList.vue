@@ -1,7 +1,7 @@
 <template>
-  <div class="row">
+  <div class="product-grid">
     <template v-for="product in products" :key="product.name">
-      <div class="col-sm-3 mb-3">
+      <div class="product-item mb-3">
         <ProductItem 
           :name="product.name"
           :description="product.description"
