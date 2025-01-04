@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-3 mb-5">
-    <h2 class="title">Catálogo de Productos Fitosana</h2>
+    <h3 class="title">Catálogo de Productos Fitosana</h3>
 
     <br/>
     <br/>
@@ -57,7 +57,7 @@ export default {
     },
     suplements() {
       let filteredResults = this.products.filter(item => item.category == "suplements");
-      return filteredResults;
+      return this.sortAscByName(filteredResults);
     }
   },
   methods: {

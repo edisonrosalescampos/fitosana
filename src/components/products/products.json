@@ -6,16 +6,16 @@
         "img": "citrato_magnesio.png"
     },
     {
-        "name": "Potasio",
+        "name": "Citrato de Potasio",
         "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
         "category": "minerals",
-        "img": "potasio.png"
+        "img": "citrato_potasio.png"
     },
     {
         "name": "Selenio",
         "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
         "category": "minerals",
-        "img": "selenio2.png"
+        "img": "selenio.png"
     },
     {
         "name": "Zinc",
@@ -23,6 +23,13 @@
         "category": "minerals",
         "img": "zinc.png"
     },
+    {
+        "name": "Glicinato de Magnesio",
+        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
+        "category": "minerals",
+        "img": "glicinato_magnesio.png"
+    },
+
 
 
     {
@@ -62,17 +69,25 @@
         "img": "vitamina_e.png"
     },
     {
-        "name": "Centella Asiática",
-        "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
-        "category": "vitamins",
-        "img": "centella_asiatica.png"
-    },
-    {
         "name": "Resveratrol",
-        "description": "Antioxidante últil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos",
+        "description": "Antioxidante últil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
         "category": "vitamins",
         "img": "resveratrol.png"
     },
+    {
+        "name": "Glucosamina Condroitina",
+        "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
+        "category": "vitamins",
+        "img": "glucosamina_condroitina.png"
+    },
+    {
+        "name": "5-HTP",
+        "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
+        "category": "vitamins",
+        "img": "5_htp.png"
+    },
+
+
 
 
     {
@@ -83,7 +98,7 @@
     },
     {
         "name": "Proteina de Suero (Vainilla)",
-        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "suplements",
         "img": "proteina_suero_vainilla.png"
     },
@@ -95,7 +110,7 @@
     },
     {
         "name": "Proteina de Huevo (Vainilla)",
-        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "suplements",
         "img": "proteina_huevo_vainilla.png"
     },
