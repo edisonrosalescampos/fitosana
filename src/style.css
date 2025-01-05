@@ -1,13 +1,124 @@
+@import url('//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900');
 :root {
+  --ff-raleway: "Raleway", sans-serif;
+
   --black: #000000;
   --black-shade100: #0F0F0F;  
   --black-shade200: #181818; 
-  --primary: #eff1f5;
+  --primary: #508732;
+  --secondary: #93B838;
+  --terciary: #654831;
+  --primary2: #eff1f5;
+
+  --green: #508732;
+  --green-shade-100: #E0EECB;   
+  --green-shade-200: #A0CAA4;
+  --green-shade-300: #A9CC3A;
+  --green-shade-400: #93B838; 
+  --brown: #654831;
 }
 body {
   background-color: var(--bs-white);
   color: #212529;
+  font-family: var(--ff-raleway);
 }
+
+
+/* ***** HEADER ***** */
+.header {
+  position: relative;
+  background-color: var(--green);
+}
+
+
+/* ***** SOCIAL NETWORKS ***** */
+.social {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+	padding: .75rem 1.5rem 0;  
+}
+.social ul {
+  display: flex;
+  gap: 1.25rem;
+  margin-bottom: 0;
+}
+.social ul li {
+  list-style: none;
+}
+.social ul li a {
+  color: var(--green-shade-100)
+}
+
+
+/* ***** COMPANY ***** */
+.company {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+	color: var(--bs-white);
+  padding: 1rem 1.25rem;
+}
+.company-logo {
+  margin-bottom: .5rem;
+}
+.company-logo img {
+  height: 80px;
+  width: auto;
+  border-radius: 50%;
+}
+.company-info {
+  text-align: center;
+}
+.company-name {
+  font-weight: 700;
+  margin-bottom: .25rem;
+}
+.distributor-name {
+  font-weight: 600;
+}
+
+
+/* ***** NAVBAR ***** */
+.menu {
+  background-color: var(--green-shade-300);
+  padding: .25rem 1.25rem;
+}
+.menu .nav-link {
+  color: var(--brown);
+  font-weight: 700;
+}
+.menu .nav-link:hover {
+  background-color: var(--green-shade-100);
+}
+.menu .navbar-nav .nav-link.active, 
+.menu .navbar-nav .nav-link.show {
+  background-color: var(--brown);
+  color: var(--bs-white);
+}
+
+
+/* ***** FOOTER ***** */
+.sponsors {
+  background-color: var(--green);
+  color: var(--bs-white);
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: var(--brown);
+  color: var(--bs-white);
+  padding: 1rem 1.25rem;
+  font-size: .9rem;
+  text-align: center;
+}
+
+
+/* ***** MAIN ***** */
 .title {
   font-weight: 600;
   text-align: center;
@@ -19,7 +130,7 @@ body {
   margin-bottom: 1rem;
 }
 .subheader .title {
-  font-size: 20px;
+  font-size: 18px;
   font-style: italic;
   margin-bottom: 0;
   text-align: left;
@@ -27,7 +138,10 @@ body {
 .btn {
   font-size: 12px;
 }
-.product-group {
+
+
+/* ***** PRODUCTS ***** */
+.product-section {
   margin-bottom: 3rem;
 }
 .product-grid {
@@ -41,15 +155,15 @@ body {
   border: 0;
   border-radius: 0;
   height: 100%;
-  box-shadow: var(--bs-box-shadow);
+  box-shadow: var(--bs-box-shadow-sm);
 }
 .product-card .card-img-container {	
 	position: relative;
 	padding-top: 110%;
-  margin-bottom: .75rem;
+  margin-bottom: 0;
 }
 .product-card .card-img-top {
-  background-color: var(--primary);  
+  background-color: #eff1f5;  
   position: absolute;
   top: 0;
   left: 0;
@@ -61,9 +175,11 @@ body {
   border-top-right-radius: 0;
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
 }
 .product-card .card-body {
-  padding: .5rem .5rem 1.25rem;
+  padding: .75rem .5rem 1.25rem;
 }
 .product-card .card-title {
   font-size: 14px;
@@ -72,4 +188,33 @@ body {
 .product-card .card-text {
   font-size: 13px;
   color: #4d4d4d;
+}
+
+
+/* ***** RESPONSIVE ***** */
+@media (max-width: 576px) { 
+  .social {
+    position: relative;
+  }
+}
+@media (max-width: 992px) {
+  .navbar-collapse {
+    margin-top: .25rem;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: .75rem;
+    padding-right: .75rem;
+  }
+} 
+@media (min-width: 992px) { 
+  .navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+  }
+  .menu .navbar-nav {
+    gap: 1rem;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
 }

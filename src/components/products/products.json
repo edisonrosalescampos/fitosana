@@ -70,7 +70,7 @@
     },
     {
         "name": "Resveratrol",
-        "description": "Antioxidante últil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
+        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
         "category": "vitamins",
         "img": "resveratrol.png"
     },
@@ -91,25 +91,25 @@
 
 
     {
-        "name": "Proteina de Suero. (Chocolate)",
+        "name": "Proteína de Suero (Chocolate)",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "suplements",
         "img": "proteina_suero_chocolate.png"
     },
     {
-        "name": "Proteina de Suero (Vainilla)",
+        "name": "Proteína de Suero (Vainilla)",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "suplements",
         "img": "proteina_suero_vainilla.png"
     },
     {
-        "name": "Proteina de Huevo (Chocolate)",
+        "name": "Proteína de Huevo (Chocolate)",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "suplements",
         "img": "proteina_huevo_chocolate.png"
     },
     {
-        "name": "Proteina de Huevo (Vainilla)",
+        "name": "Proteína de Huevo (Vainilla)",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "suplements",
         "img": "proteina_huevo_vainilla.png"
