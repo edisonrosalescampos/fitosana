@@ -3,9 +3,9 @@
     <div class="header">
       <div class="social">
         <ul>
-          <li><a href="https://www.facebook.com/profile.php?id=61565835603289&mibextid=ZbWKwL" title="Facebook"><span><i class="fab fa-facebook-f fa-lg"></i></span></a></li>
-          <li><a href="https://www.instagram.com/distribuidor_fitosana.2024?igsh=MTg4dHViNmpleXQ3eg==" title="Instagram"><span><i class="fab fa-instagram fa-lg"></i></span></a></li>   
-          <li><a href="https://wa.me/584161974036" title="WhatsApp"><span><i class="fab fa-whatsapp fa-lg"></i></span></a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=61565835603289&mibextid=ZbWKwL" title="Facebook" target="_blank"><span><i class="fab fa-facebook-f fa-lg"></i></span></a></li>
+          <li><a href="https://www.instagram.com/distribuidor_fitosana.2024?igsh=MTg4dHViNmpleXQ3eg==" title="Instagram" target="_blank"><span><i class="fab fa-instagram fa-lg"></i></span></a></li>   
+          <li><a href="https://wa.me/584161974036" title="WhatsApp" target="_blank"><span><i class="fab fa-whatsapp fa-lg"></i></span></a></li>
         </ul>
       </div>
       <div class="company">
@@ -83,7 +83,7 @@
       </div>-->
       <div class="copyright">
         <div class="copy">
-          &copy; Distibuidor Autorizado Fitosana 2025 | Todos los derechos reservados.
+          &copy; Distibuidor Fitosana 2025 | Todos los derechos reservados.
         </div>
         <!--<div class="designer">
           Creado por Edison Rosales
