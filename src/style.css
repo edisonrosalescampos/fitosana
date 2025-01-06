@@ -8,7 +8,6 @@
   --primary: #508732;
   --secondary: #93B838;
   --terciary: #654831;
-  --primary2: #eff1f5;
 
   --green: #508732;
   --green-shade-100: #E0EECB;   
@@ -88,6 +87,7 @@ body {
 .menu .nav-link {
   color: var(--brown);
   font-weight: 700;
+  font-size: .95rem;
 }
 .menu .nav-link:hover {
   background-color: var(--green-shade-100);

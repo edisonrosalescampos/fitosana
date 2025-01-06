@@ -83,7 +83,7 @@
       </div>-->
       <div class="copyright">
         <div class="copy">
-          &copy; Distibuidor Fitosana 2025 | Todos los derechos reservados.
+          &copy; Distribuidor Fitosana 2025 | Todos los derechos reservados.
         </div>
         <!--<div class="designer">
           Creado por Edison Rosales
