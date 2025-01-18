@@ -1,11 +1,5 @@
 [
     {
-        "name": "Citrato de Magnesio",
-        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
-        "category": "minerals",
-        "img": "citrato_magnesio.png"
-    },
-    {
         "name": "Citrato de Potasio",
         "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
         "category": "minerals",
@@ -22,12 +16,6 @@
         "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
         "category": "minerals",
         "img": "zinc.png"
-    },
-    {
-        "name": "Glicinato de Magnesio",
-        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
-        "category": "minerals",
-        "img": "glicinato_magnesio.png"
     },
 
 
@@ -69,55 +57,162 @@
         "img": "vitamina_e.png"
     },
     {
+        "name": "Centrunex Silver",
+        "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
+        "category": "vitamins",
+        "img": "centrunex_silver.png"
+    },
+    {
+        "name": "Vibazina",
+        "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
+        "category": "vitamins",
+        "img": "vibazina.png"
+    },      
+    {
+        "name": "Vitamina D3 + K2",
+        "description": "Mejora la salud ósea, la salud cardiovascular y el sistema inmunitario. Ayuda a absorber mejor el calcio y previene la calcificación de las arterias.",
+        "category": "vitamins",
+        "img": "vitamina_d3_k2.png"
+    },    
+
+
+
+    {
+        "name": "Centella Asiática",
+        "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
+        "category": "suplements",
+        "img": "centella_asiatica.png"
+    },
+    {
+        "name": "Vinagre de Manzana",
+        "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
+        "category": "suplements",
+        "img": "vinagre_manzana.png"
+    },
+    {
+        "name": "Graviola",
+        "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
+        "category": "suplements",
+        "img": "graviola.png"
+    },
+    {
+        "name": "Mapurite",
+        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
+        "category": "suplements",
+        "img": "mapurite.png"
+    },
+    {
+        "name": "Castaño de Indias",
+        "description": "Mejora la circulación venosa, evita la caída de cabello, celulitis y tiene propiedades antiinflamatorias.",
+        "category": "suplements",
+        "img": "castano_indias.png"
+    },
+    {
+        "name": "Ñame Salvaje",
+        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
+        "category": "suplements",
+        "img": "name_salvaje.png"
+    }, 
+    {
+        "name": "Levadura de Cerveza",
+        "description": "Ayuda al metabolismo, aporta proteinas de alto valor y es una fuente de minerales y vitaminas.",
+        "category": "suplements",
+        "img": "levadura_cerveza.png"
+    },
+    {
+        "name": "Macho Viril",
+        "description": "Incrementa la energía sexual y la función eréctil.",
+        "category": "suplements",
+        "img": "macho_viril.png"
+    }, 
+    {
+        "name": "Chanca Piedra",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "suplements",
+        "img": "chanca_piedra.png"
+    },
+    {
+        "name": "Calostro Bovino",
+        "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
+        "category": "suplements",
+        "img": "calostro_bovino.png"
+    },
+    {
         "name": "Resveratrol",
         "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
-        "category": "vitamins",
+        "category": "suplements",
         "img": "resveratrol.png"
     },
     {
         "name": "Glucosamina Condroitina",
         "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
-        "category": "vitamins",
+        "category": "suplements",
         "img": "glucosamina_condroitina.png"
     },
     {
         "name": "5-HTP",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
-        "category": "vitamins",
+        "category": "suplements",
         "img": "5_htp.png"
     },
 
+
+
+    {
+        "name": "Magnesio + Melatonina",
+        "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
+        "category": "magnesiums",
+        "img": "magnesio_melatonina.png"
+    },
+    {
+        "name": "Citrato de Magnesio",
+        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
+        "category": "magnesiums",
+        "img": "citrato_magnesio.png"
+    },
+    {
+        "name": "Glicinato de Magnesio",
+        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
+        "category": "magnesiums",
+        "img": "glicinato_magnesio.png"
+    },
 
 
 
     {
         "name": "Proteína de Suero (Chocolate)",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
-        "category": "suplements",
+        "category": "proteins",
         "img": "proteina_suero_chocolate.png"
     },
     {
         "name": "Proteína de Suero (Vainilla)",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
-        "category": "suplements",
+        "category": "proteins",
         "img": "proteina_suero_vainilla.png"
-    },
-    {
-        "name": "Proteína de Huevo (Chocolate)",
-        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
-        "category": "suplements",
-        "img": "proteina_huevo_chocolate.png"
     },
     {
         "name": "Proteína de Huevo (Vainilla)",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
-        "category": "suplements",
+        "category": "proteins",
         "img": "proteina_huevo_vainilla.png"
     },
     {
         "name": "Creatina",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
-        "category": "suplements",
+        "category": "proteins",
         "img": "creatina.png"
+    },
+    {
+        "name": "Creatina Monohidratada",
+        "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
+        "category": "proteins",
+        "img": "creatina_monohidratada.png"
+    },
+    {
+        "name": "Cólageno Hidrolizado en Polvo",
+        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "category": "proteins",
+        "img": "colageno_hidrolizado.png"
     }
 ]

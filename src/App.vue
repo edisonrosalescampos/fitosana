@@ -48,6 +48,15 @@
 
         <ProductList :products="vitamins" />
       </section>
+
+      <!--SUPLEMENTOS-->
+      <section class="product-section">
+        <div class="subheader">
+          <h6 class="title">Suplementos</h6>
+        </div>
+
+        <ProductList :products="suplements" />
+      </section>
       
       <!--MINERALES-->
       <section class="product-section">
@@ -58,13 +67,22 @@
         <ProductList :products="minerals" />
       </section>
 
-      <!--SUPLEMENTOS ALIMENTICIOS-->
+      <!--MAGNESIOS-->
       <section class="product-section">
         <div class="subheader">
-          <h6 class="title">Suplementos Alimenticios</h6>
+          <h6 class="title">Magnesios</h6>
         </div>
 
-        <ProductList :products="suplements" />
+        <ProductList :products="magnesiums" />
+      </section>
+
+      <!--PROTEINAS-->
+      <section class="product-section">
+        <div class="subheader">
+          <h6 class="title">Proteínas</h6>
+        </div>
+
+        <ProductList :products="proteins" />
       </section>
     </div>
 
@@ -106,16 +124,24 @@ export default {
     products: productsJson
   }),
   computed: {
-    minerals() {
-      let filteredResults = this.products.filter(item => item.category == "minerals");
-      return this.sortAscByName(filteredResults);
-    },
     vitamins() {
       let filteredResults = this.products.filter(item => item.category == "vitamins");
       return this.sortAscByName(filteredResults);
     },
     suplements() {
       let filteredResults = this.products.filter(item => item.category == "suplements");
+      return this.sortAscByName(filteredResults);
+    },
+    minerals() {
+      let filteredResults = this.products.filter(item => item.category == "minerals");
+      return this.sortAscByName(filteredResults);
+    },
+    magnesiums() {
+      let filteredResults = this.products.filter(item => item.category == "magnesiums");
+      return this.sortAscByName(filteredResults);
+    },
+    proteins() {
+      let filteredResults = this.products.filter(item => item.category == "proteins");
       return this.sortAscByName(filteredResults);
     }
   },
