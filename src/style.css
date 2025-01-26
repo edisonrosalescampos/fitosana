@@ -1,6 +1,8 @@
 @import url('//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 :root {
   --ff-raleway: "Raleway", sans-serif;
+  --ff-fira-sans: "Fira Sans", serif;
 
   --black: #000000;
   --black-shade100: #0F0F0F;  
@@ -19,7 +21,7 @@
 body {
   background-color: var(--bs-white);
   color: #212529;
-  font-family: var(--ff-raleway);
+  font-family: var(--ff-fira-sans);
 }
 
 
@@ -86,7 +88,7 @@ body {
 }
 .menu .nav-link {
   color: var(--brown);
-  font-weight: 700;
+  font-weight: 600;
   font-size: .95rem;
 }
 .menu .nav-link:hover {
@@ -121,7 +123,6 @@ body {
 /* ***** MAIN ***** */
 .title {
   font-weight: 600;
-  text-align: center;
 }
 .subheader {
 	padding-top: .5rem;
@@ -131,15 +132,26 @@ body {
 }
 .subheader .title {
   display: inline-flex;
-	font-size: 18px;
+	font-size: 1.25rem;
 	font-style: italic;
 	margin-bottom: 0;
 	text-align: left;	
   padding-bottom: .25rem;
 	border-bottom: 2px solid var(--green-shade-300);	
 }
-.btn {
-  font-size: 12px;
+.btn-back {
+  background-color: var(--brown);
+  border-color: var(--brown);
+}
+.btn-back:hover,
+.btn-back:focus {
+  background-color: var(--brown);
+  border-color: var(--brown);
+}
+.btn-back:first-child:active,
+.btn-back.active {
+  background-color: var(--brown);
+  border-color: var(--brown);
 }
 
 
@@ -155,7 +167,7 @@ body {
 .product-card {
   background-color: #f7f8f9;
   color: #212529;
-  border: 0;
+  border: 1px solid #eee;
   border-radius: 4px;
   height: 100%;
   box-shadow: var(--bs-box-shadow-sm);
@@ -163,7 +175,7 @@ body {
 .product-card .card-img-container {	
 	position: relative;
 	padding-top: 110%;
-  margin: .25rem;
+  margin: 0;
 }
 .product-card .card-img-top {
   background-color: var(--bs-white); /*#eff1f5*/
@@ -182,17 +194,52 @@ body {
   padding-bottom: 1rem;
 }
 .product-card .card-body {
-  padding: .5rem .25rem 1.25rem;
+  padding: .75rem .5rem 1rem;
 }
 .product-card .card-title {
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 1rem;
+  font-weight: 500;
 }
 .product-card .card-text {
-  font-size: 13px;
-  color: #212529;
+  font-size: .985rem;
+  color: #495057;
+}
+.product-card .card-footer {
+  background-color: transparent;
+  border-top: 0;
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+.product-card .btn {
+  background-color: var(--green);
+  border-color: var(--green);
+  font-weight: 500;
+  border-radius: 4px;
+}
+.product-card .btn.active,
+.product-card .btn:active {
+  background-color: var(--green);
+  border-color: var(--green);
 }
 
+
+/* ***** PRODUCT DETAILS ***** */
+.product-page .custom-badge {
+  background-color: var(--green);
+  border-radius: 20px;
+  border: 4px solid var(--green-shade-200);
+  padding: .5rem 1.25rem;
+}
+.product-page .custom-badge .title {
+  font-size: 1.5rem;
+}
+.product-page .custom-badge .subtitle {
+  font-size: .75rem;
+	font-weight: 500;	
+}
+.product-page .custom-badge + .custom-badge {
+  margin-left: .5rem;
+}
 
 /* ***** RESPONSIVE ***** */
 @media (max-width: 576px) { 

@@ -7,6 +7,13 @@
       <h5 class="card-title">{{ name }}</h5>
       <p class="card-text">{{ description }}</p>
     </div>
+    <div class="card-footer text-center">
+      <RouterLink :to="'/product/' + getSlug(name)">
+        <button class="btn btn-primary btn-sm w-100">
+          <i class="fas fa-search me-1"></i> Ver más información
+        </button>
+      </RouterLink>      
+    </div>
   </div>
 </template>
 
@@ -21,6 +28,9 @@ export default {
   methods: {
     getImage(filename) {
       return "./images/" + filename; 
+    },
+    getSlug(name) {
+      return name.split(" ").join("-").toLowerCase();
     }
   },
 }
