@@ -1,14 +1,12 @@
 <template>
   <div class="container my-4 product-page">
-    <div>
+    <div class="mb-4">
       <RouterLink to="/">
         <button class="btn btn-primary btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
       </RouterLink>      
     </div>
-
-    <br/>
 
     <div class="row">
       <div class="col-md-5 col-lg-4 mb-3 mb-md-0">
@@ -42,6 +40,14 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <div class="mt-4 d-md-none">
+      <RouterLink to="/">
+        <button class="btn btn-primary btn-back">
+          <i class="fas fa-arrow-circle-left me-1"></i> Volver
+        </button>
+      </RouterLink>      
     </div>
   </div>
 </template>
