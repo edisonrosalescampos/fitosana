@@ -13,16 +13,18 @@
         <img :src="getImage(product.img)" class="img-thumbnail" alt="...">
       </div>
       <div class="col-md-7 col-lg-8">
-        <h2 class="title">{{ product.name }}</h2>
-        <p class="mb-2">{{ product.description }}</p>
+        <h3 class="title">{{ product.name }}</h3>
+        <p class="mb-2 text-justify">{{ product.description }}</p>
 
         <br/>
 
         <h6 class="fw-semibold">CONTIENE:</h6>
 
         <ul>
-          <li v-for="element in product.elements">
-            {{ element }}
+          <li v-for="element in product.elements" :key="element.name">
+            <p class="mb-1">
+              {{ element.name }} <span class="badge rounded-pill bg-secondary ms-1">{{ element.qty }} </span>
+            </p>
           </li>
         </ul>
 

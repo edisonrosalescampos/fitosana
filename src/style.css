@@ -25,6 +25,12 @@ body {
 }
 
 
+/* ***** UTILITIES ***** */
+.text-justify {
+  text-align: justify;
+}
+
+
 /* ***** HEADER ***** */
 .header {
   position: relative;
