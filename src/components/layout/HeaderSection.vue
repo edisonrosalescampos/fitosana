@@ -12,8 +12,8 @@
           <img src="/images/cintillo_fitosana.png" alt="">
         </div>
         <div class="company-info">
-          <h4 class="company-name">DISTRIBUIDOR FITOSANA</h4>
-          <h6 class="distributor-name">JAIRO ROSALES</h6>
+          <h4 class="company-name">JAIRO ROSALES</h4>
+          <h6 class="distributor-name">DISTRIBUIDOR</h6>
         </div>
       </div>
       
