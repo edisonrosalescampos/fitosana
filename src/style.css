@@ -168,7 +168,7 @@ body {
 .product-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: .375rem;
+  gap:.5rem  .375rem;
 }
 .product-card {
   background-color: #f7f8f9;
