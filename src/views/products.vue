@@ -1,6 +1,6 @@
 <template>
-  <div class="container my-4">
-    <h3 class="title text-center">PRODUCTOS</h3>
+  <div class="container-fluid container-xl my-4">
+    <h3 class="title mb-0 text-center">PRODUCTOS</h3>
 
     <br />
 

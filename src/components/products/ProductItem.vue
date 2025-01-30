@@ -10,7 +10,7 @@
     <div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">
         <button class="btn btn-primary btn-sm w-100">
-          <i class="fas fa-search me-1"></i> Ver más información
+          <i class="fas fa-search me-1"></i> Ver más
         </button>
       </RouterLink>      
     </div>

@@ -134,7 +134,7 @@ body {
 	padding-top: .5rem;
   padding-bottom: .5rem;
   border-radius: 4px;
-  margin-bottom: 1rem;
+  margin-bottom: .75rem;
 }
 .subheader .title {
   display: inline-flex;
@@ -180,7 +180,7 @@ body {
 }
 .product-card .card-img-container {	
 	position: relative;
-	padding-top: 110%;
+	padding-top: 100%;
   margin: 0;
 }
 .product-card .card-img-top {
@@ -246,12 +246,42 @@ body {
 .product-page .custom-badge + .custom-badge {
   margin-left: .5rem;
 }
+.product-page .img-thumbnail-container {
+  position: relative;
+  padding-top: 100%;
+}
+.product-page .img-thumbnail {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: scale-down;
+}
+
 
 /* ***** RESPONSIVE ***** */
 @media (max-width: 576px) { 
   .social {
-    position: relative;
+    display: none;
   }
+  .product-grid {
+    gap: .375rem;
+  }
+}
+@media (max-width: 768px) { 
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: .5rem;
+  }
+  .product-card .card-body {
+    padding-bottom: 0;
+  }
+  .product-card .card-title {
+    margin-bottom: .25rem;
+  } 
+  .product-card .card-text {
+    display: none;
+  }  
 }
 @media (max-width: 992px) {
   .navbar-collapse {

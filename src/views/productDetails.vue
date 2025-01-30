@@ -10,7 +10,9 @@
 
     <div class="row">
       <div class="col-md-5 col-lg-4 mb-3 mb-md-0">
-        <img :src="getImage(product.img)" class="img-thumbnail" alt="...">
+        <div class="img-thumbnail-container">
+          <img :src="getImage(product.img)" class="img-thumbnail" alt="...">
+        </div>
       </div>
       <div class="col-md-7 col-lg-8">
         <h3 class="title">{{ product.name }}</h3>
