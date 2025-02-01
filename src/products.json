@@ -118,7 +118,7 @@
     },
     {
         "name": "Centrunex Silver",
-        "short_description": "Multivitamínico diseñado para apoyar la salud general y el bienestar en adultos mayores.",
+        "short_description": "Multivitamínico diseñado para adultos mayores de 50 años.",
         "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
         "category": "vitamins",
         "img": "centrunex_silver.png",
@@ -177,6 +177,7 @@
 
     {
         "name": "Centella Asiática",
+        "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
         "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
         "category": "suplements",
         "img": "centella_asiatica.png",
@@ -188,6 +189,7 @@
     },
     {
         "name": "Vinagre de Manzana",
+        "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
         "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
         "category": "suplements",
         "img": "vinagre_manzana.png",
@@ -199,6 +201,7 @@
     },
     {
         "name": "Graviola",
+        "short_description": "Ayuda al tratamiento de miomas y quistes.",
         "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
         "category": "suplements",
         "img": "graviola.png",
@@ -210,6 +213,7 @@
     },
     {
         "name": "Mapurite",
+        "short_description": "Aumenta la supervivencia, disminuye la pérdida de peso y el crecimiento tumoral.",
         "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
         "category": "suplements",
         "img": "mapurite.png",
@@ -221,6 +225,7 @@
     },
     {
         "name": "Castaño de Indias",
+        "short_description": "Mejora la circulación sanguínea.",
         "description": "Mejora la circulación venosa, evita la caída de cabello, celulitis y tiene propiedades antiinflamatorias.",
         "category": "suplements",
         "img": "castano_indias.png",
@@ -232,6 +237,7 @@
     },
     {
         "name": "Ñame Salvaje",
+        "short_description": "Es usado para mitigar los efectos de la menopausia.",
         "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
         "category": "suplements",
         "img": "name_salvaje.png",
@@ -247,6 +253,7 @@
     }, 
     {
         "name": "Levadura de Cerveza",
+        "short_description": "Ayuda a la prevención de la anemia.",
         "description": "Ayuda al metabolismo, aporta proteinas de alto valor y es una fuente de minerales y vitaminas.",
         "category": "suplements",
         "img": "levadura_cerveza.png",
@@ -258,6 +265,7 @@
     },
     {
         "name": "Macho Viril",
+        "short_description": "Mejora la libido y función eréctil en hombres con impotencia.",
         "description": "Incrementa la energía sexual y la función eréctil.",
         "category": "suplements",
         "img": "macho_viril.png",
@@ -273,6 +281,7 @@
     }, 
     {
         "name": "Chanca Piedra",
+        "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
         "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
         "category": "suplements",
         "img": "chanca_piedra.png",
@@ -284,6 +293,7 @@
     },
     {
         "name": "Calostro Bovino",
+        "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
         "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
         "category": "suplements",
         "img": "calostro_bovino.png",
@@ -295,6 +305,7 @@
     },
     {
         "name": "Resveratrol",
+        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
         "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
         "category": "suplements",
         "img": "resveratrol.png",
@@ -306,6 +317,7 @@
     },
     {
         "name": "Glucosamina Condroitina",
+        "short_description": "Estimula la formación y reparación del cartílago articulatorio",
         "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
         "category": "suplements",
         "img": "glucosamina_condroitina.png",
@@ -318,6 +330,7 @@
     },
     {
         "name": "5-HTP",
+        "short_description": "Ayuda a mantener una perspectiva positiva y un estado de ánimo tranquilo.",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "suplements",
         "img": "5_htp.png",
@@ -329,6 +342,7 @@
     },
     {
         "name": "Valeriana",
+        "short_description": "Actúa como sedante y relajante nervioso.",
         "description": "Combate el dolor de cabeza, cólicos intestinales, dolores reumáticos, dismenorreas y elimina la intranquilidad.",
         "category": "suplements",
         "img": "valeriana.png",
@@ -340,6 +354,7 @@
     },
     {
         "name": "Cúrcuma",
+        "short_description": "Eleva el sistema inmunológico.",
         "description": "Previene la arterioesclerosis, alivia los problemas digestivos. Aporta beneficios al hígado, reduce el dolor de la artritis y ayuda a adelgazar.",
         "category": "suplements",
         "img": "curcuma.png",
@@ -351,6 +366,7 @@
     },
     {
         "name": "Tumba Barriga",
+        "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
         "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
         "category": "suplements",
         "img": "tumba_barriga.png",
@@ -366,6 +382,7 @@
     },
     {
         "name": "Ginseng Koreano",
+        "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
         "description": "Aumenta la actividad mental y el deseo sexual.",
         "category": "suplements",
         "img": "ginseng_koreano.png",
@@ -377,6 +394,7 @@
     },
     {
         "name": "Aguaje",
+        "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
         "description": "Aumenta el busto y los glúteos, mantiene la piel joven y tiene propiedades analgésicas, antibióticas y antiinflamatorias.",
         "category": "suplements",
         "img": "aguaje.png",
@@ -395,6 +413,7 @@
 
     {
         "name": "Magnesio + Melatonina",
+        "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
         "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
         "category": "magnesiums",
         "img": "magnesio_melatonina.png",
@@ -407,6 +426,7 @@
     },
     {
         "name": "Citrato de Magnesio",
+        "short_description": "Regula la función de los músculos y del sistema nervioso.",
         "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
         "category": "magnesiums",
         "img": "citrato_magnesio.png",
@@ -418,6 +438,7 @@
     },
     {
         "name": "Glicinato de Magnesio",
+        "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
         "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
         "category": "magnesiums",
         "img": "glicinato_magnesio.png",

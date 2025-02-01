@@ -216,9 +216,8 @@ body {
 }
 .product-card .card-text {
   display: none;
-  font-size: .975rem;
+  font-size: .875rem;
   color: #495057;
-  font-size: .85rem;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
