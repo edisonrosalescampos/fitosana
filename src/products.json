@@ -38,6 +38,7 @@
 
     {
         "name": "Complejo B",
+        "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
         "description": "Mantiene la salud cerebral, cardíaca, la formación del ADN y la regulación de la energía. Previene las migrañas y reduce los síntomas de depresión y ansiedad.",
         "category": "vitamins",
         "img": "complejo_b.png",
@@ -56,6 +57,7 @@
     },
     {
         "name": "Biotina",
+        "short_description": "Ayuda a mantener la piel y uñas sanas y mejora el crecimiento del cabello.",
         "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
         "category": "vitamins",
         "img": "biotina.png",
@@ -68,6 +70,7 @@
     },
     {
         "name": "Colágeno",
+        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
         "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
         "category": "vitamins",
         "img": "colageno.png",
@@ -79,6 +82,7 @@
     },
     {
         "name": "Vitamina C",
+        "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
         "description": "Fortalece el sistema inmunológico, antioxidante, ayuda a la salud de la piel, previene enfermedades degenerativas y mejora la vista.",
         "category": "vitamins",
         "img": "vitamina_c.png",
@@ -90,6 +94,7 @@
     },
     {
         "name": "Vitamina D3",
+        "short_description": "Apoya la salud ósea y el sistema inmunológico.",
         "description": "Ayuda a tener huesos, músculos y nervios saludables y apoya el sistema inmunitario. Extrae el calcio de los alimentos y mejora el funcionamiento de los músculos.",
         "category": "vitamins",
         "img": "vitamina_d3.png",
@@ -101,6 +106,7 @@
     },
     {
         "name": "Vitamina E",
+        "short_description": "Mantén tu sistema inmunitario fuerte.",
         "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
         "category": "vitamins",
         "img": "vitamina_e.png",
@@ -112,6 +118,7 @@
     },
     {
         "name": "Centrunex Silver",
+        "short_description": "Multivitamínico diseñado para apoyar la salud general y el bienestar en adultos mayores.",
         "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
         "category": "vitamins",
         "img": "centrunex_silver.png",
@@ -137,6 +144,7 @@
     },
     {
         "name": "Vibazina",
+        "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
         "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
         "category": "vitamins",
         "img": "vibazina.png",
@@ -153,6 +161,7 @@
     },      
     {
         "name": "Vitamina D3 + K2",
+        "short_description": "Ayuda a tu salud ósea, cardiovascular, inmunológica, mental y cutánea.",
         "description": "Mejora la salud ósea, la salud cardiovascular y el sistema inmunitario. Ayuda a absorber mejor el calcio y previene la calcificación de las arterias.",
         "category": "vitamins",
         "img": "vitamina_d3_k2.png",

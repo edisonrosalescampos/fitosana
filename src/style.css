@@ -218,6 +218,12 @@ body {
   display: none;
   font-size: .975rem;
   color: #495057;
+  font-size: .85rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 0;
 }
 .product-card .card-footer {
   background-color: transparent;
@@ -283,6 +289,9 @@ body {
     padding-top: .75rem;
     padding-bottom: .75rem;
   }
+  .product-card .card-text {
+    font-size: .9rem;
+  }
 }
 @media (min-width: 768px) { 
   .company-logo img {
@@ -300,6 +309,7 @@ body {
   } 
   .product-card .card-text {
     display: block;
+    font-size: .95rem;
   } 
   .product-card .card-img-top {
     padding-top: 1rem;

@@ -5,7 +5,8 @@
     </div> 
     <div class="card-body">  
       <h5 class="card-title">{{ name }}</h5>
-      <p class="card-text">{{ description }}</p>
+      <p class="card-text d-sm-none">{{ short_description }}</p>
+      <p class="card-text d-none d-sm-block">{{ description }}</p>
     </div>
     <div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">
@@ -22,6 +23,7 @@ export default {
   name: "ProductItem",
   props: {
     name: String,
+    short_description: String,
     description: String,
     image: String
   },
