@@ -1,6 +1,7 @@
 [
     {
         "name": "Citrato de Potasio",
+        "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
         "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
         "category": "minerals",
         "img": "citrato_potasio.png",
@@ -12,6 +13,7 @@
     },
     {
         "name": "Selenio",
+        "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
         "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
         "category": "minerals",
         "img": "selenio.png",
@@ -23,6 +25,7 @@
     },
     {
         "name": "Zinc",
+        "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
         "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
         "category": "minerals",
         "img": "zinc.png",
@@ -57,7 +60,7 @@
     },
     {
         "name": "Biotina",
-        "short_description": "Ayuda a mantener la piel y uñas sanas y mejora el crecimiento del cabello.",
+        "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
         "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
         "category": "vitamins",
         "img": "biotina.png",
@@ -213,7 +216,7 @@
     },
     {
         "name": "Mapurite",
-        "short_description": "Aumenta la supervivencia, disminuye la pérdida de peso y el crecimiento tumoral.",
+        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
         "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
         "category": "suplements",
         "img": "mapurite.png",
