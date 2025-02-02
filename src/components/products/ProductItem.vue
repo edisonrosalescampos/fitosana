@@ -5,8 +5,8 @@
     </div> 
     <div class="card-body">  
       <h5 class="card-title">{{ name }}</h5>
-      <p class="card-text d-sm-none">{{ short_description }}</p>
-      <p class="card-text d-none d-sm-block">{{ description }}</p>
+      <p class="card-text d-md-none">{{ short_description }}</p>
+      <p class="card-text d-none d-md-block">{{ description }}</p>
     </div>
     <div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">

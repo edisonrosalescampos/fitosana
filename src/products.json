@@ -121,7 +121,7 @@
     },
     {
         "name": "Centrunex Silver",
-        "short_description": "Multivitamínico diseñado para adultos mayores de 50 años.",
+        "short_description": "Multivitamínico para adultos mayores de 50 años.",
         "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
         "category": "vitamins",
         "img": "centrunex_silver.png",
@@ -138,8 +138,8 @@
             {"name": "Biotina", "qty": "16mg"},
             {"name": "Ácido Pantoténico", "qty": "12mg"},
             {"name": "Ácido Fólico", "qty": "8mg"},
-            {"name": "Luteina", "qty": "5mg"},
-            {"name": "Lucopeno", "qty": "4mg"},
+            {"name": "Luteína", "qty": "5mg"},
+            {"name": "Licopeno", "qty": "4mg"},
             {"name": "Niacinamida", "qty": "2mg"}
         ],
         "approval_number": "A-000.00",
@@ -257,7 +257,7 @@
     {
         "name": "Levadura de Cerveza",
         "short_description": "Ayuda a la prevención de la anemia.",
-        "description": "Ayuda al metabolismo, aporta proteinas de alto valor y es una fuente de minerales y vitaminas.",
+        "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
         "category": "suplements",
         "img": "levadura_cerveza.png",
         "elements": [
@@ -268,7 +268,7 @@
     },
     {
         "name": "Macho Viril",
-        "short_description": "Mejora la libido y función eréctil en hombres con impotencia.",
+        "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
         "description": "Incrementa la energía sexual y la función eréctil.",
         "category": "suplements",
         "img": "macho_viril.png",
@@ -333,7 +333,7 @@
     },
     {
         "name": "5-HTP",
-        "short_description": "Ayuda a mantener una perspectiva positiva y un estado de ánimo tranquilo.",
+        "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "suplements",
         "img": "5_htp.png",
@@ -456,6 +456,7 @@
 
     {
         "name": "Proteína de Suero (Chocolate)",
+        "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
         "img": "proteina_suero_chocolate.png",
@@ -467,6 +468,7 @@
     },
     {
         "name": "Proteína de Suero (Vainilla)",
+        "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
         "img": "proteina_suero_vainilla.png",
@@ -478,6 +480,7 @@
     },
     {
         "name": "Proteína de Huevo (Vainilla)",
+        "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
         "img": "proteina_huevo_vainilla.png",
@@ -489,6 +492,7 @@
     },
     {
         "name": "Creatina",
+        "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
         "category": "proteins",
         "img": "creatina.png",
@@ -500,6 +504,7 @@
     },
     {
         "name": "Creatina Monohidratada",
+        "short_description": "",
         "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
         "category": "proteins",
         "img": "creatina_monohidratada.png",
@@ -510,7 +515,8 @@
         "cpe": "0724563632"
     },
     {
-        "name": "Cólageno Hidrolizado en Polvo",
+        "name": "Cólageno Hidrolizado",
+        "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "proteins",
         "img": "colageno_hidrolizado.png",

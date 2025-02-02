@@ -212,7 +212,7 @@ body {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	white-space: normal;
-  margin-bottom: .25rem;
+  margin-bottom: .2rem;
 }
 .product-card .card-text {
   display: none;
@@ -287,6 +287,9 @@ body {
   .product-card .card-img-top {
     padding-top: .75rem;
     padding-bottom: .75rem;
+  }
+  .product-card .card-title {
+    margin-bottom: .25rem;
   }
   .product-card .card-text {
     font-size: .9rem;
