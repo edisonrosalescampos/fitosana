@@ -5,7 +5,7 @@
     <br />
 
     <!--VITAMINAS-->
-    <section class="product-section">
+    <section class="product-section" id="vitamins">
       <div class="subheader">
         <h6 class="title">Vitaminas</h6>
       </div>
@@ -14,7 +14,7 @@
     </section>
 
     <!--SUPLEMENTOS-->
-    <section class="product-section">
+    <section class="product-section" id="suplements">
       <div class="subheader">
         <h6 class="title">Suplementos</h6>
       </div>
@@ -23,7 +23,7 @@
     </section>
 
     <!--MINERALES-->
-    <section class="product-section">
+    <section class="product-section" id="minerals">
       <div class="subheader">
         <h6 class="title">Minerales</h6>
       </div>
@@ -32,7 +32,7 @@
     </section>
 
     <!--MAGNESIOS-->
-    <section class="product-section">
+    <section class="product-section" id="magnesiums">
       <div class="subheader">
         <h6 class="title">Magnesios</h6>
       </div>
@@ -41,7 +41,7 @@
     </section>
 
     <!--PROTEINAS-->
-    <section class="product-section">
+    <section class="product-section" id="proteins">
       <div class="subheader">
         <h6 class="title">Proteínas</h6>
       </div>

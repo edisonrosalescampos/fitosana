@@ -13,8 +13,18 @@ const router = createRouter({
         { name: "Products", path: "/products", component: ProductsView },
         { name: "ProductDetails", path: "/product/:slug", component: ProductDetailsView }
     ],
-    scrollBehavior() {
-        document.getElementById('app').scrollIntoView({ behavior: 'smooth' });
+    scrollBehavior(to, from, savedPosition) {        
+        if (to.hash) {
+            return { 
+                el: to.hash,
+                behavior: "smooth"
+            };
+        }
+
+        return {
+            top: 5,
+            behavior: "smooth"
+        }
     }
 })
 

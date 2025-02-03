@@ -1,7 +1,7 @@
 <template>
   <div class="container my-4 product-page">
     <div class="mb-4">
-      <RouterLink to="/">
+      <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
         <button class="btn btn-primary btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
@@ -47,7 +47,7 @@
     </div>
 
     <div class="mt-4 d-md-none">
-      <RouterLink to="/">
+      <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
         <button class="btn btn-primary btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
