@@ -265,22 +265,6 @@
         ],
         "approval_number": "A-162.830",
         "cpe": "1223550881"
-    },
-    {
-        "name": "Macho Viril",
-        "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
-        "description": "Incrementa la energía sexual y la función eréctil.",
-        "category": "suplements",
-        "img": "macho_viril.png",
-        "elements": [
-            {"name": "Ginseng Koreano", "qty": "290mg"},
-            {"name": "Ginseng Rojo", "qty": "95mg"},
-            {"name": "Maca", "qty": "58mg"},
-            {"name": "Ginkgo Biloba", "qty": "29mcg"},
-            {"name": "Jengibre", "qty": "8mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     }, 
     {
         "name": "Chanca Piedra",
@@ -411,6 +395,77 @@
         "approval_number": "A-000.00",
         "cpe": "1024572005"
     },
+    {
+        "name": "Ginkgo Biloba",
+        "short_description": "",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "suplements",
+        "img": "ginkgo_biloba.png",
+        "elements": [
+            {"name": "Castaño de India", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Fenogreco",
+        "short_description": "",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "suplements",
+        "img": "fenogreco.png",
+        "elements": [
+            {"name": "Fenogreco", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Prosta Sana",
+        "short_description": "",
+        "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
+        "category": "prostate",
+        "img": "prosta_sana.png",
+        "elements": [
+            {"name": "Prosta Sana", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Saw Palmetto",
+        "short_description": "",
+        "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
+        "category": "prostate",
+        "img": "saw_palmetto.png",
+        "elements": [
+            {"name": "Saw Palmetto", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Macho Viril",
+        "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
+        "description": "Incrementa la energía sexual y la función eréctil.",
+        "category": "prostate",
+        "img": "macho_viril.png",
+        "elements": [
+            {"name": "Ginseng Koreano", "qty": "290mg"},
+            {"name": "Ginseng Rojo", "qty": "95mg"},
+            {"name": "Maca", "qty": "58mg"},
+            {"name": "Ginkgo Biloba", "qty": "29mcg"},
+            {"name": "Jengibre", "qty": "8mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -525,6 +580,19 @@
             {"name": "Biotina", "qty": "30mcg"},
             {"name": "Vitamina E", "qty": "10mg"}
         ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Miel de Abejas",
+        "short_description": "",
+        "description": "",
+        "category": "honey",
+        "img": "miel.png",
+        "elements": [],
         "approval_number": "A-000.00",
         "cpe": "000000000"
     }

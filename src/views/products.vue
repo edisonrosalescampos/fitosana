@@ -40,6 +40,15 @@
       <ProductList :products="magnesiums" />
     </section>
 
+    <!--PRÓSTATA-->
+    <section class="product-section" id="prostate">
+      <div class="subheader">
+        <h6 class="title">Próstata</h6>
+      </div>
+
+      <ProductList :products="prostate" />
+    </section>
+
     <!--PROTEINAS-->
     <section class="product-section" id="proteins">
       <div class="subheader">
@@ -47,6 +56,15 @@
       </div>
 
       <ProductList :products="proteins" />
+    </section>
+
+    <!--MIEL-->
+    <section class="product-section" id="honey">
+      <div class="subheader">
+        <h6 class="title">Miel</h6>
+      </div>
+
+      <ProductList :products="honey" />
     </section>
   </div>
 
@@ -85,6 +103,14 @@ export default {
     },
     proteins() {
       let filteredResults = this.products.filter(item => item.category == "proteins");
+      return this.sortAscByName(filteredResults);
+    },
+    prostate() {
+      let filteredResults = this.products.filter(item => item.category == "prostate");
+      return this.sortAscByName(filteredResults);
+    },
+    honey() {
+      let filteredResults = this.products.filter(item => item.category == "honey");
       return this.sortAscByName(filteredResults);
     }
   },

@@ -20,17 +20,21 @@
 
         <br/>
 
-        <h6 class="fw-semibold">CONTIENE:</h6>
+        <template v-if="product.elements">
 
-        <ul>
-          <li v-for="element in product.elements" :key="element.name">
-            <p class="mb-1">
-              {{ element.name }} <span class="badge rounded-pill bg-secondary ms-1">{{ element.qty }} </span>
-            </p>
-          </li>
-        </ul>
+          <h6 class="fw-semibold">CONTIENE:</h6>
 
-        <br/>
+          <ul>
+            <li v-for="element in product.elements" :key="element.name">
+              <p class="mb-1">
+                {{ element.name }} <span class="badge rounded-pill bg-secondary ms-1">{{ element.qty }} </span>
+              </p>
+            </li>
+          </ul>
+
+          <br/>
+
+        </template>
 
         <div class="d-flex justify-content-center justify-content-md-start">
           <div class="badge custom-badge">
