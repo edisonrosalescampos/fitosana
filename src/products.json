@@ -397,7 +397,7 @@
     },
     {
         "name": "Ginkgo Biloba",
-        "short_description": "",
+        "short_description": "Ayuda a aumentar la vitalidad mental.",
         "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
         "category": "suplements",
         "img": "ginkgo_biloba.png",
@@ -413,7 +413,7 @@
     },
     {
         "name": "Fenogreco",
-        "short_description": "",
+        "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
         "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
         "category": "suplements",
         "img": "fenogreco.png",
@@ -428,7 +428,7 @@
 
     {
         "name": "Prosta Sana",
-        "short_description": "",
+        "short_description": "Previene el cáncer de próstata.",
         "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
         "category": "prostate",
         "img": "prosta_sana.png",
@@ -440,7 +440,7 @@
     },
     {
         "name": "Saw Palmetto",
-        "short_description": "",
+        "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
         "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
         "category": "prostate",
         "img": "saw_palmetto.png",
