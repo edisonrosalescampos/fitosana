@@ -276,14 +276,12 @@ body {
 /* ***** LOTTERY ***** */
 .lottery {
   position: relative;
-  padding-top: 120%;
 }
 .lottery .img-thumbnail {
-  position: absolute;
-  top: 0;
-  height: 100%;
   width: 100%;
+  padding: 0;
   border: 0;
+  border-radius: 2px;
   object-fit: scale-down;  
 }
 
