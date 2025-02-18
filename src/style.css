@@ -273,6 +273,22 @@ body {
 }
 
 
+/* ***** LOTTERY ***** */
+.lottery {
+  position: relative;
+  padding-top: 120%;
+}
+.lottery .img-thumbnail {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+  object-fit: scale-down;  
+}
+
+
+
 /* ***** RESPONSIVE ***** */
 @media (min-width: 576px) { 
   .social {
