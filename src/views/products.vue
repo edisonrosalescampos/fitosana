@@ -1,10 +1,8 @@
 <template>
   <div class="container-fluid container-xl my-4">
-    <div class="lottery d-sm-none">
+    <!--<div class="lottery d-sm-none">
       <img class="img-thumbnail" src="/images/rifa_proteina.png" alt="Rifa Proteina">
-    </div>
-
-    <br />
+    </div>-->
 
     <h3 class="title mb-0 text-center">PRODUCTOS</h3>
 

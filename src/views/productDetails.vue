@@ -20,8 +20,7 @@
 
         <br/>
 
-        <template v-if="product.elements">
-
+        <template v-if="productElementsLength > 0">
           <h6 class="fw-semibold">CONTIENE:</h6>
 
           <ul>
@@ -33,7 +32,6 @@
           </ul>
 
           <br/>
-
         </template>
 
         <div class="d-flex justify-content-center justify-content-md-start">
@@ -69,6 +67,11 @@ export default {
   data: () => ({
     product: {}
   }),
+  computed: {
+    productElementsLength() {
+      return this.product.hasOwnProperty("elements") ? this.product.elements.length : 0;
+    }
+  },  
   methods: {
     getImage(filename) {
       return "./images/" + filename; 

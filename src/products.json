@@ -174,7 +174,21 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
+    },  
+    {
+        "name": "Centrunex",
+        "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
+        "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas, piel y cabello.",
+        "category": "vitamins",
+        "img": "centrunex.png",
+        "elements": [
+            {"name": "Vitaminas Complejo B", "qty": "240mg"},
+            {"name": "Ginseng Koreano", "qty": "120mg"},
+            {"name": "Ginseng Biloba", "qty": "120mg"}
+        ],
+        "approval_number": "A-165.179",
+        "cpe": "0724563636"
+    },   
 
 
 
@@ -423,6 +437,18 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Omega 3",
+        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
+        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
+        "category": "suplements",
+        "img": "omega3.png",
+        "elements": [
+            {"name": "Aceite de Pescado", "qty": "753mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -587,7 +613,17 @@
 
 
     {
-        "name": "Miel de Abejas",
+        "name": "Miel de Abejas 500gr",
+        "short_description": "",
+        "description": "",
+        "category": "honey",
+        "img": "miel_500gr.png",
+        "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Miel de Abejas 1kg",
         "short_description": "",
         "description": "",
         "category": "honey",
