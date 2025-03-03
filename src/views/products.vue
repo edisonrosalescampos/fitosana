@@ -8,68 +8,72 @@
 
     <br />
 
-    <!--VITAMINAS-->
-    <section class="product-section" id="vitamins">
-      <div class="subheader">
-        <h6 class="title">Vitaminas</h6>
-      </div>
+    <SearchBox />
 
-      <ProductList :products="vitamins" />
-    </section>
+    <br />
 
-    <!--SUPLEMENTOS-->
-    <section class="product-section" id="suplements">
-      <div class="subheader">
-        <h6 class="title">Suplementos</h6>
-      </div>
+    <template v-if="$store.state.isSearchActive">
+      <template v-if="$store.state.filteredProducts.length > 0">
+        <ProductGroup 
+          :title="'Resultados Encontrados (' + $store.state.filteredProducts.length + ')'"       
+          :products="$store.state.filteredProducts" 
+          category="foundresults" 
+        />
+      </template>
+      <template v-else>
+        <p class="text-muted text-center">No se encontraron resultados...</p>
+      </template>
+    </template>
+    <template v-else>
+      <!--VITAMINAS-->
+      <ProductGroup 
+        title="Vitaminas"       
+        :products="vitamins" 
+        category="vitamins" 
+      />
 
-      <ProductList :products="suplements" />
-    </section>
+      <!--SUPLEMENTOS-->
+      <ProductGroup 
+        title="Suplementos"      
+        :products="suplements" 
+        category="suplements" 
+      />
 
-    <!--MINERALES-->
-    <section class="product-section" id="minerals">
-      <div class="subheader">
-        <h6 class="title">Minerales</h6>
-      </div>
+      <!--MINERALES-->
+      <ProductGroup 
+        title="Minerales"
+        :products="minerals" 
+        category="minerals"
+      />
 
-      <ProductList :products="minerals" />
-    </section>
+      <!--MAGNESIOS-->
+      <ProductGroup 
+        title="Magnesios"      
+        :products="magnesiums"
+        category="magnesiums"  
+      />
 
-    <!--MAGNESIOS-->
-    <section class="product-section" id="magnesiums">
-      <div class="subheader">
-        <h6 class="title">Magnesios</h6>
-      </div>
+      <!--PRÓSTATA-->
+      <ProductGroup 
+        title="Próstata"        
+        :products="prostate" 
+        category="prostate"
+      />
 
-      <ProductList :products="magnesiums" />
-    </section>
+      <!--PROTEINAS-->
+      <ProductGroup 
+        title="Proteínas"       
+        :products="proteins" 
+        category="proteins" 
+      />
 
-    <!--PRÓSTATA-->
-    <section class="product-section" id="prostate">
-      <div class="subheader">
-        <h6 class="title">Próstata</h6>
-      </div>
-
-      <ProductList :products="prostate" />
-    </section>
-
-    <!--PROTEINAS-->
-    <section class="product-section" id="proteins">
-      <div class="subheader">
-        <h6 class="title">Proteínas</h6>
-      </div>
-
-      <ProductList :products="proteins" />
-    </section>
-
-    <!--MIEL-->
-    <section class="product-section" id="honey">
-      <div class="subheader">
-        <h6 class="title">Miel</h6>
-      </div>
-
-      <ProductList :products="honey" />
-    </section>
+      <!--MIEL-->
+      <ProductGroup 
+        title="Miel"        
+        :products="honey" 
+        category="honey"
+      />
+    </template>
   </div>
 
   <br />
@@ -78,50 +82,93 @@
 
 <script>
 import productsJson from '../products.json';
-import ProductList from '../components/products/ProductList.vue';
+import SearchBox from '../components/layout/SearchBox.vue';
+import ProductGroup from '../components/products/ProductGroup.vue';
 
 export default {
   name: "Products",
   components: {
-    ProductList
+    SearchBox,
+    ProductGroup    
   },
   data: () => ({
     products: productsJson
   }),
   computed: {
     vitamins() {
-      let filteredResults = this.products.filter(item => item.category == "vitamins");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "vitamins");
+
       return this.sortAscByName(filteredResults);
     },
     suplements() {
-      let filteredResults = this.products.filter(item => item.category == "suplements");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "suplements");
+
       return this.sortAscByName(filteredResults);
     },
     minerals() {
-      let filteredResults = this.products.filter(item => item.category == "minerals");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "minerals");
+
       return this.sortAscByName(filteredResults);
     },
     magnesiums() {
-      let filteredResults = this.products.filter(item => item.category == "magnesiums");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "magnesiums");
+
       return this.sortAscByName(filteredResults);
     },
     proteins() {
-      let filteredResults = this.products.filter(item => item.category == "proteins");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "proteins");
+
       return this.sortAscByName(filteredResults);
     },
     prostate() {
-      let filteredResults = this.products.filter(item => item.category == "prostate");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "prostate");
+      
       return this.sortAscByName(filteredResults);
     },
     honey() {
-      let filteredResults = this.products.filter(item => item.category == "honey");
+      let filteredResults = this.$store.state.products.filter(item => item.category == "honey");
+      
       return this.sortAscByName(filteredResults);
     }
   },
   methods: {
     sortAscByName(arr) {
       return arr.sort((a, b) => a.name.localeCompare(b.name));
-    }
+    },
+  },
+  created() {
+    this.$store.state.products = productsJson;
+  },
+  watch: {
+    "$store.state.search": {
+      handler(newVal, oldVal) {
+        // console.log(newVal);
+
+        if (!!newVal) {
+          this.$store.state.isSearchActive = true;
+
+          const filteredResults = this.$store.state.products.filter(item => {
+            let match = false;
+            if (item.name.toLowerCase().includes(newVal.toLowerCase())) {
+              match = true;
+            }
+            else if (item.short_description.toLowerCase().includes(newVal.toLowerCase())) {
+              match = true;
+            }
+            else if (item.description.toLowerCase().includes(newVal.toLowerCase())) {
+              match = true;
+            }
+
+            if (match) return item;
+          });
+
+          this.$store.state.filteredProducts = this.sortAscByName(filteredResults);
+        } else {
+          this.$store.state.isSearchActive = false;
+        }
+      },
+      deep: true 
+    }   
   }
 }
 </script>

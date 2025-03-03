@@ -286,6 +286,25 @@ body {
 }
 
 
+/* ***** SEARCH BOX ***** */
+.search-box {
+  align-items: center;
+}
+.search-box .form-control {
+  font-size: .9rem;
+  border-radius: 20px !important;
+  padding-left: 1rem;
+  padding-right: 2.25rem;
+}
+.search-box .input-group-text {
+	position: absolute;
+	right: 0;
+	z-index: 10;
+	background-color: transparent;
+	border: 0;
+	cursor: not-allowed;
+	color: #6c757d;
+}
 
 /* ***** RESPONSIVE ***** */
 @media (min-width: 576px) { 

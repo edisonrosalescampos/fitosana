@@ -22,7 +22,7 @@ const router = createRouter({
         }
 
         return {
-            top: 5,
+            top: 1,
             behavior: "smooth"
         }
     }
