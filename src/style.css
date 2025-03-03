@@ -295,6 +295,8 @@ body {
   border-radius: 20px !important;
   padding-left: 1rem;
   padding-right: 2.25rem;
+  height: 36px;
+  border: 2px solid #eee;
 }
 .search-box .input-group-text {
 	position: absolute;

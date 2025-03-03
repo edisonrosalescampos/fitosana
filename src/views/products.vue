@@ -149,13 +149,13 @@ export default {
 
           const filteredResults = this.$store.state.products.filter(item => {
             let match = false;
-            if (item.name.toLowerCase().includes(newVal.toLowerCase())) {
+            if (item.name.toLowerCase().includes(newVal.trim().toLowerCase())) {
               match = true;
             }
-            else if (item.short_description.toLowerCase().includes(newVal.toLowerCase())) {
+            else if (item.short_description.toLowerCase().includes(newVal.trim().toLowerCase())) {
               match = true;
             }
-            else if (item.description.toLowerCase().includes(newVal.toLowerCase())) {
+            else if (item.description.toLowerCase().includes(newVal.trim().toLowerCase())) {
               match = true;
             }
 
