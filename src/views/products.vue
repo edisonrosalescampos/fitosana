@@ -60,6 +60,13 @@
         category="prostate"
       />
 
+      <!--AMINOÁCIDOS-->
+      <ProductGroup 
+        title="Aminoácidos"        
+        :products="aminoAcids" 
+        category="aminoAcids"
+      />
+
       <!--PROTEINAS-->
       <ProductGroup 
         title="Proteínas"       
@@ -122,6 +129,11 @@ export default {
     },
     prostate() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "prostate");
+      
+      return this.sortAscByName(filteredResults);
+    },
+    aminoAcids() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "amino acids");
       
       return this.sortAscByName(filteredResults);
     },

@@ -449,6 +449,97 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Boldo",
+        "short_description": "",
+        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
+        "category": "suplements",
+        "img": "boldo.png",
+        "elements": [
+            {"name": "Boldo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ajo",
+        "short_description": "",
+        "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
+        "category": "suplements",
+        "img": "ajo.png",
+        "elements": [
+            {"name": "Polvos Bulbos", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ajo Perejil",
+        "short_description": "",
+        "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
+        "category": "suplements",
+        "img": "ajo_perejil.png",
+        "elements": [
+            {"name": "Polvos Bulbos", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Acidophilus",
+        "short_description": "",
+        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
+        "category": "suplements",
+        "img": "acidophilus.png",
+        "elements": [
+            {"name": "Acidophilus", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cola de Caballo",
+        "short_description": "",
+        "description": "Ayuda a reducir la retención de líquidos, ayuda a tratar los riñones si tienen algún trastorno y mejora la salud de la vejiga.",
+        "category": "suplements",
+        "img": "cola_caballo.png",
+        "elements": [
+            {"name": "Cola de Caballo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Quinchoncho",
+        "short_description": "",
+        "description": "Disminuye los efectos causados por la rinitis y sinusitis. Ideal para los tratamientos que combaten la congestión nasal y afecciones respiratorias.",
+        "category": "suplements",
+        "img": "quinchoncho.png",
+        "elements": [
+            {"name": "Quinchoncho", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Quiste Ginol",
+        "short_description": "",
+        "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
+        "category": "suplements",
+        "img": "quiste_ginol.png",
+        "elements": [
+            {"name": "Caléndula", "qty": "110mg"},
+            {"name": "Centella Asiática", "qty": "100mg"},
+            {"name": "Graviola", "qty": "80mg"},
+            {"name": "Cola de Caballo", "qty": "60mg"},
+            {"name": "Té verde", "qty": "60mg"},
+            {"name": "Muérdago", "qty": "30mg"},
+            {"name": "Cúrcuma", "qty": "30mg"},
+            {"name": "Uña de gato", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -496,6 +587,21 @@
 
 
     {
+        "name": "L-Arginina",
+        "short_description": "",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
+        "category": "amino acids",
+        "img": "l_arginina.png",
+        "elements": [
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
+        ],
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
+    },
+
+
+
+    {
         "name": "Magnesio + Melatonina",
         "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
         "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
@@ -534,9 +640,32 @@
     },
 
 
-
     {
-        "name": "Proteína de Suero (Chocolate)",
+        "name": "Proteína de Suero 400gr (Chocolate)",
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
+        "category": "proteins",
+        "img": "proteina_suero_chocolate_400gr.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Proteína de Suero 400gr (Vainilla)",
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_suero_vainilla_400gr.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Proteína de Suero 907gr (Chocolate)",
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -548,7 +677,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Proteína de Suero (Vainilla)",
+        "name": "Proteína de Suero 907gr (Vainilla)",
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -560,7 +689,7 @@
         "cpe": "0724563818"
     },
     {
-        "name": "Proteína de Huevo (Vainilla)",
+        "name": "Proteína de Huevo 907gr (Vainilla)",
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
