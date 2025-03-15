@@ -540,6 +540,22 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Circulación",
+        "short_description": "",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "suplements",
+        "img": "circulacion.png",
+        "elements": [
+            {"name": "Castaño de India", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -638,6 +654,23 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Magnesio + Potasio",
+        "short_description": "",
+        "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
+        "category": "magnesiums",
+        "img": "magnesio_potasio.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "280mg"},
+            {"name": "Citrato de Magnesio", "qty": "120mg"},
+            {"name": "Ácido Ascórbico", "qty": "80mg"}
+        ],
+        "approval_number": "A-165.226",
+        "cpe": "0724563659"
+    },
+
+
+
 
 
     {
