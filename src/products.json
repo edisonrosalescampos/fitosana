@@ -1,6 +1,7 @@
 [
     {
         "name": "Citrato de Potasio",
+        "price": 12,
         "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
         "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
         "category": "minerals",
@@ -13,10 +14,11 @@
     },
     {
         "name": "Selenio",
+        "price": 12,
         "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
         "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
         "category": "minerals",
-        "img": "selenio.png",
+        "img": "selenio.png",        
         "elements": [
             {"name": "Selenio", "qty": "200mg"}
         ],
@@ -25,6 +27,7 @@
     },
     {
         "name": "Zinc",
+        "price": 12,
         "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
         "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
         "category": "minerals",
@@ -41,6 +44,7 @@
 
     {
         "name": "Complejo B",
+        "price": 12,
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
         "description": "Mantiene la salud cerebral, cardíaca, la formación del ADN y la regulación de la energía. Previene las migrañas y reduce los síntomas de depresión y ansiedad.",
         "category": "vitamins",
@@ -60,6 +64,7 @@
     },
     {
         "name": "Biotina",
+        "price": 12,
         "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
         "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
         "category": "vitamins",
@@ -73,6 +78,7 @@
     },
     {
         "name": "Colágeno",
+        "price": 12,
         "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
         "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
         "category": "vitamins",
@@ -85,6 +91,7 @@
     },
     {
         "name": "Vitamina C",
+        "price": 12,
         "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
         "description": "Fortalece el sistema inmunológico, antioxidante, ayuda a la salud de la piel, previene enfermedades degenerativas y mejora la vista.",
         "category": "vitamins",
@@ -97,6 +104,7 @@
     },
     {
         "name": "Vitamina D3",
+        "price": 12,
         "short_description": "Apoya la salud ósea y el sistema inmunológico.",
         "description": "Ayuda a tener huesos, músculos y nervios saludables y apoya el sistema inmunitario. Extrae el calcio de los alimentos y mejora el funcionamiento de los músculos.",
         "category": "vitamins",
@@ -109,6 +117,7 @@
     },
     {
         "name": "Vitamina E",
+        "price": 12,
         "short_description": "Mantén tu sistema inmunitario fuerte.",
         "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
         "category": "vitamins",
@@ -121,6 +130,7 @@
     },
     {
         "name": "Centrunex Silver",
+        "price": 12,
         "short_description": "Multivitamínico para adultos mayores de 50 años.",
         "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
         "category": "vitamins",
@@ -147,6 +157,7 @@
     },
     {
         "name": "Vibazina",
+        "price": 12,
         "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
         "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
         "category": "vitamins",
@@ -164,6 +175,7 @@
     },      
     {
         "name": "Vitamina D3 + K2",
+        "price": 12,
         "short_description": "Ayuda a tu salud ósea, cardiovascular, inmunológica, mental y cutánea.",
         "description": "Mejora la salud ósea, la salud cardiovascular y el sistema inmunitario. Ayuda a absorber mejor el calcio y previene la calcificación de las arterias.",
         "category": "vitamins",
@@ -177,6 +189,7 @@
     },  
     {
         "name": "Centrunex",
+        "price": 12,
         "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
         "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas, piel y cabello.",
         "category": "vitamins",
@@ -194,6 +207,7 @@
 
     {
         "name": "Centella Asiática",
+        "price": 12,
         "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
         "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
         "category": "suplements",
@@ -206,6 +220,7 @@
     },
     {
         "name": "Vinagre de Manzana",
+        "price": 12,
         "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
         "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
         "category": "suplements",
@@ -218,6 +233,7 @@
     },
     {
         "name": "Graviola",
+        "price": 12,
         "short_description": "Ayuda al tratamiento de miomas y quistes.",
         "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
         "category": "suplements",
@@ -230,6 +246,7 @@
     },
     {
         "name": "Mapurite",
+        "price": 12,
         "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
         "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
         "category": "suplements",
@@ -242,6 +259,7 @@
     },
     {
         "name": "Castaño de Indias",
+        "price": 12,
         "short_description": "Mejora la circulación sanguínea.",
         "description": "Mejora la circulación venosa, evita la caída de cabello, celulitis y tiene propiedades antiinflamatorias.",
         "category": "suplements",
@@ -254,6 +272,7 @@
     },
     {
         "name": "Ñame Salvaje",
+        "price": 12,
         "short_description": "Es usado para mitigar los efectos de la menopausia.",
         "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
         "category": "suplements",
@@ -270,6 +289,7 @@
     }, 
     {
         "name": "Levadura de Cerveza",
+        "price": 12,
         "short_description": "Ayuda a la prevención de la anemia.",
         "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
         "category": "suplements",
@@ -282,6 +302,7 @@
     }, 
     {
         "name": "Chanca Piedra",
+        "price": 12,
         "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
         "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
         "category": "suplements",
@@ -294,6 +315,7 @@
     },
     {
         "name": "Calostro Bovino",
+        "price": 12,
         "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
         "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
         "category": "suplements",
@@ -306,6 +328,7 @@
     },
     {
         "name": "Resveratrol",
+        "price": 12,
         "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
         "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
         "category": "suplements",
@@ -318,6 +341,7 @@
     },
     {
         "name": "Glucosamina Condroitina",
+        "price": 12,
         "short_description": "Estimula la formación y reparación del cartílago articulatorio",
         "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
         "category": "suplements",
@@ -331,6 +355,7 @@
     },
     {
         "name": "5-HTP",
+        "price": 12,
         "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "suplements",
@@ -343,6 +368,7 @@
     },
     {
         "name": "Valeriana",
+        "price": 12,
         "short_description": "Actúa como sedante y relajante nervioso.",
         "description": "Combate el dolor de cabeza, cólicos intestinales, dolores reumáticos, dismenorreas y elimina la intranquilidad.",
         "category": "suplements",
@@ -355,6 +381,7 @@
     },
     {
         "name": "Cúrcuma",
+        "price": 12,
         "short_description": "Eleva el sistema inmunológico.",
         "description": "Previene la arterioesclerosis, alivia los problemas digestivos. Aporta beneficios al hígado, reduce el dolor de la artritis y ayuda a adelgazar.",
         "category": "suplements",
@@ -367,6 +394,7 @@
     },
     {
         "name": "Tumba Barriga",
+        "price": 12,
         "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
         "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
         "category": "suplements",
@@ -383,6 +411,7 @@
     },
     {
         "name": "Ginseng Koreano",
+        "price": 12,
         "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
         "description": "Aumenta la actividad mental y el deseo sexual.",
         "category": "suplements",
@@ -395,6 +424,7 @@
     },
     {
         "name": "Aguaje",
+        "price": 12,
         "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
         "description": "Aumenta el busto y los glúteos, mantiene la piel joven y tiene propiedades analgésicas, antibióticas y antiinflamatorias.",
         "category": "suplements",
@@ -411,6 +441,7 @@
     },
     {
         "name": "Ginkgo Biloba",
+        "price": 12,
         "short_description": "Ayuda a aumentar la vitalidad mental.",
         "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
         "category": "suplements",
@@ -427,6 +458,7 @@
     },
     {
         "name": "Fenogreco",
+        "price": 12,
         "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
         "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
         "category": "suplements",
@@ -439,6 +471,7 @@
     },
     {
         "name": "Omega 3",
+        "price": 12,
         "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
         "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
         "category": "suplements",
@@ -451,6 +484,7 @@
     },
     {
         "name": "Boldo",
+        "price": 12,
         "short_description": "",
         "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
         "category": "suplements",
@@ -463,6 +497,7 @@
     },
     {
         "name": "Ajo",
+        "price": 12,
         "short_description": "",
         "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
         "category": "suplements",
@@ -475,6 +510,7 @@
     },
     {
         "name": "Ajo Perejil",
+        "price": 12,
         "short_description": "",
         "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
         "category": "suplements",
@@ -487,6 +523,7 @@
     },
     {
         "name": "Acidophilus",
+        "price": 12,
         "short_description": "",
         "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
         "category": "suplements",
@@ -499,6 +536,7 @@
     },
     {
         "name": "Cola de Caballo",
+        "price": 12,
         "short_description": "",
         "description": "Ayuda a reducir la retención de líquidos, ayuda a tratar los riñones si tienen algún trastorno y mejora la salud de la vejiga.",
         "category": "suplements",
@@ -511,6 +549,7 @@
     },
     {
         "name": "Quinchoncho",
+        "price": 12,
         "short_description": "",
         "description": "Disminuye los efectos causados por la rinitis y sinusitis. Ideal para los tratamientos que combaten la congestión nasal y afecciones respiratorias.",
         "category": "suplements",
@@ -523,6 +562,7 @@
     },
     {
         "name": "Quiste Ginol",
+        "price": 12,
         "short_description": "",
         "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
         "category": "suplements",
@@ -542,6 +582,7 @@
     },
     {
         "name": "Circulación",
+        "price": 12,
         "short_description": "",
         "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
         "category": "suplements",
@@ -561,6 +602,7 @@
 
     {
         "name": "Prosta Sana",
+        "price": 12,
         "short_description": "Previene el cáncer de próstata.",
         "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
         "category": "prostate",
@@ -573,6 +615,7 @@
     },
     {
         "name": "Saw Palmetto",
+        "price": 12,
         "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
         "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
         "category": "prostate",
@@ -585,6 +628,7 @@
     },
     {
         "name": "Macho Viril",
+        "price": 12,
         "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
         "description": "Incrementa la energía sexual y la función eréctil.",
         "category": "prostate",
@@ -604,6 +648,7 @@
 
     {
         "name": "L-Arginina",
+        "price": 12,
         "short_description": "",
         "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
         "category": "amino acids",
@@ -619,6 +664,7 @@
 
     {
         "name": "Magnesio + Melatonina",
+        "price": 12,
         "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
         "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
         "category": "magnesiums",
@@ -632,6 +678,7 @@
     },
     {
         "name": "Citrato de Magnesio",
+        "price": 12,
         "short_description": "Regula la función de los músculos y del sistema nervioso.",
         "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
         "category": "magnesiums",
@@ -644,6 +691,7 @@
     },
     {
         "name": "Glicinato de Magnesio",
+        "price": 12,
         "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
         "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
         "category": "magnesiums",
@@ -656,6 +704,7 @@
     },
     {
         "name": "Magnesio + Potasio",
+        "price": 12,
         "short_description": "",
         "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
         "category": "magnesiums",
@@ -675,6 +724,7 @@
 
     {
         "name": "Proteína de Suero 400gr (Chocolate)",
+        "price": 23,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -687,6 +737,7 @@
     },
     {
         "name": "Proteína de Suero 400gr (Vainilla)",
+        "price": 23,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -699,6 +750,7 @@
     },
     {
         "name": "Proteína de Suero 907gr (Chocolate)",
+        "price": 35,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -711,6 +763,7 @@
     },
     {
         "name": "Proteína de Suero 907gr (Vainilla)",
+        "price": 35,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -723,6 +776,7 @@
     },
     {
         "name": "Proteína de Huevo 907gr (Vainilla)",
+        "price": 35,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -735,6 +789,7 @@
     },
     {
         "name": "Creatina",
+        "price": 30,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
         "category": "proteins",
@@ -747,6 +802,7 @@
     },
     {
         "name": "Creatina Monohidratada",
+        "price": 12,
         "short_description": "",
         "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
         "category": "proteins",
@@ -759,6 +815,7 @@
     },
     {
         "name": "Cólageno Hidrolizado",
+        "price": 23,
         "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "proteins",
@@ -776,6 +833,7 @@
 
     {
         "name": "Miel de Abejas 500gr",
+        "price": 9,
         "short_description": "",
         "description": "",
         "category": "honey",
@@ -786,6 +844,7 @@
     },
     {
         "name": "Miel de Abejas 1kg",
+        "price": 12,
         "short_description": "",
         "description": "",
         "category": "honey",

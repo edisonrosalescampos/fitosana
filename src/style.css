@@ -205,14 +205,18 @@ body {
   padding: .5rem .5rem 0;
 }
 .product-card .card-title {
-  font-size: 1rem;
+  font-size: .9rem;
   font-weight: 500;
   display: -webkit-box;
 	-webkit-line-clamp: 1;
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	white-space: normal;
-  margin-bottom: .2rem;
+  margin-bottom: .1rem;
+  text-decoration: none;
+}
+.product-card .card-price {
+  margin-bottom: 0;
 }
 .product-card .card-text {
   display: none;
@@ -273,6 +277,30 @@ body {
 }
 
 
+/* ***** NUTRITION FACTS ***** */
+.nutrition-facts {
+  width: 100%;
+  padding-left: 0;
+}
+.nutrition-facts li {
+  list-style: none;
+  border-bottom: 1px solid #dee2e6;
+}
+.nutrition-facts li:last-child {
+  border-bottom: 0;
+}
+.nutrition-facts .fact {  
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+}
+.nutrition-facts .element {
+  font-size: .9rem;
+}
+
+
 /* ***** LOTTERY ***** */
 .lottery {
   position: relative;
@@ -308,6 +336,8 @@ body {
 	color: #6c757d;
 }
 
+
+
 /* ***** RESPONSIVE ***** */
 @media (min-width: 576px) { 
   .social {
@@ -339,10 +369,10 @@ body {
     gap: .5rem;
   }
   .product-card .card-body {
-    padding: .75rem .5rem 1rem;
+    padding: .5rem .5rem;
   }
   .product-card .card-title {
-    margin-bottom: .25rem;
+    margin-bottom: .2rem;
   } 
   .product-card .card-text {
     display: block;
@@ -364,8 +394,8 @@ body {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
-  .product-card .card-body {
-    padding: .75rem .5rem 1rem;
+  .nutrition-facts {
+    max-width: 350px;
   }
 }
 @media (max-width: 992px) {

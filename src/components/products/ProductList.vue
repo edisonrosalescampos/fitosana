@@ -4,6 +4,7 @@
       <div class="product-item">
         <ProductItem 
           :name="product.name"
+          :price="product.price"
           :short_description="product.short_description"
           :description="product.description"
           :image="product.img"

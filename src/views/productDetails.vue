@@ -23,11 +23,11 @@
         <template v-if="productElementsLength > 0">
           <h6 class="fw-semibold">CONTIENE:</h6>
 
-          <ul>
+          <ul class="nutrition-facts">
             <li v-for="element in product.elements" :key="element.name">
-              <p class="mb-1">
-                {{ element.name }} <span class="badge rounded-pill bg-secondary ms-1">{{ element.qty }} </span>
-              </p>
+              <div class="fact">
+                <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
+              </div>
             </li>
           </ul>
 
