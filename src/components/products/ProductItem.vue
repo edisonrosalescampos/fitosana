@@ -1,7 +1,9 @@
 <template>
   <div class="card product-card">  
     <div class="card-img-container">
-      <img class="card-img-top" :src="getImage(image)" alt="...">
+      <RouterLink :to="'/product/' + getSlug(name)">
+        <img class="card-img-top" :src="getImage(image)" alt="...">
+      </RouterLink>
     </div> 
     <div class="card-body">     
       <RouterLink class="card-title" :to="'/product/' + getSlug(name)">
@@ -34,7 +36,7 @@ export default {
   },
   methods: {
     getImage(filename) {
-      return "./images/" + filename; 
+      return "./images/lite/" + filename; 
     },
     getSlug(name) {
       return name.split(" ").join("-").toLowerCase();

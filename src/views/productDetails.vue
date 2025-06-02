@@ -1,8 +1,8 @@
 <template>
   <div class="container my-4 product-page">
     <div class="mb-4">
-      <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
-        <button class="btn btn-primary btn-back">
+      <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
+        <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
       </RouterLink>      
@@ -22,14 +22,16 @@
 
         <template v-if="productElementsLength > 0">
           <h6 class="fw-semibold">CONTIENE:</h6>
-
-          <ul class="nutrition-facts">
-            <li v-for="element in product.elements" :key="element.name">
-              <div class="fact">
-                <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
-              </div>
-            </li>
-          </ul>
+          
+          <div class="col-lg-6">
+            <ul class="nutrition-facts">
+              <li v-for="element in product.elements" :key="element.name">
+                <div class="fact">
+                  <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
+                </div>
+              </li>
+            </ul>
+          </div>
 
           <br/>
         </template>
@@ -49,8 +51,8 @@
     </div>
 
     <div class="mt-4 d-md-none">
-      <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
-        <button class="btn btn-primary btn-back">
+      <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
+        <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
       </RouterLink>      
@@ -74,7 +76,7 @@ export default {
   },  
   methods: {
     getImage(filename) {
-      return "./images/" + filename; 
+      return "./images/lite/" + filename; 
     },
     getSlug(name) {
       return name.split(" ").join("-").toLowerCase();

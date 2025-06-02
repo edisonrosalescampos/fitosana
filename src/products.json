@@ -1,48 +1,5 @@
 [
     {
-        "name": "Citrato de Potasio",
-        "price": 12,
-        "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
-        "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
-        "category": "minerals",
-        "img": "citrato_potasio.png",
-        "elements": [
-            {"name": "Citrato de Potasio", "qty": "99mg"}
-        ],
-        "approval_number": "A-165.216",
-        "cpe": "0724563633"
-    },
-    {
-        "name": "Selenio",
-        "price": 12,
-        "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
-        "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
-        "category": "minerals",
-        "img": "selenio.png",        
-        "elements": [
-            {"name": "Selenio", "qty": "200mg"}
-        ],
-        "approval_number": "A-166.180",
-        "cpe": "1024572011"
-    },
-    {
-        "name": "Zinc",
-        "price": 12,
-        "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
-        "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
-        "category": "minerals",
-        "img": "zinc.png",
-        "elements": [
-            {"name": "Zinc", "qty": "50mg"},
-            {"name": "Calcio", "qty": "46mg"}
-        ],
-        "approval_number": "A-165.219",
-        "cpe": "0624562263"
-    },
-
-
-
-    {
         "name": "Complejo B",
         "price": 12,
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
@@ -201,7 +158,52 @@
         ],
         "approval_number": "A-165.179",
         "cpe": "0724563636"
-    },   
+    },  
+
+
+
+
+    {
+        "name": "Citrato de Potasio",
+        "price": 12,
+        "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
+        "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
+        "category": "minerals",
+        "img": "citrato_potasio.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "99mg"}
+        ],
+        "approval_number": "A-165.216",
+        "cpe": "0724563633"
+    },
+    {
+        "name": "Selenio",
+        "price": 12,
+        "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
+        "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
+        "category": "minerals",
+        "img": "selenio.png",        
+        "elements": [
+            {"name": "Selenio", "qty": "200mg"}
+        ],
+        "approval_number": "A-166.180",
+        "cpe": "1024572011"
+    },
+    {
+        "name": "Zinc",
+        "price": 12,
+        "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
+        "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
+        "category": "minerals",
+        "img": "zinc.png",
+        "elements": [
+            {"name": "Zinc", "qty": "50mg"},
+            {"name": "Calcio", "qty": "46mg"}
+        ],
+        "approval_number": "A-165.219",
+        "cpe": "0624562263"
+    },
+     
 
 
 
@@ -636,6 +638,20 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "L-Arginina",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
+        "category": "suplements",
+        "img": "l_arginina.png",
+        "elements": [
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
+        ],
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
+    },
+
 
 
 
@@ -685,19 +701,7 @@
 
 
 
-    {
-        "name": "L-Arginina",
-        "price": 12,
-        "short_description": "",
-        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "amino acids",
-        "img": "l_arginina.png",
-        "elements": [
-            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
-        ],
-        "approval_number": "A-166.183",
-        "cpe": "1024572005"
-    },
+    
 
 
 

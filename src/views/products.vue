@@ -60,13 +60,6 @@
         category="prostate"
       />
 
-      <!--AMINOÁCIDOS-->
-      <ProductGroup 
-        title="Aminoácidos"        
-        :products="aminoAcids" 
-        category="aminoAcids"
-      />
-
       <!--PROTEINAS-->
       <ProductGroup 
         title="Proteínas"       

@@ -1,7 +1,7 @@
 <template>
   <div class="product-grid">
-    <template v-for="product in products" :key="product.name">
-      <div class="product-item">
+    <template v-for="(product, index) in products" :key="product.name">
+      <div class="product-item" :id="product.name">
         <ProductItem 
           :name="product.name"
           :price="product.price"

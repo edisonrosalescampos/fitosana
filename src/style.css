@@ -36,26 +36,49 @@ body {
   position: relative;
   background-color: var(--green);
 }
+.header .top-wrapper {
+  background-color: var(--green-shade-300);
+  color: var(--brown);
+}
+
+
+/* ***** TOP ***** */
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+}
+
+
+/* ***** SHIPMENT ***** */
+.shipment {  
+  position: relative
+}
+.shipment-description {
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: 1pt;
+  margin-bottom: 0;
+}
 
 
 /* ***** SOCIAL NETWORKS ***** */
 .social {
-  position: absolute;
-  display: none;
-  justify-content: flex-end;
-  width: 100%;
-	padding: .75rem 1.5rem 0;  
+  position: relative;
 }
 .social ul {
   display: flex;
-  gap: 1.25rem;
+  gap: .75rem;
   margin-bottom: 0;
+  padding-left: 0;
 }
 .social ul li {
   list-style: none;
 }
 .social ul li a {
-  color: var(--green-shade-100)
+  color: var(--brown)
 }
 
 
@@ -65,10 +88,10 @@ body {
   align-items: center;
   flex-direction: column;
 	color: var(--bs-white);
-  padding: 1rem 1.25rem;
+  padding: 1.25rem;
 }
 .company-logo {
-  margin-bottom: .5rem;
+  margin-bottom: 0;
 }
 .company-logo img {
   height: 60px;
@@ -92,7 +115,7 @@ body {
 /* ***** NAVBAR ***** */
 .menu {
   background-color: var(--green-shade-300);
-  padding: .25rem .75rem;
+  padding: 0 .75rem;
 }
 .menu .nav-link {
   color: var(--brown);
@@ -275,6 +298,9 @@ body {
   height: 100%;
   object-fit: scale-down;
 }
+.product-page .btn-back {
+  border-radius: 20px;
+}
 
 
 /* ***** NUTRITION FACTS ***** */
@@ -362,7 +388,7 @@ body {
 }
 @media (min-width: 768px) { 
   .company-logo img {
-    height: 80px;
+    height: 75px;
   }
   .product-grid {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -393,9 +419,6 @@ body {
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
-  }
-  .nutrition-facts {
-    max-width: 350px;
   }
 }
 @media (max-width: 992px) {
