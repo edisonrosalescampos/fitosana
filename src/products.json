@@ -466,7 +466,10 @@
         "category": "suplements",
         "img": "fenogreco.png",
         "elements": [
-            {"name": "Fenogreco", "qty": "480mg"}
+            {"name": "Fenogreco", "qty": "320mg"},
+            {"name": "Maca", "qty": "110mg"},
+            {"name": "Aguaje", "qty": "30mg"},
+            {"name": "Harina", "qty": "20mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -650,6 +653,75 @@
         ],
         "approval_number": "A-166.183",
         "cpe": "1024572005"
+    },
+    {
+        "name": "Inositol",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
+        "category": "suplements",
+        "img": "inositol.png",
+        "elements": [
+            {"name": "Inositol", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Curcuma con Jengibre",
+        "price": 12,
+        "short_description": "",
+        "description": "Reduce la inflamación abdominal y el colesterol, antiinflamatoria. Fortalece el sistema cardiovascular y mejora la digestión.",
+        "category": "suplements",
+        "img": "curcuma_jengibre.png",
+        "elements": [
+            {"name": "Curcumina (polvo)", "qty": "240mg"},
+            {"name": "Jengibre (polvo)", "qty": "240mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Curcuma con Jengibre, Pimienta Negra y Vitamina C",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora las articulaciones del cuerpo y contribuye a su flexibilidad y movilidad.",
+        "category": "suplements",
+        "img": "curcuma_jengibre_pimienta_negra.png",
+        "elements": [
+            {"name": "Curcumina (polvo)", "qty": "260mg"},
+            {"name": "Jengibre (polvo)", "qty": "100mg"},
+            {"name": "Pimienta Negra Molida", "qty": "80mg"},
+            {"name": "Ácido Ascórbico", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cardo Lechozo",
+        "price": 12,
+        "short_description": "",
+        "description": "Previene trastornos del hígado, trata la cirrosis y baja los niveles de alcohol.", 
+        "category": "suplements",
+        "img": "cardo_lechozo.png",
+        "elements": [
+            {"name": "Cardo Lechozo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Uña de Gato",
+        "price": 12,
+        "short_description": "",
+        "description": "Evita el crecimiento de células cancerígenas, fortalece el sistema inmunológico y renegera el sistema óseo.", 
+        "category": "suplements",
+        "img": "una_gato.png",
+        "elements": [
+            {"name": "Uña de Gato", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },
 
 
