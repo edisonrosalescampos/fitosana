@@ -130,6 +130,10 @@ body {
   background-color: var(--brown);
   color: var(--bs-white);
 }
+.menu .navbar-toggler {
+  border: 2px solid var(--green);
+  border-radius: 8px;
+}
 
 
 /* ***** FOOTER ***** */

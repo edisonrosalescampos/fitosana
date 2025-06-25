@@ -158,7 +158,33 @@
         ],
         "approval_number": "A-165.179",
         "cpe": "0724563636"
-    },  
+    },
+    {
+        "name": "Inositol",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
+        "category": "vitamins",
+        "img": "inositol.png",
+        "elements": [
+            {"name": "Inositol", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "B-12",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a la formación de glóbulos rojos y ADN. Contribuye al metabolismo de proteínas y reduce la fatiga y el cansancio. Contribuye a mantener la energía de los músculos.", 
+        "category": "vitamins",
+        "img": "b_12.png",
+        "elements": [
+            {"name": "Vitamina B-12 (Cobalamina)", "qty": "1000mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
 
 
 
@@ -655,19 +681,6 @@
         "cpe": "1024572005"
     },
     {
-        "name": "Inositol",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
-        "category": "suplements",
-        "img": "inositol.png",
-        "elements": [
-            {"name": "Inositol", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Curcuma con Jengibre",
         "price": 12,
         "short_description": "",
@@ -719,6 +732,86 @@
         "img": "una_gato.png",
         "elements": [
             {"name": "Uña de Gato", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Colágeno con Vitamina C",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener una piel saludable, fortalece el sistema inmunológico, retarda la aparición de líneas de expresión e hidrata la piel.", 
+        "category": "suplements",
+        "img": "colageno_vitamina_c.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "400mg"},
+            {"name": "Vitamina C", "qty": "80mg"}
+        ],
+        "approval_number": "A-165.568",
+        "cpe": "0724563661"
+    },
+    {
+        "name": "Glucosamina",
+        "price": 12,
+        "short_description": "",
+        "description": "Alivia el dolor causado por la artritis, el agarrotamiento de los tendones y la hinchazón, acelera la curación de esguinces articulares y distensiones musculares.", 
+        "category": "suplements",
+        "img": "glucosamina.png",
+        "elements": [
+            {"name": "Glucosamina", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Moringa",
+        "price": 12,
+        "short_description": "",
+        "description": "Protege el cerebro, reduce la presión arterial, alivia el dolor articular y controla la tensión baja.", 
+        "category": "suplements",
+        "img": "moringa.png",
+        "elements": [
+            {"name": "Moringa", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Sábila con Linaza",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a la pérdida de peso, posee propiedades adelgazantes y obtiene resultados rápidos y eficientes.", 
+        "category": "suplements",
+        "img": "sabila_linaza.png",
+        "elements": [
+            {"name": "Sábila", "qty": "320mg"},
+            {"name": "Linaza", "qty": "160mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Té Verde",
+        "price": 12,
+        "short_description": "",
+        "description": "Quemador de grasas, diurético natural, laxante suave, regulador del apetito, ayuda en la eliminación de grasas y antioxidante y anticelulítico.", 
+        "category": "suplements",
+        "img": "te_verde.png",
+        "elements": [
+            {"name": "Té Verde", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cáscara Sagrada",
+        "price": 12,
+        "short_description": "",
+        "description": "Tiene efecto laxante suave, sin cólicos ni dependencia que te permite adecuarlo a tus necesidades.", 
+        "category": "suplements",
+        "img": "cascara_sagrada.png",
+        "elements": [
+            {"name": "Cáscara Sagrada", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
