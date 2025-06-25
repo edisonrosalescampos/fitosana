@@ -185,6 +185,38 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     }, 
+    {
+        "name": "Hierro",
+        "price": 12,
+        "short_description": "",
+        "description": "Fabrica la hemoglobina trata la anemia y ayuda al desarrollo y crecimiento de la persona.", 
+        "category": "vitamins",
+        "img": "hierro.png",
+        "elements": [
+            {"name": "Citrato de Hierro", "qty": "125mg"},
+            {"name": "Vitamina B1", "qty": "10mg"},
+            {"name": "Vitamina B2", "qty": "5mg"},
+            {"name": "Vitamina B3", "qty": "20mg"},
+            {"name": "Vitamina B6", "qty": "10mg"},
+            {"name": "Vitamina B12", "qty": "0,10mg"},
+            {"name": "Ácido Fólico", "qty": "400mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "Niacina",
+        "price": 12,
+        "short_description": "",
+        "description": "Reduce el colesterol, transforma alimentos en energía, evita y trata la pelagra, mejora la salud mental, la función cognitiva y el flujo sanguíneo.", 
+        "category": "vitamins",
+        "img": "niacina.png",
+        "elements": [
+            {"name": "Niacina", "qty": "500mg"}
+        ],
+        "approval_number": "A-165.255",
+        "cpe": "0724563660"
+    },
 
 
 
@@ -816,6 +848,34 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Cartílago de Tiburón",
+        "price": 12,
+        "short_description": "",
+        "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
+        "category": "suplements",
+        "img": "cartilago_tiburon.png",
+        "elements": [
+            {"name": "Cartílago de Tiburón", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Citrato de Calcio con Vitamina D",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener los dientes y huesos sanos, es posible que evite el cáncer, la diábetes y la presión arterial.", 
+        "category": "suplements",
+        "img": "citrato_calcio_vitamina_d.png",
+        "elements": [
+            {"name": "Citrato de Calcio", "qty": "400mg"},
+            {"name": "Vitamina D", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
 
 
 
@@ -924,6 +984,20 @@
         ],
         "approval_number": "A-165.226",
         "cpe": "0724563659"
+    },
+    {
+        "name": "Magnesio + Zinc",
+        "price": 12,
+        "short_description": "",
+        "description": "Trata la osteoporosis, una enfermedad donde los huesos se vuelven débiles y frágiles.", 
+        "category": "magnesiums",
+        "img": "magnesio_zinc.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "250mg"},
+            {"name": "Súlfato de Zinc", "qty": "250mg"}
+        ],
+        "approval_number": "A-165.227",
+        "cpe": "1024572010"
     },
 
 
