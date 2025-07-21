@@ -140,6 +140,9 @@ export default {
     sortAscByName(arr) {
       return arr.sort((a, b) => a.name.localeCompare(b.name));
     },
+    removeAccents(str = "") {
+      return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");;
+    }
   },
   created() {
     this.$store.state.products = productsJson;
@@ -147,20 +150,19 @@ export default {
   watch: {
     "$store.state.search": {
       handler(newVal, oldVal) {
-        // console.log(newVal);
+        // console.log(this.removeAccents(newVal));
 
         if (!!newVal) {
           this.$store.state.isSearchActive = true;
 
           const filteredResults = this.$store.state.products.filter(item => {
+            let searchTerm = this.removeAccents(newVal.trim().toLowerCase());
+
             let match = false;
-            if (item.name.toLowerCase().includes(newVal.trim().toLowerCase())) {
+            if (this.removeAccents(item.name.toLowerCase()).includes(searchTerm)) {
               match = true;
             }
-            else if (item.short_description.toLowerCase().includes(newVal.trim().toLowerCase())) {
-              match = true;
-            }
-            else if (item.description.toLowerCase().includes(newVal.trim().toLowerCase())) {
+            else if (this.removeAccents(item.description.toLowerCase()).includes(searchTerm)) {
               match = true;
             }
 
