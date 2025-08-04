@@ -76,7 +76,7 @@ export default {
   },  
   methods: {
     getImage(filename) {
-      return "./images/lite/" + filename; 
+      return "./images/hd_resized/" + filename; 
     },
     getSlug(name) {
       return name.split(" ").join("-").toLowerCase();

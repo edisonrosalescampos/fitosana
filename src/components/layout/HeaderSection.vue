@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="top-wrapper">
-      <div class="top container">
+      <div class="top container-lg">
         <div class="shipment">
           <h6 class="shipment-description">ENVÍO A TODO EL PAÍS <i class="fas fa-truck fa-flip-horizontal ms-1"></i></h6>
         </div>
