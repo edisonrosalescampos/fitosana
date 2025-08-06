@@ -875,6 +875,63 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Arándano Negro",
+        "price": 12,
+        "short_description": "",
+        "description": "Trata las afecciones oculares, evita las varices y hemorroides.", 
+        "category": "suplements",
+        "img": "arandano_negro.png",
+        "elements": [
+            {"name": "Arándano Negro", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Arándano Rojo",
+        "price": 12,
+        "short_description": "",
+        "description": "Elimina las infecciones urinarias, antixoidante y reduce el riesgo de cáncer.", 
+        "category": "suplements",
+        "img": "arandano_rojo.png",
+        "elements": [
+            {"name": "Arándano Rojo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Colon Clean",
+        "price": 12,
+        "short_description": "",
+        "description": "Limpia el cólon, elimina el estreñimiento, la pesadez y la inflamación estomacal. Mejora el metabolismo.", 
+        "category": "suplements",
+        "img": "colon_clean.png",
+        "elements": [
+            {"name": "Aloe Vera", "qty": "150mg"},
+            {"name": "Diente de León", "qty": "125mg"},
+            {"name": "Hinojo", "qty": "120mg"},
+            {"name": "Ruibarbo", "qty": "58mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Dulce Sueño",
+        "price": 12,
+        "short_description": "",
+        "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
+        "category": "suplements",
+        "img": "dulce_sueno.png",
+        "elements": [
+            {"name": "Valeriana", "qty": "240mg"},
+            {"name": "Magnesio", "qty": "120mg"},
+            {"name": "5 HTP", "qty": "120mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 

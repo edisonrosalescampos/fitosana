@@ -379,6 +379,7 @@ body {
     height: 70px;
   }
   .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: .5rem;
   }
   /*.product-card .card-img-top {
@@ -395,10 +396,6 @@ body {
 @media (min-width: 768px) { 
   .company-logo img {
     height: 75px;
-  }
-  .product-grid {
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: .5rem;
   }
   .product-card .card-body {
     padding: .5rem .5rem;
@@ -425,6 +422,10 @@ body {
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
+  }
+  .product-grid {
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: .5rem;
   }
 }
 @media (max-width: 992px) {
