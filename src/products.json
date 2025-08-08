@@ -34,19 +34,6 @@
         "cpe": "1024572006"
     },
     {
-        "name": "Colágeno",
-        "price": 12,
-        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
-        "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
-        "category": "vitamins",
-        "img": "colageno.png",
-        "elements": [
-            {"name": "Colágeno Hidrolizado", "qty": "480mg"}
-        ],
-        "approval_number": "A-165.157",
-        "cpe": "1024572008"
-    },
-    {
         "name": "Vitamina C",
         "price": 12,
         "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
@@ -186,25 +173,6 @@
         "cpe": "000000000"
     }, 
     {
-        "name": "Hierro",
-        "price": 12,
-        "short_description": "",
-        "description": "Fabrica la hemoglobina trata la anemia y ayuda al desarrollo y crecimiento de la persona.", 
-        "category": "vitamins",
-        "img": "hierro.png",
-        "elements": [
-            {"name": "Citrato de Hierro", "qty": "125mg"},
-            {"name": "Vitamina B1", "qty": "10mg"},
-            {"name": "Vitamina B2", "qty": "5mg"},
-            {"name": "Vitamina B3", "qty": "20mg"},
-            {"name": "Vitamina B6", "qty": "10mg"},
-            {"name": "Vitamina B12", "qty": "0,10mg"},
-            {"name": "Ácido Fólico", "qty": "400mcg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    }, 
-    {
         "name": "Niacina",
         "price": 12,
         "short_description": "",
@@ -261,6 +229,39 @@
         "approval_number": "A-165.219",
         "cpe": "0624562263"
     },
+    {
+        "name": "Citrato de Calcio con Vitamina D",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener los dientes y huesos sanos, es posible que evite el cáncer, la diábetes y la presión arterial.", 
+        "category": "minerals",
+        "img": "citrato_calcio_vitamina_d.png",
+        "elements": [
+            {"name": "Citrato de Calcio", "qty": "400mg"},
+            {"name": "Vitamina D", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Hierro",
+        "price": 12,
+        "short_description": "",
+        "description": "Fabrica la hemoglobina trata la anemia y ayuda al desarrollo y crecimiento de la persona.", 
+        "category": "minerals",
+        "img": "hierro.png",
+        "elements": [
+            {"name": "Citrato de Hierro", "qty": "125mg"},
+            {"name": "Vitamina B1", "qty": "10mg"},
+            {"name": "Vitamina B2", "qty": "5mg"},
+            {"name": "Vitamina B3", "qty": "20mg"},
+            {"name": "Vitamina B6", "qty": "10mg"},
+            {"name": "Vitamina B12", "qty": "0,10mg"},
+            {"name": "Ácido Fólico", "qty": "400mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
      
 
 
@@ -277,19 +278,6 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Vinagre de Manzana",
-        "price": 12,
-        "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
-        "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
-        "category": "suplements",
-        "img": "vinagre_manzana.png",
-        "elements": [
-            {"name": "Vinagre de Manzana", "qty": "480mg"}
-        ],
-        "approval_number": "A-165.230",
-        "cpe": "0724563634"
     },
     {
         "name": "Graviola",
@@ -440,36 +428,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Cúrcuma",
-        "price": 12,
-        "short_description": "Eleva el sistema inmunológico.",
-        "description": "Previene la arterioesclerosis, alivia los problemas digestivos. Aporta beneficios al hígado, reduce el dolor de la artritis y ayuda a adelgazar.",
-        "category": "suplements",
-        "img": "curcuma.png",
-        "elements": [
-            {"name": "Cúrcuma", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Tumba Barriga",
-        "price": 12,
-        "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
-        "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
-        "category": "suplements",
-        "img": "tumba_barriga.png",
-        "elements": [
-            {"name": "Grapefruit", "qty": "200mg"},
-            {"name": "Piña", "qty": "110mg"},
-            {"name": "Té verde", "qty": "90mg"},
-            {"name": "Alcachofa", "qty": "50mg"},
-            {"name": "Flor de Jamaica", "qty": "30mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Ginseng Koreano",
         "price": 12,
         "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
@@ -546,19 +504,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Boldo",
-        "price": 12,
-        "short_description": "",
-        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
-        "category": "suplements",
-        "img": "boldo.png",
-        "elements": [
-            {"name": "Boldo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Ajo",
         "price": 12,
         "short_description": "",
@@ -580,19 +525,6 @@
         "img": "ajo_perejil.png",
         "elements": [
             {"name": "Polvos Bulbos", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Acidophilus",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
-        "category": "suplements",
-        "img": "acidophilus.png",
-        "elements": [
-            {"name": "Acidophilus", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -713,36 +645,6 @@
         "cpe": "1024572005"
     },
     {
-        "name": "Curcuma con Jengibre",
-        "price": 12,
-        "short_description": "",
-        "description": "Reduce la inflamación abdominal y el colesterol, antiinflamatoria. Fortalece el sistema cardiovascular y mejora la digestión.",
-        "category": "suplements",
-        "img": "curcuma_jengibre.png",
-        "elements": [
-            {"name": "Curcumina (polvo)", "qty": "240mg"},
-            {"name": "Jengibre (polvo)", "qty": "240mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Curcuma con Jengibre, Pimienta Negra y Vitamina C",
-        "price": 12,
-        "short_description": "",
-        "description": "Mejora las articulaciones del cuerpo y contribuye a su flexibilidad y movilidad.",
-        "category": "suplements",
-        "img": "curcuma_jengibre_pimienta_negra.png",
-        "elements": [
-            {"name": "Curcumina (polvo)", "qty": "260mg"},
-            {"name": "Jengibre (polvo)", "qty": "100mg"},
-            {"name": "Pimienta Negra Molida", "qty": "80mg"},
-            {"name": "Ácido Ascórbico", "qty": "40mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Cardo Lechozo",
         "price": 12,
         "short_description": "",
@@ -767,20 +669,6 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Colágeno con Vitamina C",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a mantener una piel saludable, fortalece el sistema inmunológico, retarda la aparición de líneas de expresión e hidrata la piel.", 
-        "category": "suplements",
-        "img": "colageno_vitamina_c.png",
-        "elements": [
-            {"name": "Colágeno Hidrolizado", "qty": "400mg"},
-            {"name": "Vitamina C", "qty": "80mg"}
-        ],
-        "approval_number": "A-165.568",
-        "cpe": "0724563661"
     },
     {
         "name": "Glucosamina",
@@ -809,46 +697,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Sábila con Linaza",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a la pérdida de peso, posee propiedades adelgazantes y obtiene resultados rápidos y eficientes.", 
-        "category": "suplements",
-        "img": "sabila_linaza.png",
-        "elements": [
-            {"name": "Sábila", "qty": "320mg"},
-            {"name": "Linaza", "qty": "160mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Té Verde",
-        "price": 12,
-        "short_description": "",
-        "description": "Quemador de grasas, diurético natural, laxante suave, regulador del apetito, ayuda en la eliminación de grasas y antioxidante y anticelulítico.", 
-        "category": "suplements",
-        "img": "te_verde.png",
-        "elements": [
-            {"name": "Té Verde", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Cáscara Sagrada",
-        "price": 12,
-        "short_description": "",
-        "description": "Tiene efecto laxante suave, sin cólicos ni dependencia que te permite adecuarlo a tus necesidades.", 
-        "category": "suplements",
-        "img": "cascara_sagrada.png",
-        "elements": [
-            {"name": "Cáscara Sagrada", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Cartílago de Tiburón",
         "price": 12,
         "short_description": "",
@@ -857,20 +705,6 @@
         "img": "cartilago_tiburon.png",
         "elements": [
             {"name": "Cartílago de Tiburón", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Citrato de Calcio con Vitamina D",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a mantener los dientes y huesos sanos, es posible que evite el cáncer, la diábetes y la presión arterial.", 
-        "category": "suplements",
-        "img": "citrato_calcio_vitamina_d.png",
-        "elements": [
-            {"name": "Citrato de Calcio", "qty": "400mg"},
-            {"name": "Vitamina D", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -892,27 +726,11 @@
         "name": "Arándano Rojo",
         "price": 12,
         "short_description": "",
-        "description": "Elimina las infecciones urinarias, antixoidante y reduce el riesgo de cáncer.", 
+        "description": "Elimina las infecciones urinarias, antioxidante y reduce el riesgo de cáncer.", 
         "category": "suplements",
         "img": "arandano_rojo.png",
         "elements": [
             {"name": "Arándano Rojo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Colon Clean",
-        "price": 12,
-        "short_description": "",
-        "description": "Limpia el cólon, elimina el estreñimiento, la pesadez y la inflamación estomacal. Mejora el metabolismo.", 
-        "category": "suplements",
-        "img": "colon_clean.png",
-        "elements": [
-            {"name": "Aloe Vera", "qty": "150mg"},
-            {"name": "Diente de León", "qty": "125mg"},
-            {"name": "Hinojo", "qty": "120mg"},
-            {"name": "Ruibarbo", "qty": "58mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -932,6 +750,7 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    
 
 
 
@@ -1060,6 +879,234 @@
 
 
 
+    {
+        "name": "Colágeno",
+        "price": 12,
+        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
+        "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
+        "category": "collagens",
+        "img": "colageno.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.157",
+        "cpe": "1024572008"
+    },
+    {
+        "name": "Colágeno con Vitamina C",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener una piel saludable, fortalece el sistema inmunológico, retarda la aparición de líneas de expresión e hidrata la piel.", 
+        "category": "collagens",
+        "img": "colageno_vitamina_c.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "400mg"},
+            {"name": "Vitamina C", "qty": "80mg"}
+        ],
+        "approval_number": "A-165.568",
+        "cpe": "0724563661"
+    },
+    {
+        "name": "Colágeno con Elastina + Vitamina E y C",
+        "price": 12,
+        "short_description": "",
+        "description": "Aporta firmeza, elasticidad y flexibilidad a la piel.", 
+        "category": "collagens",
+        "img": "colageno_elastina.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "260mg"},
+            {"name": "Elastina", "qty": "124mg"},
+            {"name": "Vitamina E", "qty": "48mg"},
+            {"name": "Vitamina C", "qty": "48mg"}
+        ],
+        "approval_number": "A-165.569",
+        "cpe": "1024572007"
+    },
+    {
+        "name": "Cólageno Hidrolizado",
+        "price": 23,
+        "short_description": "",
+        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "category": "collagens",
+        "img": "colageno_hidrolizado.png",
+        "elements": [
+            {"name": "Cólageno", "qty": "15gr"},
+            {"name": "Biotina", "qty": "30mcg"},
+            {"name": "Vitamina E", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+
+
+    {
+        "name": "Cúrcuma",
+        "price": 12,
+        "short_description": "Eleva el sistema inmunológico.",
+        "description": "Previene la arterioesclerosis, alivia los problemas digestivos. Aporta beneficios al hígado, reduce el dolor de la artritis y ayuda a adelgazar.",
+        "category": "turmerics",
+        "img": "curcuma.png",
+        "elements": [
+            {"name": "Cúrcuma", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cúrcuma con Jengibre",
+        "price": 12,
+        "short_description": "",
+        "description": "Reduce la inflamación abdominal y el colesterol, antiinflamatoria. Fortalece el sistema cardiovascular y mejora la digestión.",
+        "category": "turmerics",
+        "img": "curcuma_jengibre.png",
+        "elements": [
+            {"name": "Curcumina (polvo)", "qty": "240mg"},
+            {"name": "Jengibre (polvo)", "qty": "240mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cúrcuma con Jengibre, Pimienta Negra y Vitamina C",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora las articulaciones del cuerpo y contribuye a su flexibilidad y movilidad.",
+        "category": "turmerics",
+        "img": "curcuma_jengibre_pimienta_negra.png",
+        "elements": [
+            {"name": "Curcumina (polvo)", "qty": "260mg"},
+            {"name": "Jengibre (polvo)", "qty": "100mg"},
+            {"name": "Pimienta Negra Molida", "qty": "80mg"},
+            {"name": "Ácido Ascórbico", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+
+
+    {
+        "name": "Vinagre de Manzana",
+        "price": 12,
+        "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
+        "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
+        "category": "fat burner",
+        "img": "vinagre_manzana.png",
+        "elements": [
+            {"name": "Vinagre de Manzana", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.230",
+        "cpe": "0724563634"
+    },
+    {
+        "name": "Colon Clean",
+        "price": 12,
+        "short_description": "",
+        "description": "Limpia el cólon, elimina el estreñimiento, la pesadez y la inflamación estomacal. Mejora el metabolismo.", 
+        "category": "fat burner",
+        "img": "colon_clean.png",
+        "elements": [
+            {"name": "Aloe Vera", "qty": "150mg"},
+            {"name": "Diente de León", "qty": "125mg"},
+            {"name": "Hinojo", "qty": "120mg"},
+            {"name": "Ruibarbo", "qty": "58mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Tumba Barriga",
+        "price": 12,
+        "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
+        "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
+        "category": "fat burner",
+        "img": "tumba_barriga.png",
+        "elements": [
+            {"name": "Grapefruit", "qty": "200mg"},
+            {"name": "Piña", "qty": "110mg"},
+            {"name": "Té verde", "qty": "90mg"},
+            {"name": "Alcachofa", "qty": "50mg"},
+            {"name": "Flor de Jamaica", "qty": "30mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Té Verde",
+        "price": 12,
+        "short_description": "",
+        "description": "Quemador de grasas, diurético natural, laxante suave, regulador del apetito, ayuda en la eliminación de grasas y antioxidante y anticelulítico.", 
+        "category": "fat burner",
+        "img": "te_verde.png",
+        "elements": [
+            {"name": "Té Verde", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cáscara Sagrada",
+        "price": 12,
+        "short_description": "",
+        "description": "Tiene efecto laxante suave, sin cólicos ni dependencia que te permite adecuarlo a tus necesidades.", 
+        "category": "fat burner",
+        "img": "cascara_sagrada.png",
+        "elements": [
+            {"name": "Cáscara Sagrada", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Sábila con Linaza",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a la pérdida de peso, posee propiedades adelgazantes y obtiene resultados rápidos y eficientes.", 
+        "category": "fat burner",
+        "img": "sabila_linaza.png",
+        "elements": [
+            {"name": "Sábila", "qty": "320mg"},
+            {"name": "Linaza", "qty": "160mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Acidophilus",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
+        "category": "fat burner",
+        "img": "acidophilus.png",
+        "elements": [
+            {"name": "Acidophilus", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Boldo",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
+        "category": "fat burner",
+        "img": "boldo.png",
+        "elements": [
+            {"name": "Boldo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+
+
 
     {
         "name": "Proteína de Suero 400gr (Chocolate)",
@@ -1152,21 +1199,7 @@
         "approval_number": "A-165.181",
         "cpe": "0724563632"
     },
-    {
-        "name": "Cólageno Hidrolizado",
-        "price": 23,
-        "short_description": "",
-        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
-        "category": "proteins",
-        "img": "colageno_hidrolizado.png",
-        "elements": [
-            {"name": "Cólageno", "qty": "15gr"},
-            {"name": "Biotina", "qty": "30mcg"},
-            {"name": "Vitamina E", "qty": "10mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    
 
 
 

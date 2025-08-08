@@ -32,18 +32,11 @@
         category="vitamins" 
       />
 
-      <!--SUPLEMENTOS-->
+      <!--COLÁGENOS-->
       <ProductGroup 
-        title="Suplementos"      
-        :products="suplements" 
-        category="suplements" 
-      />
-
-      <!--MINERALES-->
-      <ProductGroup 
-        title="Minerales"
-        :products="minerals" 
-        category="minerals"
+        title="Colágenos"      
+        :products="collagens"
+        category="collagens"  
       />
 
       <!--MAGNESIOS-->
@@ -53,6 +46,13 @@
         category="magnesiums"  
       />
 
+      <!--CÚRCUMAS-->
+      <ProductGroup 
+        title="Cúrcumas"      
+        :products="turmerics"
+        category="turmerics"  
+      />
+
       <!--PRÓSTATA-->
       <ProductGroup 
         title="Próstata"        
@@ -60,9 +60,30 @@
         category="prostate"
       />
 
+      <!--QUEMADOR DE GRASAS-->
+      <ProductGroup 
+        title="Quemador de grasas y Detox"      
+        :products="fatBurner"
+        category="fatBurner"  
+      />
+
+      <!--MINERALES-->
+      <ProductGroup 
+        title="Minerales"
+        :products="minerals" 
+        category="minerals"
+      />      
+
+      <!--SUPLEMENTOS-->
+      <ProductGroup 
+        title="Suplementos"      
+        :products="suplements" 
+        category="suplements" 
+      />
+
       <!--PROTEINAS-->
       <ProductGroup 
-        title="Proteínas"       
+        title="Proteínas y Creatinas"       
         :products="proteins" 
         category="proteins" 
       />
@@ -100,8 +121,28 @@ export default {
 
       return this.sortAscByName(filteredResults);
     },
-    suplements() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "suplements");
+    collagens() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "collagens");
+      
+      return this.sortAscByName(filteredResults);
+    },
+    magnesiums() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "magnesiums");
+
+      return this.sortAscByName(filteredResults);
+    },
+    turmerics() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "turmerics");
+      
+      return this.sortAscByName(filteredResults);
+    },
+    prostate() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "prostate");
+      
+      return this.sortAscByName(filteredResults);
+    },
+    fatBurner() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "fat burner");
 
       return this.sortAscByName(filteredResults);
     },
@@ -110,26 +151,16 @@ export default {
 
       return this.sortAscByName(filteredResults);
     },
-    magnesiums() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "magnesiums");
+    suplements() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "suplements");
 
       return this.sortAscByName(filteredResults);
-    },
+    },  
     proteins() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "proteins");
 
       return this.sortAscByName(filteredResults);
-    },
-    prostate() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "prostate");
-      
-      return this.sortAscByName(filteredResults);
-    },
-    aminoAcids() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "amino acids");
-      
-      return this.sortAscByName(filteredResults);
-    },
+    },      
     honey() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "honey");
       
