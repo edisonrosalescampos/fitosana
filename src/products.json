@@ -20,20 +20,6 @@
         "cpe": "0724563658"
     },
     {
-        "name": "Biotina",
-        "price": 12,
-        "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
-        "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
-        "category": "vitamins",
-        "img": "biotina.png",
-        "elements": [
-            {"name": "Biotina", "qty": "5mg"},
-            {"name": "Calcio (Fosfato Dicálcico)", "qty": "113mg"}
-        ],
-        "approval_number": "A-165.229",
-        "cpe": "1024572006"
-    },
-    {
         "name": "Vitamina C",
         "price": 12,
         "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
@@ -58,19 +44,6 @@
         ],
         "approval_number": "A-165.182",
         "cpe": "1024572013"
-    },
-    {
-        "name": "Vitamina E",
-        "price": 12,
-        "short_description": "Mantén tu sistema inmunitario fuerte.",
-        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
-        "category": "vitamins",
-        "img": "vitamina_e.png",
-        "elements": [
-            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     },
     {
         "name": "Centrunex Silver",
@@ -145,19 +118,6 @@
         ],
         "approval_number": "A-165.179",
         "cpe": "0724563636"
-    },
-    {
-        "name": "Inositol",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
-        "category": "vitamins",
-        "img": "inositol.png",
-        "elements": [
-            {"name": "Inositol", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     }, 
     {
         "name": "B-12",
@@ -266,19 +226,7 @@
 
 
 
-    {
-        "name": "Centella Asiática",
-        "price": 12,
-        "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
-        "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
-        "category": "suplements",
-        "img": "centella_asiatica.png",
-        "elements": [
-            {"name": "Centella Asiática", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+
     {
         "name": "Graviola",
         "price": 12,
@@ -373,19 +321,6 @@
         ],
         "approval_number": "A-165.211",
         "cpe": "1024572004"
-    },
-    {
-        "name": "Resveratrol",
-        "price": 12,
-        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
-        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
-        "category": "suplements",
-        "img": "resveratrol.png",
-        "elements": [
-            {"name": "Resveratrol", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     },
     {
         "name": "Glucosamina Condroitina",
@@ -606,19 +541,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "NAD",
-        "price": 12,
-        "short_description": "",
-        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
-        "category": "suplements",
-        "img": "nad.png",
-        "elements": [
-            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
-        ],
-        "approval_number": "A-165.212",
-        "cpe": "0724563660"
-    },
-    {
         "name": "Ashwagandha",
         "price": 12,
         "short_description": "",
@@ -746,6 +668,19 @@
             {"name": "Valeriana", "qty": "240mg"},
             {"name": "Magnesio", "qty": "120mg"},
             {"name": "5 HTP", "qty": "120mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Inositol",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
+        "category": "suplements",
+        "img": "inositol.png",
+        "elements": [
+            {"name": "Inositol", "qty": "500mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -933,6 +868,72 @@
             {"name": "Cólageno", "qty": "15gr"},
             {"name": "Biotina", "qty": "30mcg"},
             {"name": "Vitamina E", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Biotina",
+        "price": 12,
+        "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
+        "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
+        "category": "collagens",
+        "img": "biotina.png",
+        "elements": [
+            {"name": "Biotina", "qty": "5mg"},
+            {"name": "Calcio (Fosfato Dicálcico)", "qty": "113mg"}
+        ],
+        "approval_number": "A-165.229",
+        "cpe": "1024572006"
+    },
+    {
+        "name": "Vitamina E",
+        "price": 12,
+        "short_description": "Mantén tu sistema inmunitario fuerte.",
+        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
+        "category": "collagens",
+        "img": "vitamina_e.png",
+        "elements": [
+            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "NAD",
+        "price": 12,
+        "short_description": "",
+        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "category": "collagens",
+        "img": "nad.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563660"
+    },
+    {
+        "name": "Resveratrol",
+        "price": 12,
+        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
+        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
+        "category": "collagens",
+        "img": "resveratrol.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Centella Asiática",
+        "price": 12,
+        "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
+        "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
+        "category": "collagens",
+        "img": "centella_asiatica.png",
+        "elements": [
+            {"name": "Centella Asiática", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"

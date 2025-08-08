@@ -34,7 +34,7 @@
 
       <!--COLÁGENOS-->
       <ProductGroup 
-        title="Colágenos"      
+        title="Cabello, Uñas y Piel"      
         :products="collagens"
         category="collagens"  
       />
