@@ -858,21 +858,6 @@
         "cpe": "1024572007"
     },
     {
-        "name": "Cólageno Hidrolizado",
-        "price": 23,
-        "short_description": "",
-        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
-        "category": "collagens",
-        "img": "colageno_hidrolizado.png",
-        "elements": [
-            {"name": "Cólageno", "qty": "15gr"},
-            {"name": "Biotina", "qty": "30mcg"},
-            {"name": "Vitamina E", "qty": "10mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Biotina",
         "price": 12,
         "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
@@ -1199,6 +1184,21 @@
         ],
         "approval_number": "A-165.181",
         "cpe": "0724563632"
+    },
+    {
+        "name": "Cólageno Hidrolizado",
+        "price": 23,
+        "short_description": "",
+        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "category": "proteins",
+        "img": "colageno_hidrolizado.png",
+        "elements": [
+            {"name": "Cólageno", "qty": "15gr"},
+            {"name": "Biotina", "qty": "30mcg"},
+            {"name": "Vitamina E", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },
     
 
