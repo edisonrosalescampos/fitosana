@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-4 product-page">
+  <div class="container my-5 product-page">
     <div class="mb-4">
       <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
         <button class="btn btn-primary btn-sm btn-back">

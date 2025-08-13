@@ -1,8 +1,10 @@
 @import url('//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 :root {
   --ff-raleway: "Raleway", sans-serif;
   --ff-fira-sans: "Fira Sans", serif;
+  --ff-jost: "Jost", sans-serif;
 
   --black: #000000;
   --black-shade100: #0F0F0F;  
@@ -34,11 +36,11 @@ body {
 /* ***** HEADER ***** */
 .header {
   position: relative;
-  background-color: var(--green);
+  background-color: transparent;
+  border-bottom: 1px solid #eee;
 }
 .header .top-wrapper {
-  background-color: var(--green-shade-300);
-  color: var(--brown);
+  color: var(--green);
 }
 
 
@@ -46,9 +48,11 @@ body {
 .top {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding-top: .75rem;
-  padding-bottom: .75rem;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  gap: .75rem;
 }
 
 
@@ -78,7 +82,7 @@ body {
   list-style: none;
 }
 .social ul li a {
-  color: var(--brown)
+	color: var(--green);
 }
 
 
@@ -88,13 +92,13 @@ body {
   align-items: center;
   flex-direction: column;
 	color: var(--bs-white);
-  padding: 1.25rem;
+  padding: 0;
 }
 .company-logo {
   margin-bottom: 0;
 }
 .company-logo img {
-  height: 60px;
+  height: 55px;
   width: auto;
   border-radius: 50%;
 }
@@ -147,10 +151,11 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: var(--brown);
-  color: var(--bs-white);
-  padding: 1rem 1.25rem;
-  font-size: .9rem;
+  background-color: transparent;
+  color: var(--bs-secondary);
+  border-top: 1px solid #eee;
+  padding: 2rem 1.25rem;
+  font-size: .95rem;
   text-align: center;
 }
 
@@ -355,7 +360,7 @@ body {
   border-radius: 20px !important;
   padding-left: 1rem;
   padding-right: 2.25rem;
-  height: 36px;
+  height: 40px;
   border: 2px solid #eee;
 }
 .search-box .input-group-text {
@@ -375,9 +380,9 @@ body {
   .social {
     display: flex;
   }
-  .company-logo img {
-    height: 70px;
-  }
+  /*.company-logo img {
+    height: 55px;
+  }*/
   .product-grid {
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: .5rem;
@@ -394,8 +399,14 @@ body {
   }
 }
 @media (min-width: 768px) { 
+  .top {
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: .375rem;
+    padding-bottom: .375rem;
+  }
   .company-logo img {
-    height: 75px;
+    height: 60px;
   }
   .product-card .card-body {
     padding: .5rem .5rem;

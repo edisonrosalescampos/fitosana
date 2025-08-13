@@ -1,12 +1,10 @@
 <template>
-  <div class="container-fluid container-xl my-4">
+  <div class="container-fluid container-xl my-5">
     <!--<div class="lottery d-sm-none">
       <img class="img-thumbnail" src="/images/rifa_proteina.png" alt="Rifa Proteina">
     </div>-->
 
-    <h3 class="title mb-0 text-center">PRODUCTOS</h3>
-
-    <br />
+    <h3 class="title mb-3 text-center">CATALÓGO DE PRODUCTOS</h3>
 
     <SearchBox />
 
@@ -83,7 +81,7 @@
 
       <!--PROTEINAS-->
       <ProductGroup 
-        title="Proteínas y Creatinas"       
+        title="Proteínas"       
         :products="proteins" 
         category="proteins" 
       />
