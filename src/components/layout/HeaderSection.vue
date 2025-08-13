@@ -1,5 +1,5 @@
 <template>
-  <div class="header shadow">
+  <div class="header">
     <div class="top-wrapper">
       <div class="top container-fluid container-xl">
         <div class="company">

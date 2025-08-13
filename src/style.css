@@ -37,7 +37,6 @@ body {
 .header {
   position: relative;
   background-color: transparent;
-  border-bottom: 1px solid #eee;
 }
 .header .top-wrapper {
   color: var(--green);
@@ -52,7 +51,7 @@ body {
   flex-direction: column;
   padding-top: .5rem;
   padding-bottom: .5rem;
-  gap: .75rem;
+  gap: 1rem;
 }
 
 
@@ -74,7 +73,7 @@ body {
 }
 .social ul {
   display: flex;
-  gap: .75rem;
+  gap: 1.25rem;
   margin-bottom: 0;
   padding-left: 0;
 }
@@ -399,6 +398,10 @@ body {
   }
 }
 @media (min-width: 768px) { 
+  .header {
+    border-bottom: 1px solid #eee;
+    box-shadow: var(--bs-box-shadow);
+  }
   .top {
     flex-direction: row;
     justify-content: space-between;
@@ -407,6 +410,9 @@ body {
   }
   .company-logo img {
     height: 60px;
+  }
+  .social ul {
+    gap: .75rem;
   }
   .product-card .card-body {
     padding: .5rem .5rem;
