@@ -376,7 +376,7 @@ body {
 	border-radius: .8rem;
 	padding: .5rem 1rem;
   box-shadow: var(--bs-box-shadow);
-  font-size: .85rem;
+  font-size: .8rem;
   font-weight: 600;
   line-height: 1.2;
   width: 100%;
@@ -515,6 +515,9 @@ body {
   }
   .product-info .product-description {
     padding: 1.25rem;
+  }
+  .product-info .product-permissions .badge {
+    font-size: .85rem;
   }
   .nutrition-facts .element {
     font-size: .9rem;
