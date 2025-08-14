@@ -81,13 +81,12 @@
 
         <div class="product-permissions">
           <div class="badge">
-            <p>CPE {{ product.cpe }}/ REGISTRADO EN EL M.P.P.S BAJO EL Nº {{ product.approval_number }}. <br/> CONTENIDO NETO: 60 TABLETAS.</p>
+            <p>
+              CPE {{ product.cpe }} <br/> 
+              REGISTRADO EN EL M.P.P.S BAJO EL Nº {{ product.approval_number }}. <br/> 
+              CONTENIDO NETO: 60 TABLETAS.
+            </p>
           </div>
-
-          <!--<div class="badge custom-badge">
-            <p class="mb-1 subtitle">CPE</p>
-            <span class="title"></span>
-          </div>-->
         </div>
       </div>
     </div>

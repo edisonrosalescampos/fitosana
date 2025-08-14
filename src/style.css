@@ -364,21 +364,22 @@ body {
 .product-info .product-description .description {
 	border: 2px solid #dee2e6;
 	border-radius: 8px;
-	padding: .75rem;
+	padding: .5rem;
 }
 .product-info .product-permissions {
   display: flex;
   justify-content: center;
-  padding: .75rem 3rem;
+  padding: .75rem 1.5rem;
 }
 .product-info .product-permissions .badge {
 	background-color: var(--green);
 	border-radius: .8rem;
-	padding: .75rem 1rem;
+	padding: .5rem;
   box-shadow: var(--bs-box-shadow);
   font-size: .85rem;
   font-weight: 600;
   line-height: 1.2;
+  width: 100%;
 }
 .product-info .product-permissions .badge p {
   margin-bottom: 0;
@@ -389,6 +390,7 @@ body {
 /* ***** NUTRITION FACTS ***** */
 .nutrition-facts {
   width: 100%;
+  padding-left: 1.5rem;
 }
 .nutrition-facts li {
   border-bottom: 2px solid #dee2e6;
@@ -404,7 +406,7 @@ body {
   padding-bottom: .25rem;
 }
 .nutrition-facts .element {
-  font-size: .9rem;
+  font-size: .85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -513,6 +515,9 @@ body {
   }
   .product-info .product-description {
     padding: 1.25rem;
+  }
+  .nutrition-facts .element {
+    font-size: .9rem;
   }
 }
 @media (min-width: 992px) { 
