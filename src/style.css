@@ -374,7 +374,7 @@ body {
 .product-info .product-permissions .badge {
 	background-color: var(--green);
 	border-radius: .8rem;
-	padding: .5rem;
+	padding: .5rem 1rem;
   box-shadow: var(--bs-box-shadow);
   font-size: .85rem;
   font-weight: 600;

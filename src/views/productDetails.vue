@@ -1,6 +1,6 @@
 <template>
   <div class="container py-4 product-page" id="detalle_producto">
-    <div class="mb-4">
+    <div class="mb-3">
       <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
         <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
@@ -82,8 +82,8 @@
         <div class="product-permissions">
           <div class="badge">
             <p>
-              CPE {{ product.cpe }} <br/> 
-              REGISTRADO EN EL M.P.P.S BAJO EL Nº {{ product.approval_number }}. <br/> 
+              CPE {{ product.cpe }}. <br/> 
+              REGISTRADO EN EL S.A.C.S. ENTE ADSCRITO AL EL M.P.P.S. BAJO EL Nº {{ product.approval_number }}. <br/> 
               CONTENIDO NETO: 60 TABLETAS.
             </p>
           </div>
@@ -91,7 +91,7 @@
       </div>
     </div>
 
-    <div class="mt-4 d-md-none">
+    <div class="mt-3 d-md-none">
       <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
         <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
