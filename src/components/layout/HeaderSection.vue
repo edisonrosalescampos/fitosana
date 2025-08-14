@@ -10,7 +10,7 @@
 
         <div class="social">
           <ul>
-            <li><a href="https://www.facebook.com/profile.php?id=61565835603289&mibextid=ZbWKwL" title="Facebook" target="_blank"><span><i class="fab fa-facebook fa-lg"></i></span></a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61565835603289&mibextid=ZbWKwL" title="Facebook" target="_blank"><span><i class="fab fa-facebook-square fa-lg"></i></span></a></li>
             <li><a href="https://www.instagram.com/fitosana_jr?igsh=MTg4dHViNmpleXQ3eg==" title="Instagram" target="_blank"><span><i class="fab fa-instagram fa-lg"></i></span></a></li>   
             <li><a href="" title="tiktok" target="_blank"><span><i class="fab fa-tiktok fa-lg"></i></span></a></li> 
           </ul>

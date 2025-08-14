@@ -22,7 +22,8 @@ const router = createRouter({
         }
 
         return {
-            top: 0,
+            el: document.getElementById("detalle_producto"),
+            top: "0",
             behavior: "smooth"
         }
     }

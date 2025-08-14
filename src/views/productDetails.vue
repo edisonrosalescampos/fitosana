@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-5 product-page">
+  <div class="container py-4 product-page" id="detalle_producto">
     <div class="mb-4">
       <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
         <button class="btn btn-primary btn-sm btn-back">
@@ -8,6 +8,7 @@
       </RouterLink>      
     </div>
 
+    <!--
     <div class="row">
       <div class="col-md-5 col-lg-4 mb-3 mb-md-0">
         <div class="img-thumbnail-container">
@@ -46,6 +47,47 @@
             <p class="mb-1 subtitle">CPE</p>
             <span class="title">{{ product.cpe }}</span>
           </div>
+        </div>
+      </div>
+    </div>
+    -->
+    <div class="product-info">
+      <div class="product-img-container">
+        <img :src="getImage(product.img)" alt="...">
+      </div>
+      <div class="product-description-container">
+        <div class="product-description">
+          <h3 class="title">{{ product.name }}</h3>
+
+          <h6 class="subtitle">DESCRIPCIÓN:</h6>
+          <p class="description mb-3">{{ product.description }}</p>
+
+          <template v-if="productElementsLength > 0">
+            <h6 class="subtitle">CONTIENE:</h6>
+            
+            <div class="col-lg-12">
+              <ul class="nutrition-facts">
+                <li v-for="element in product.elements" :key="element.name">
+                  <div class="fact">
+                    <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            <br/>
+          </template>
+        </div>        
+
+        <div class="product-permissions">
+          <div class="badge">
+            <p>CPE {{ product.cpe }}/ REGISTRADO EN EL M.P.P.S BAJO EL Nº {{ product.approval_number }}. <br/> CONTENIDO NETO: 60 TABLETAS.</p>
+          </div>
+
+          <!--<div class="badge custom-badge">
+            <p class="mb-1 subtitle">CPE</p>
+            <span class="title"></span>
+          </div>-->
         </div>
       </div>
     </div>
