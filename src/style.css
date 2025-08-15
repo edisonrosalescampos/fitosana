@@ -370,6 +370,7 @@ body {
   display: flex;
   justify-content: center;
   padding: .75rem 1.5rem;
+  margin-bottom: 1rem;
 }
 .product-info .product-permissions .badge {
 	background-color: var(--green);
@@ -384,6 +385,16 @@ body {
 .product-info .product-permissions .badge p {
   margin-bottom: 0;
   white-space: wrap;
+}
+.product-info .product-standards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.product-info .product-standards img {
+  height: 110px;
+  width: auto;
 }
 
 
@@ -518,6 +529,12 @@ body {
   }
   .product-info .product-permissions .badge {
     font-size: .85rem;
+  }
+  .product-info .product-standards {
+    gap: 1.5rem;
+  }
+  .product-info .product-standards img {
+    height: 130px;
   }
   .nutrition-facts .element {
     font-size: .9rem;

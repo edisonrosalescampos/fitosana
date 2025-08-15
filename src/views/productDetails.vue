@@ -8,49 +8,6 @@
       </RouterLink>      
     </div>
 
-    <!--
-    <div class="row">
-      <div class="col-md-5 col-lg-4 mb-3 mb-md-0">
-        <div class="img-thumbnail-container">
-          <img :src="getImage(product.img)" class="img-thumbnail" alt="...">
-        </div>
-      </div>
-      <div class="col-md-7 col-lg-8">
-        <h3 class="title">{{ product.name }}</h3>
-        <p class="mb-2 text-justify">{{ product.description }}</p>
-
-        <br/>
-
-        <template v-if="productElementsLength > 0">
-          <h6 class="fw-semibold">CONTIENE:</h6>
-          
-          <div class="col-lg-6">
-            <ul class="nutrition-facts">
-              <li v-for="element in product.elements" :key="element.name">
-                <div class="fact">
-                  <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
-                </div>
-              </li>
-            </ul>
-          </div>
-
-          <br/>
-        </template>
-
-        <div class="d-flex justify-content-center justify-content-md-start">
-          <div class="badge custom-badge">
-            <p class="mb-1 subtitle">REGISTRO SANITARIO</p>
-            <span class="title">{{ product.approval_number }}</span>
-          </div>
-
-          <div class="badge custom-badge">
-            <p class="mb-1 subtitle">CPE</p>
-            <span class="title">{{ product.cpe }}</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    -->
     <div class="product-info">
       <div class="product-img-container">
         <img :src="getImage(product.img)" alt="...">
@@ -84,6 +41,11 @@
               REGISTRADO EN EL S.A.C.S. ENTE ADSCRITO AL EL M.P.P.S. BAJO EL Nº {{ product.approval_number }}. <br/> 
             </p>
           </div>
+        </div>
+
+        <div class="product-standards">
+          <img src="/images/bpf.png" alt="">
+          <img src="/images/100_organic.png" alt="">
         </div>
       </div>
     </div>
