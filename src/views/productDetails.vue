@@ -74,8 +74,6 @@
                 </li>
               </ul>
             </div>
-
-            <br/>
           </template>
         </div>        
 
@@ -84,7 +82,6 @@
             <p>
               CPE {{ product.cpe }}. <br/> 
               REGISTRADO EN EL S.A.C.S. ENTE ADSCRITO AL EL M.P.P.S. BAJO EL Nº {{ product.approval_number }}. <br/> 
-              CONTENIDO NETO: 60 TABLETAS.
             </p>
           </div>
         </div>
