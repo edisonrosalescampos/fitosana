@@ -108,7 +108,7 @@
         "name": "Centrunex",
         "price": 12,
         "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
-        "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas, piel y cabello.",
+        "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas y cabello.",
         "category": "vitamins",
         "img": "centrunex.png",
         "elements": [
@@ -888,7 +888,7 @@
         "name": "NAD",
         "price": 12,
         "short_description": "",
-        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
         "category": "collagens",
         "img": "nad.png",
         "elements": [

@@ -1,5 +1,5 @@
 <template>
-  <div class="container py-4 product-page" id="detalle_producto">
+  <div class="container my-4 product-page" id="detalle_producto">
     <div class="mb-3">
       <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
         <button class="btn btn-primary btn-sm btn-back">

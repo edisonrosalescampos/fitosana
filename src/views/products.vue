@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid container-xl py-4">
+  <div class="container-fluid container-xl my-4">
     <h4 class="title mb-3 text-center">CATALÓGO DE PRODUCTOS</h4>
 
     <SearchBox />
