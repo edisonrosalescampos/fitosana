@@ -19,16 +19,16 @@
       </template>
     </template>
     <template v-else>
-      <!--VITAMINAS-->
+      <!--VITAMINAS Y MINERALES-->
       <ProductGroup 
-        title="Vitaminas"       
+        title="Vitaminas y Minerales"       
         :products="vitamins" 
         category="vitamins" 
       />
 
       <!--COLÁGENOS-->
       <ProductGroup 
-        title="Cabello, Uñas y Piel"      
+        title="Colágenos"      
         :products="collagens"
         category="collagens"  
       />
@@ -59,14 +59,7 @@
         title="Quemador de grasas y Detox"      
         :products="fatBurner"
         category="fatBurner"  
-      />
-
-      <!--MINERALES-->
-      <ProductGroup 
-        title="Minerales"
-        :products="minerals" 
-        category="minerals"
-      />      
+      />   
 
       <!--SUPLEMENTOS-->
       <ProductGroup 
@@ -80,6 +73,13 @@
         title="Proteínas"       
         :products="proteins" 
         category="proteins" 
+      />
+
+      <!--OTROS-->
+      <ProductGroup 
+        title="Otros Productos"
+        :products="others" 
+        category="others"
       />
 
       <!--MIEL-->
@@ -140,11 +140,6 @@ export default {
 
       return this.sortAscByName(filteredResults);
     },
-    minerals() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "minerals");
-
-      return this.sortAscByName(filteredResults);
-    },
     suplements() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "suplements");
 
@@ -152,6 +147,11 @@ export default {
     },  
     proteins() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "proteins");
+
+      return this.sortAscByName(filteredResults);
+    },
+    others() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "others");
 
       return this.sortAscByName(filteredResults);
     },      
