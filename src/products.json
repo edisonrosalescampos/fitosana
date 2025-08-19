@@ -1067,11 +1067,11 @@
         "name": "L-Carnitina",
         "price": 12,
         "short_description": "",
-        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo",
+        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
         "category": "others",
         "img": "l_carnitina.png",
         "elements": [
-            {"name": "L-Carnitina", "qty": "500mg"}
+            {"name": "L-Carnitina (L-carnipure)", "qty": "500mg"}
         ],
         "approval_number": "A-166.181",
         "cpe": "000000000"

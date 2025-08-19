@@ -446,12 +446,13 @@ body {
   align-items: center;
 }
 .search-box .form-control {
+  background-color: #f7f8f9;
+  border: 2px solid #eee;
   font-size: .9rem;
   border-radius: 20px !important;
   padding-left: 1rem;
   padding-right: 2.25rem;
   height: 40px;
-  border: 2px solid #eee;
 }
 .search-box .input-group-text {
 	position: absolute;
