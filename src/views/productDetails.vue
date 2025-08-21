@@ -16,8 +16,13 @@
         <div class="product-description">
           <h3 class="title">{{ product.name }}</h3>
 
-          <h6 class="subtitle">DESCRIPCIÓN:</h6>
+          <h6 class="subtitle">INDICACIÓN:</h6>
           <p class="description mb-3">{{ product.description }}</p>
+
+          <template v-if="!!product.posology">
+            <h6 class="subtitle">POSOLOGÍA:</h6>
+            <p class="description mb-3">{{ product.posology }}</p>
+          </template>
 
           <template v-if="productElementsLength > 0">
             <h6 class="subtitle">CONTIENE:</h6>

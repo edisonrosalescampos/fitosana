@@ -360,7 +360,7 @@ body {
 	color: var(--bs-white);
 	padding: .25rem .75rem;
 	border-radius: 0px 8px 0 8px;
-	width: 120px;
+	width: 110px;
 }
 .product-info .product-description .description {
 	border: 2px solid #dee2e6;

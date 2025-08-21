@@ -17,7 +17,8 @@
             {"name": "Fumarato Ferroso", "qty": "304mg"}
         ],
         "approval_number": "A-165.212",
-        "cpe": "0724563658"
+        "cpe": "0724563658",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con el almuerzo."
     },
     {
         "name": "Vitamina C",
@@ -30,7 +31,8 @@
             {"name": "Ácido Ascórbico", "qty": "480mg"}
         ],
         "approval_number": "A-165.261",
-        "cpe": "0724563635"
+        "cpe": "0724563635",
+        "posology": "Tomar una (1) o dos (2) tabletas al día, preferiblemente con el desayuno y la cena."
     },
     {
         "name": "Vitamina D3",
@@ -43,7 +45,8 @@
             {"name": "Vitamina D3", "qty": "125mcg"}
         ],
         "approval_number": "A-165.182",
-        "cpe": "1024572013"
+        "cpe": "1024572013",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     },
     {
         "name": "Centrunex Silver",
@@ -70,7 +73,8 @@
             {"name": "Niacinamida", "qty": "2mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con las comidas."
     },
     {
         "name": "Vibazina",
@@ -88,7 +92,8 @@
             {"name": "Levadura de Cerveza", "qty": "40mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     },      
     {
         "name": "Vitamina D3 + K2",
@@ -102,7 +107,8 @@
             {"name": "Vitamina K2", "qty": "100mcg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
     },  
     {
         "name": "Centrunex",
@@ -117,7 +123,8 @@
             {"name": "Ginseng Biloba", "qty": "120mg"}
         ],
         "approval_number": "A-165.179",
-        "cpe": "0724563636"
+        "cpe": "0724563636",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     }, 
     {
         "name": "B-12",
@@ -130,7 +137,8 @@
             {"name": "Vitamina B-12 (Cobalamina)", "qty": "1000mcg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     }, 
     {
         "name": "Niacina",
@@ -143,7 +151,8 @@
             {"name": "Niacina", "qty": "500mg"}
         ],
         "approval_number": "A-165.255",
-        "cpe": "0724563660"
+        "cpe": "0724563660",
+        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
     },
     {
         "name": "Citrato de Potasio",
@@ -156,7 +165,8 @@
             {"name": "Citrato de Potasio", "qty": "99mg"}
         ],
         "approval_number": "A-165.216",
-        "cpe": "0724563633"
+        "cpe": "0724563633",
+        "posology": "Tomar dos (2) a tres (3) tabletas diarias, una (1) después de cada comida."
     },
     {
         "name": "Selenio",
@@ -169,7 +179,8 @@
             {"name": "Selenio", "qty": "200mg"}
         ],
         "approval_number": "A-166.180",
-        "cpe": "1024572011"
+        "cpe": "1024572011",
+        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
     },
     {
         "name": "Zinc",
@@ -183,7 +194,8 @@
             {"name": "Calcio", "qty": "46mg"}
         ],
         "approval_number": "A-165.219",
-        "cpe": "0624562263"
+        "cpe": "0624562263",
+        "posology": "Tomar una (1) tableta después del almuerzo diariamente."
     },
     {
         "name": "Citrato de Calcio con Vitamina D",
@@ -197,7 +209,8 @@
             {"name": "Vitamina D", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, media hora después de la comida."
     },
     {
         "name": "Hierro",
@@ -216,7 +229,8 @@
             {"name": "Ácido Fólico", "qty": "400mcg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, preferiblemente con el almuerzo."
     }, 
     {
         "name": "Biotina",
@@ -230,7 +244,8 @@
             {"name": "Calcio (Fosfato Dicálcico)", "qty": "113mg"}
         ],
         "approval_number": "A-165.229",
-        "cpe": "1024572006"
+        "cpe": "1024572006",
+        "posology": "Tomar una (1) tableta con el almuerzo."
     },
     {
         "name": "Vitamina E",
@@ -243,7 +258,8 @@
             {"name": "Vitamina E", "qty": "531mcg (400IU)"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "posology": "Tomar una (1) cápsula diariamente, con comida."
     },
 
 
@@ -1051,32 +1067,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "L-Arginina",
-        "price": 12,
-        "short_description": "",
-        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "others",
-        "img": "l_arginina.png",
-        "elements": [
-            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
-        ],
-        "approval_number": "A-166.183",
-        "cpe": "1024572005"
-    },
-    {
-        "name": "L-Carnitina",
-        "price": 12,
-        "short_description": "",
-        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
-        "category": "others",
-        "img": "l_carnitina.png",
-        "elements": [
-            {"name": "L-Carnitina (L-carnipure)", "qty": "500mg"}
-        ],
-        "approval_number": "A-166.181",
-        "cpe": "000000000"
-    },
-    {
         "name": "Inositol",
         "price": 12,
         "short_description": "",
@@ -1221,7 +1211,33 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
+    },  
+    {
+        "name": "L-Arginina",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
+        "category": "proteins",
+        "img": "l_arginina.png",
+        "elements": [
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
+        ],
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
+    },
+    {
+        "name": "L-Carnitina",
+        "price": 12,
+        "short_description": "",
+        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
+        "category": "proteins",
+        "img": "l_carnitina.png",
+        "elements": [
+            {"name": "L-Carnitina (L-carnipure)", "qty": "500mg"}
+        ],
+        "approval_number": "A-166.181",
+        "cpe": "000000000"
+    },  
 
 
 
