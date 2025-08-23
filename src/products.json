@@ -1,5 +1,80 @@
 [
     {
+        "name": "Aceite de Orégano 30ml",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de las afecciones respiratorias. Expectorante, tos seca, resfriado común. Congestión de las vías respiratorias.", 
+        "category": "natural premium",
+        "img": "aceite_de_oregano.png",
+        "elements": [
+            {"name": "Carvacrol", "qty": "81,5%"},
+            {"name": "Timol", "qty": "1,9%"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Adultos: Tomar 2 gotas de aceite de orégano en un vaso de agua media hora antes del desayuno y cena. Niños mayores de 6 años: tomar 1 gota de aceite de orégano media hora antes del desayuno y cena."
+    },
+    {
+        "name": "Keratium",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento para el fortalecimiento del cabello, uñas y piel. Brinda fortaleza y nutrición al cabello, favorece el crecimiento de uñas fuertes, embellece la piel brindándole un aspecto lozano y juvenil.", 
+        "category": "natural premium",
+        "img": "keratium.png",
+        "elements": [
+            {"name": "Cola de Caballo polvo, toda la planta (Equisetum arvense)", "qty": "109,5mg"},
+            {"name": "Proteína de soya (Aislado de soya)", "qty": "72mg"},
+            {"name": "Fosfato de Calcio (Calciumphosphate)", "qty": "30mg"},
+            {"name": "Vitamina C (Ácido Ascórbico)", "qty": "30mg"},
+            {"name": "Romero, polvo de hojas (Rosmarinusofficinalis)", "qty": "15mg"},
+            {"name": "Manzanilla polvo, Flores (Matricaria chamomilla)", "qty": "12mg"},
+            {"name": "Salvia, polvo de hojas (Salvia officinalis)", "qty": "12mg"},
+            {"name": "Vitamina E (d-alfa tocoferiloacetato)", "qty": "11mg"},
+            {"name": "Ácido Pantoténico (Phantothenicacid)", "qty": "6mg"},
+            {"name": "Vitamina A (Betacaroteno)", "qty": "1,5mg"},
+            {"name": "Vitamina B2 (Riboflavina)", "qty": "1mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar dos (2) cápsulas al día (1 cápsula antes del desayuno y otra después de la cena)."
+    },
+    {
+        "name": "Magnesio",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de la deficiencia de magnesio. Mejora la salud ósea. Regula el sistema nervioso.", 
+        "category": "natural premium",
+        "img": "magnesio.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Una (1) cápsula al día junto con la comida."
+    },
+    {
+        "name": "Diente de León",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético eficaz y estimulante hepatobiliar. Se recomienda en casos de litiasis vesicular (piedras en vesícula) y en casos de hígado graso.", 
+        "category": "natural premium",
+        "img": "diente_de_leon.png",
+        "elements": [
+            {"name": "Diente de León, Polvo de hojas (Taraxacum officinale)", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Una (1) cápsula tres veces al día."
+    },
+
+
+
+
+
+
+
+
+    {
         "name": "Complejo B",
         "price": 12,
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",

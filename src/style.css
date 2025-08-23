@@ -19,6 +19,10 @@
   --green-shade-300: #A9CC3A;
   --green-shade-400: #93B838; 
   --brown: #654831;
+
+  --navy: #042442;
+  --lightblue: #4fa7f9;
+  --lightgray: #637081;
 }
 body {
   background-color: var(--bs-white);
@@ -46,12 +50,9 @@ body {
 /* ***** TOP ***** */
 .top {
   display: flex;
-  align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-  gap: 1rem;
+  gap: .75rem;
 }
 
 
@@ -73,16 +74,19 @@ body {
 }
 .social ul {
   display: flex;
-  gap: 1.5rem;
+  justify-content: center;
+  gap: 1rem;
   margin-bottom: 0;
   padding-left: 0;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
 }
 .social ul li {
   list-style: none;
 }
 .social ul li a {
-	background-color: var(--green);
-  color: var(--bs-white);
+	background-color: var(--lightgray);
+  color: #FFF;
   padding: .5rem;
   border-radius: 20px;
 }
@@ -90,11 +94,12 @@ body {
 
 /* ***** COMPANY ***** */
 .company {
+  background-color: var(--navy);
   display: flex;
   align-items: center;
   flex-direction: column;
 	color: var(--bs-white);
-  padding: 0;
+  padding: .25rem .5rem;
 }
 .company-logo {
   margin-bottom: 0;
@@ -102,7 +107,7 @@ body {
 .company-logo img {
   height: 55px;
   width: auto;
-  border-radius: 50%;
+  /*border-radius: 50%;*/
 }
 .company-info {
   text-align: center;
@@ -179,21 +184,21 @@ body {
 	margin-bottom: 0;
 	text-align: left;	
   padding-bottom: .25rem;
-	border-bottom: 2px solid var(--green-shade-300);	
+	border-bottom: 2px solid var(--lightblue);	
 }
 .btn-back {
-  background-color: var(--brown);
-  border-color: var(--brown);
+  background-color: var(--lightgray);
+  border-color: var(--lightgray);
 }
 .btn-back:hover,
 .btn-back:focus {
-  background-color: var(--brown);
-  border-color: var(--brown);
+  background-color: var(--lightgray);
+  border-color: var(--lightgray);
 }
 .btn-back:first-child:active,
 .btn-back.active {
-  background-color: var(--brown);
-  border-color: var(--brown);
+  background-color: var(--lightgray);
+  border-color: var(--lightgray);
 }
 
 
@@ -269,15 +274,15 @@ body {
   padding-right: .5rem;
 }
 .product-card .btn {
-  background-color: var(--green);
-  border-color: var(--green);
+  background-color: var(--navy);
+  border-color: var(--navy);
   font-weight: 500;
   border-radius: 20px;
 }
 .product-card .btn.active,
 .product-card .btn:active {
-  background-color: var(--green);
-  border-color: var(--green);
+  background-color: var(--navy);
+  border-color: var(--navy);
 }
 
 
@@ -356,7 +361,7 @@ body {
 }
 .product-info .product-description .subtitle {
 	display: inline-block;
-	background-color: var(--green);
+	background-color: var(--navy);
 	color: var(--bs-white);
 	padding: .25rem .75rem;
 	border-radius: 0px 8px 0 8px;
@@ -366,6 +371,7 @@ body {
 	border: 2px solid #dee2e6;
 	border-radius: 8px;
 	padding: .5rem;
+	text-align: justify;
 }
 .product-info .product-permissions {
   display: flex;
@@ -374,7 +380,7 @@ body {
   margin-bottom: 1rem;
 }
 .product-info .product-permissions .badge {
-	background-color: var(--green);
+	background-color: var(--navy);
 	border-radius: .8rem;
 	padding: .5rem 1rem;
   box-shadow: var(--bs-box-shadow);
@@ -424,7 +430,8 @@ body {
   text-transform: uppercase;
 }
 .nutrition-facts .badge {
-  min-width: 50px;
+  background-color: var(--lightgray);
+  min-width: 55px;
 }
 
 
@@ -468,9 +475,6 @@ body {
 
 /* ***** RESPONSIVE ***** */
 @media (min-width: 576px) { 
-  .social {
-    display: flex;
-  }
   /*.company-logo img {
     height: 55px;
   }*/
@@ -491,14 +495,19 @@ body {
 }
 @media (min-width: 768px) { 
   .header {
+    background-color: var(--navy);
     border-bottom: 1px solid #eee;
     box-shadow: var(--bs-box-shadow);
   }
   .top {
     flex-direction: row;
+    align-items: center;
     justify-content: space-between;
-    padding-top: .375rem;
-    padding-bottom: .375rem;
+    padding: .5rem .75rem !important;
+  }
+  .company {
+    background-color: transparent;
+    padding: 0;
   }
   .company-logo img {
     height: 60px;

@@ -31,7 +31,7 @@
               <ul class="nutrition-facts">
                 <li v-for="element in product.elements" :key="element.name">
                   <div class="fact">
-                    <span class="element">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
+                    <span class="element text-truncate">{{ element.name }}</span> <span class="badge bg-secondary rounded-pill ms-1">{{ element.qty }} </span>
                   </div>
                 </li>
               </ul>
