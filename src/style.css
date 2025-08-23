@@ -276,7 +276,6 @@ body {
 .product-card .btn {
   background-color: var(--navy);
   border-color: var(--navy);
-  font-weight: 500;
   border-radius: 20px;
 }
 .product-card .btn.active,
@@ -368,6 +367,7 @@ body {
 	width: 110px;
 }
 .product-info .product-description .description {
+  font-size: .95rem;
 	border: 2px solid #dee2e6;
 	border-radius: 8px;
 	padding: .5rem;
@@ -538,6 +538,9 @@ body {
   }
   .product-info .product-description {
     padding: 1.25rem;
+  }
+  .product-info .product-description .description {
+    font-size: 1rem;
   }
   .product-info .product-permissions .badge {
     font-size: .85rem;
