@@ -42,7 +42,7 @@
         <div class="product-permissions">
           <div class="badge">
             <p>
-              CPE {{ product.cpe }}. <br/> 
+              CPE{{ product.cpe }}. <br/> 
               REGISTRADO EN EL S.A.C.S. ENTE ADSCRITO AL EL M.P.P.S. BAJO EL Nº {{ product.approval_number }}. <br/> 
             </p>
           </div>
