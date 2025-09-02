@@ -657,6 +657,21 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Piña + Linaza y Sábila",
+        "price": 12,
+        "short_description": "",
+        "description": "Desintoxica, desinflama y es usado como laxante. Ayuda a adelgazar.",
+        "category": "fat burner",
+        "img": "pina_linaza_sabila.png",
+        "elements": [
+            {"name": "Piña", "qty": "240mg"},
+            {"name": "Linaza", "qty": "225mg"},
+            {"name": "Sábila", "qty": "15mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -1067,6 +1082,19 @@
         "img": "centella_asiatica.png",
         "elements": [
             {"name": "Centella Asiática", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Lochita",
+        "price": 12,
+        "short_description": "",
+        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
+        "category": "suplements",
+        "img": "lochita.png",
+        "elements": [
+            {"name": "Lochita", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
