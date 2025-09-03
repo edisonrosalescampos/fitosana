@@ -12,7 +12,7 @@
       
       <!--<p class="card-text d-md-none">{{ short_description }}</p>-->
 
-      <p class="card-text d-md-block">{{ description }}</p>
+      <p class="card-text">{{ description }}</p>
     </div>
     <div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">

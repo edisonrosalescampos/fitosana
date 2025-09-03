@@ -5,7 +5,7 @@
         "short_description": "",
         "description": "Ayuda en el tratamiento de las afecciones respiratorias. Expectorante, tos seca, resfriado común. Congestión de las vías respiratorias.", 
         "category": "natural premium",
-        "img": "aceite_de_oregano.png",
+        "img": "aceite_de_oregano_np.png",
         "elements": [
             {"name": "Carvacrol", "qty": "81,5%"},
             {"name": "Timol", "qty": "1,9%"}
@@ -20,7 +20,7 @@
         "short_description": "",
         "description": "Ayuda en el tratamiento para el fortalecimiento del cabello, uñas y piel. Brinda fortaleza y nutrición al cabello, favorece el crecimiento de uñas fuertes, embellece la piel brindándole un aspecto lozano y juvenil.", 
         "category": "natural premium",
-        "img": "keratium.png",
+        "img": "keratium_np.png",
         "elements": [
             {"name": "Cola de Caballo polvo, toda la planta (Equisetum arvense)", "qty": "109,5mg"},
             {"name": "Proteína de soya (Aislado de soya)", "qty": "72mg"},
@@ -44,7 +44,7 @@
         "short_description": "",
         "description": "Ayuda en el tratamiento de la deficiencia de magnesio. Mejora la salud ósea. Regula el sistema nervioso.", 
         "category": "natural premium",
-        "img": "magnesio.png",
+        "img": "magnesio_np.png",
         "elements": [
             {"name": "Citrato de Magnesio", "qty": "500mg"}
         ],
@@ -58,13 +58,28 @@
         "short_description": "",
         "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético eficaz y estimulante hepatobiliar. Se recomienda en casos de litiasis vesicular (piedras en vesícula) y en casos de hígado graso.", 
         "category": "natural premium",
-        "img": "diente_de_leon.png",
+        "img": "diente_de_leon_np.png",
         "elements": [
             {"name": "Diente de León, Polvo de hojas (Taraxacum officinale)", "qty": "300mg"}
         ],
         "approval_number": "06-2010/17",
         "cpe": "0812256097",
         "posology": "Una (1) cápsula tres veces al día."
+    },
+    {
+        "name": "Colágeno con Vitamina C",
+        "price": 9,
+        "short_description": "",
+        "description": "La vitamina C tiene un rol antioxidante y promueve la síntesis de colágeno, favorece el mantenimiento de la integridad del sistema inmune, e interviene en el funcionamiento normal de los huesos y de los cartílagos. Fortalece uñas y cabello, mejora el aspecto y elasticidad de la piel y rejuvenece tu belleza.", 
+        "category": "natural premium",
+        "img": "colageno_vitamina_c_np.png",
+        "elements": [
+            {"name": "Colágeno hidrolizado ", "qty": "460mg"},
+            {"name": "Vitamina C (Ácido ascórbico)", "qty": "30mg"}
+        ],
+        "approval_number": "06-2010/17",
+        "cpe": "0812256097",
+        "posology": "Tomar 1 a 2 cápsulas al día."
     },
 
 
