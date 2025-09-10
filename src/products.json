@@ -15,7 +15,7 @@
         "posology": "Adultos: Tomar 2 gotas de aceite de orégano en un vaso de agua media hora antes del desayuno y cena. Niños mayores de 6 años: tomar 1 gota de aceite de orégano media hora antes del desayuno y cena."
     },
     {
-        "name": "Keratium",
+        "name": "Keratium 300mg",
         "price": 9,
         "short_description": "",
         "description": "Ayuda en el tratamiento para el fortalecimiento del cabello, uñas y piel. Brinda fortaleza y nutrición al cabello, favorece el crecimiento de uñas fuertes, embellece la piel brindándole un aspecto lozano y juvenil.", 
@@ -39,7 +39,7 @@
         "posology": "Tomar dos (2) cápsulas al día (1 cápsula antes del desayuno y otra después de la cena)."
     },
     {
-        "name": "Magnesio",
+        "name": "Magnesio 500mg",
         "price": 9,
         "short_description": "",
         "description": "Ayuda en el tratamiento de la deficiencia de magnesio. Mejora la salud ósea. Regula el sistema nervioso.", 
@@ -53,7 +53,7 @@
         "posology": "Una (1) cápsula al día junto con la comida."
     },
     {
-        "name": "Diente de León",
+        "name": "Diente de León 300mg",
         "price": 9,
         "short_description": "",
         "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético eficaz y estimulante hepatobiliar. Se recomienda en casos de litiasis vesicular (piedras en vesícula) y en casos de hígado graso.", 
@@ -67,7 +67,7 @@
         "posology": "Una (1) cápsula tres veces al día."
     },
     {
-        "name": "Colágeno con Vitamina C",
+        "name": "Colágeno con Vitamina C 500mg",
         "price": 9,
         "short_description": "",
         "description": "La vitamina C tiene un rol antioxidante y promueve la síntesis de colágeno, favorece el mantenimiento de la integridad del sistema inmune, e interviene en el funcionamiento normal de los huesos y de los cartílagos. Fortalece uñas y cabello, mejora el aspecto y elasticidad de la piel y rejuvenece tu belleza.", 
