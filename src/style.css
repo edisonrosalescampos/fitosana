@@ -335,7 +335,7 @@ body {
 }
 .product-info .product-img-container {
   flex: 1;
-  padding: .5rem;
+  padding: 0 .5rem;
 }
 .product-info .product-description-container {
   flex: 2;
