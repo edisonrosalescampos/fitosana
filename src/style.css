@@ -183,7 +183,7 @@ body {
 	font-style: italic;
 	margin-bottom: 0;
 	text-align: left;	
-  padding-bottom: .25rem;
+  padding-bottom: .1rem;
 	border-bottom: 2px solid var(--lightblue);	
 }
 .btn-back {
@@ -323,7 +323,7 @@ body {
   flex-direction: column;
   max-width: 900px;
   padding: 0;
-  gap: .5rem;
+  gap: .75rem;
   margin: auto;
 }
 .product-info .title {

@@ -77,9 +77,16 @@
 
       <!--PROTEINAS-->
       <ProductGroup 
-        title="Proteínas"       
+        title="Creatinas y Proteínas"       
         :products="proteins" 
         category="proteins" 
+      />
+
+      <!--AMINOÁCIDOS-->
+      <ProductGroup 
+        title="Aminoácidos"       
+        :products="aminoAcids" 
+        category="aminoAcids" 
       />
 
       <!--OTROS-->
@@ -159,6 +166,11 @@ export default {
     },  
     proteins() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "proteins");
+
+      return this.sortAscByName(filteredResults);
+    },
+    aminoAcids() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "amino acids");
 
       return this.sortAscByName(filteredResults);
     },

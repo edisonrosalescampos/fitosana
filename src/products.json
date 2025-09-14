@@ -398,6 +398,21 @@
         "approval_number": "A-165.569",
         "cpe": "1024572007"
     },
+    {
+        "name": "Cólageno Hidrolizado",
+        "price": 23,
+        "short_description": "",
+        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "category": "collagens",
+        "img": "colageno_hidrolizado.png",
+        "elements": [
+            {"name": "Cólageno", "qty": "15g"},
+            {"name": "Biotina", "qty": "30mcg"},
+            {"name": "Vitamina E", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
 
 
 
@@ -695,19 +710,7 @@
 
 
 
-    {
-        "name": "Graviola",
-        "price": 12,
-        "short_description": "Ayuda al tratamiento de miomas y quistes.",
-        "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
-        "category": "suplements",
-        "img": "graviola.png",
-        "elements": [
-            {"name": "Graviola", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+
     {
         "name": "Mapurite",
         "price": 12,
@@ -734,23 +737,6 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
-    {
-        "name": "Ñame Salvaje",
-        "price": 12,
-        "short_description": "Es usado para mitigar los efectos de la menopausia.",
-        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
-        "category": "suplements",
-        "img": "name_salvaje.png",
-        "elements": [
-            {"name": "Castaño de Indias", "qty": "100mg"},
-            {"name": "Cola de Caballo", "qty": "100mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"},
-            {"name": "Muérdago", "qty": "100mg"},
-            {"name": "Jengibre", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    }, 
     {
         "name": "Levadura de Cerveza",
         "price": 12,
@@ -879,20 +865,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
-    {
-        "name": "Cola de Caballo",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a reducir la retención de líquidos, ayuda a tratar los riñones si tienen algún trastorno y mejora la salud de la vejiga.",
-        "category": "suplements",
-        "img": "cola_caballo.png",
-        "elements": [
-            {"name": "Cola de Caballo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },    
+    },       
     {
         "name": "Quiste Ginol",
         "price": 12,
@@ -968,20 +941,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Uña de Gato",
-        "price": 12,
-        "short_description": "",
-        "description": "Evita el crecimiento de células cancerígenas, fortalece el sistema inmunológico y renegera el sistema óseo.", 
-        "category": "suplements",
-        "img": "una_gato.png",
-        "elements": [
-            {"name": "Uña de Gato", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },    
     {
         "name": "Glucosamina",
         "price": 12,
@@ -991,19 +951,6 @@
         "img": "glucosamina.png",
         "elements": [
             {"name": "Glucosamina", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Moringa",
-        "price": 12,
-        "short_description": "",
-        "description": "Protege el cerebro, reduce la presión arterial, alivia el dolor articular y controla la tensión baja.", 
-        "category": "suplements",
-        "img": "moringa.png",
-        "elements": [
-            {"name": "Moringa", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1101,19 +1048,7 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
-    {
-        "name": "Lochita",
-        "price": 12,
-        "short_description": "",
-        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
-        "category": "suplements",
-        "img": "lochita.png",
-        "elements": [
-            {"name": "Lochita", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    
     
 
 
@@ -1209,7 +1144,89 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },   
+    }, 
+    {
+        "name": "Lochita",
+        "price": 12,
+        "short_description": "",
+        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
+        "category": "others",
+        "img": "lochita.png",
+        "elements": [
+            {"name": "Lochita", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "name": "Uña de Gato",
+        "price": 12,
+        "short_description": "",
+        "description": "Evita el crecimiento de células cancerígenas, fortalece el sistema inmunológico y renegera el sistema óseo.", 
+        "category": "others",
+        "img": "una_gato.png",
+        "elements": [
+            {"name": "Uña de Gato", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ñame Salvaje",
+        "price": 12,
+        "short_description": "Es usado para mitigar los efectos de la menopausia.",
+        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
+        "category": "others",
+        "img": "name_salvaje.png",
+        "elements": [
+            {"name": "Castaño de Indias", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "Cola de Caballo",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a reducir la retención de líquidos, ayuda a tratar los riñones si tienen algún trastorno y mejora la salud de la vejiga.",
+        "category": "others",
+        "img": "cola_caballo.png",
+        "elements": [
+            {"name": "Cola de Caballo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "Graviola",
+        "price": 12,
+        "short_description": "Ayuda al tratamiento de miomas y quistes.",
+        "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
+        "category": "others",
+        "img": "graviola.png",
+        "elements": [
+            {"name": "Graviola", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Moringa",
+        "price": 12,
+        "short_description": "",
+        "description": "Protege el cerebro, reduce la presión arterial, alivia el dolor articular y controla la tensión baja.", 
+        "category": "others",
+        "img": "moringa.png",
+        "elements": [
+            {"name": "Moringa", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
     
 
@@ -1225,53 +1242,53 @@
 
 
     {
-        "name": "Proteína de Suero 400gr (Chocolate)",
+        "name": "Proteína de Suero 400g (Chocolate)",
         "price": 23,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
         "img": "proteina_suero_chocolate_400gr.png",
         "elements": [
-            {"name": "Proteina", "qty": "23,47gr/30gr"}
+            {"name": "Proteina", "qty": "23,47g/30g"}
         ],
         "approval_number": "A-165.183",
         "cpe": "000000000"
     },
     {
-        "name": "Proteína de Suero 400gr (Vainilla)",
+        "name": "Proteína de Suero 400g (Vainilla)",
         "price": 23,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
         "img": "proteina_suero_vainilla_400gr.png",
         "elements": [
-            {"name": "Proteina", "qty": "23,47gr/30gr"}
+            {"name": "Proteina", "qty": "23,47g/30g"}
         ],
         "approval_number": "A-165.183",
         "cpe": "000000000"
     },
     {
-        "name": "Proteína de Suero 907gr (Chocolate)",
+        "name": "Proteína de Suero 907g (Chocolate)",
         "price": 35,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
         "img": "proteina_suero_chocolate.png",
         "elements": [
-            {"name": "Proteina", "qty": "23,47gr/30gr"}
+            {"name": "Proteina", "qty": "23,47g/30g"}
         ],
         "approval_number": "A-165.183",
         "cpe": "000000000"
     },
     {
-        "name": "Proteína de Suero 907gr (Vainilla)",
+        "name": "Proteína de Suero 907g (Vainilla)",
         "price": 35,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
         "img": "proteina_suero_vainilla.png",
         "elements": [
-            {"name": "Proteina", "qty": "23,47gr/30gr"}
+            {"name": "Proteina", "qty": "23,47g/30g"}
         ],
         "approval_number": "A-165.231",
         "cpe": "0724563818"
@@ -1284,58 +1301,74 @@
         "category": "proteins",
         "img": "proteina_huevo_vainilla.png",
         "elements": [
-            {"name": "Proteina", "qty": "23,47gr/30gr"}
+            {"name": "Proteina", "qty": "23,47g/30g"}
         ],
         "approval_number": "A-165.571",
         "cpe": "0724563820"
     },
     {
-        "name": "Creatina",
+        "name": "Creatina Fitosana 500g",
         "price": 30,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
         "category": "proteins",
         "img": "creatina.png",
         "elements": [
-            {"name": "Creatina Monohidratada", "qty": "29,3gr/90gr"}
+            {"name": "Creatina Monohidratada", "qty": "29,3g/90g"}
         ],
         "approval_number": "A-165.570",
         "cpe": "0724563657"
     },
     {
-        "name": "Creatina Monohidratada",
+        "name": "Creatina Fitosana 2.5g",
         "price": 12,
         "short_description": "",
         "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
         "category": "proteins",
         "img": "creatina_monohidratada.png",
         "elements": [
-            {"name": "Creatina Monohidratada", "qty": "2,5gr"}
+            {"name": "Creatina Monohidratada", "qty": "2,5g"}
         ],
         "approval_number": "A-165.181",
         "cpe": "0724563632"
     },
     {
-        "name": "Cólageno Hidrolizado",
-        "price": 23,
+        "name": "Creatina Nutrex 300g",
+        "price": 30,
         "short_description": "",
-        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "description": "Mejora la fuerza y el rendimiento en entrenamientos de alta intensidad, favorece el aumento de masa corporal magra y acelera la recuperación muscular.",
         "category": "proteins",
-        "img": "colageno_hidrolizado.png",
+        "img": "creatina_nutrex.png",
         "elements": [
-            {"name": "Cólageno", "qty": "15gr"},
-            {"name": "Biotina", "qty": "30mcg"},
-            {"name": "Vitamina E", "qty": "10mg"}
+            {"name": "Creatina Monohidratada", "qty": "300g"}
         ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
+        "approval_number": "A-165.570",
+        "cpe": "0724563657"
+    },
+    {
+        "name": "Creatina IFS NUTRITION 200g",
+        "price": 30,
+        "short_description": "",
+        "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
+        "category": "proteins",
+        "img": "creatina_ifs_nutrition.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "200g"}
+        ],
+        "approval_number": "A-165.570",
+        "cpe": "0724563657"
+    },
+    
+
+
+    
+    
     {
         "name": "L-Arginina",
         "price": 12,
         "short_description": "",
         "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "proteins",
+        "category": "amino acids",
         "img": "l_arginina.png",
         "elements": [
             {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
@@ -1348,7 +1381,7 @@
         "price": 12,
         "short_description": "",
         "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
-        "category": "proteins",
+        "category": "amino acids",
         "img": "l_carnitina.png",
         "elements": [
             {"name": "L-Carnitina (L-carnipure)", "qty": "500mg"}
