@@ -1342,8 +1342,8 @@
         "elements": [
             {"name": "Creatina Monohidratada", "qty": "300g"}
         ],
-        "approval_number": "A-165.570",
-        "cpe": "0724563657"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },
     {
         "name": "Creatina IFS NUTRITION 200g",
@@ -1355,8 +1355,8 @@
         "elements": [
             {"name": "Creatina Monohidratada", "qty": "200g"}
         ],
-        "approval_number": "A-165.570",
-        "cpe": "0724563657"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },
     
 
