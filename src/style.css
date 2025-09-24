@@ -265,6 +265,7 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
   margin-bottom: 0;
+  line-height: 1.25rem;
 }
 .product-card .card-footer {
   background-color: transparent;
@@ -573,6 +574,9 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
     gap: .5rem;
   }
+  .product-card .card-text {
+    line-height: 1.375rem;
+  } 
 }
 @media (max-width: 992px) {
   .navbar-collapse {
