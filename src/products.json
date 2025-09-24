@@ -81,6 +81,98 @@
         "cpe": "0721502303",
         "posology": "Tomar 1 a 2 cápsulas al día."
     },
+    {
+        "name": "Singrass 400mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de regímenes para el control de peso. Adelgazante, diurético y quemador de grasa corporal.", 
+        "category": "natural premium",
+        "img": "singrass_np.png",
+        "elements": [
+            {"name": "Garciniacambogia, Polvo del fruto (Garciniacambogia, equivalente al 40% de ácido Hidroxicítrico en base inerte)", "qty": "100mg"},
+            {"name": "Fucus, Polvo del talo (Fucusvesiculosus)", "qty": "100mg"},
+            {"name": "Alcachofa, Polvo de hojas (Cynarascolymus)", "qty": "50mg"},
+            {"name": "Perejil, Polvo de hojas (Petroselinumsativum)", "qty": "50mg"},
+            {"name": "Almidón de Maíz (Excipiente C.S.P.)", "qty": "100mg"}
+        ],
+        "approval_number": "A-147.041",
+        "cpe": "0721502303",
+        "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
+    },
+    {
+        "name": "Melatonina Plus 3mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento del estrés y control del sueño, antioxidante.", 
+        "category": "natural premium",
+        "img": "melatonina_plus_np.png",
+        "elements": [
+            {"name": "Melatonina, polvo", "qty": "3mg"},
+            {"name": "Clorhidrato de Piridoxina, polvo", "qty": "15mg"},
+            {"name": "Citrato de Magnesio, polvo", "qty": "32mg"},
+            {"name": "Valeriana (Valeriana officinalis), polvo de raíz", "qty": "125mg"},
+            {"name": "Ashwagandha (Withania somnífera), polvo de raíz", "qty": "125mg"}
+        ],
+        "approval_number": "A-147.041",
+        "cpe": "0721502303",
+        "posology": "Adultos: Una cápsula, media hora antes de acostarse."
+    },
+    {
+        "name": "Prostinat 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento del proceso inflamatorio en caso de hiperplasia prostática benigna. Desintoxica y limpia la próstata eliminando la inflamación, disminuye las micciones nocturnas y mejora la virilidad en el hombre.", 
+        "category": "natural premium",
+        "img": "prostinat_np.png",
+        "elements": [
+            {"name": "CALABAZA, Polvo de Semilla (Curcubitapepo)", "qty": "150mg"},
+            {"name": "ORTIGA, Polvo de raíz (Urtica dioica)", "qty": "120mg"},
+            {"name": "OXIDO DE ZINC", "qty": "15mg"},
+            {"name": "VITAMINA E (D-l-alfatocoferol)", "qty": "15mg"}
+        ],
+        "approval_number": "A-147.041",
+        "cpe": "0721502303",
+        "posology": "Adultos: Tomar 1 cápsula diaria después de la comida."
+    },
+    {
+        "name": "Varisan 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de los síntomas asociados a insuficiencia venosa de los miembros inferiores. Piernas cansadas, edemas, várices, sensación de pesadez y calambres nocturnos.", 
+        "category": "natural premium",
+        "img": "varisan_np.png",
+        "elements": [
+            {"name": "CASTAÑO DE INDIAS, Polvo de Semillas (Aesculushippocastanum)", "qty": "130mg"},
+            {"name": "GRAPE, Polvo de semillas (Vitis vinífera)", "qty": "90mg"},
+            {"name": "COLA DE CABALLO, Polvo planta entera (Equisetumarvenses)", "qty": "80mg"}
+        ],
+        "approval_number": "A-147.041",
+        "cpe": "0721502303",
+        "posology": "Adultos: Tomar 1 cápsula antes del desayuno y otra después de la cena con suficiente líquido."
+    },
+    {
+        "name": "Nonna Jarabe 180ml",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en la fluidificación de las secreciones bronquiales y en procesos catarrales acompañados con tos y flema.", 
+        "category": "natural premium",
+        "img": "nonna_np.png",
+        "elements": [
+            {"name": "Ext. Fluido de hojas de Sauco (Sambucusnigra)", "qty": "0,75ml"},
+            {"name": "Ext. Fluido de hojas de Eucalipto (Eucalyptusglobulus)", "qty": "0,60ml"},
+            {"name": "Ext. Fluido de Bulbo de cebolla morada (Alliuncepa)", "qty": "0,45ml"},
+            {"name": "Ext. Fluido de penca de Zabila (Aloe vera)", "qty": "0,60ml"},
+            {"name": "Eucaliptol (Aceite esencial de eucalipto)", "qty": "0,0075ml"},
+            {"name": "Esencias de hojas de menta (Menthapiperita)", "qty": "0,012ml"},
+            {"name": "Miel de abejas", "qty": "6,6ml"},
+            {"name": "Fructuosa (Fructose)", "qty": "3g"},
+            {"name": "Vehículo (Excipientes C.S.P.)", "qty": "15ml"},
+            {"name": "Contenido total de Etanol en 100ml", "qty": "3,81ml"}
+        ],
+        "approval_number": "A-147.041",
+        "cpe": "0721502303",
+        "posology": "Adultos: una cucharada (15ml) tres veces al día. Niños: mayores de 12 años una cucharadita (5ml) tres veces al día."
+    },
 
 
 
@@ -828,11 +920,7 @@
         "category": "suplements",
         "img": "ginkgo_biloba.png",
         "elements": [
-            {"name": "Castaño de India", "qty": "100mg"},
-            {"name": "Cola de Caballo", "qty": "100mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"},
-            {"name": "Muérdago", "qty": "100mg"},
-            {"name": "Jengibre", "qty": "80mg"}
+            {"name": "Polvo de Ginkgo Biloba (hojas)", "qty": "30mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"

@@ -427,6 +427,10 @@ body {
   font-size: .85rem;
   font-weight: 600;
   text-transform: uppercase;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+  overflow: hidden;
 }
 .nutrition-facts .badge {
   background-color: var(--lightgray);
