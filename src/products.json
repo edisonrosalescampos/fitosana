@@ -579,6 +579,34 @@
         "approval_number": "A-165.227",
         "cpe": "1024572010"
     },
+    {
+        "name": "Magnesio + B6",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda al sistema nervioso a funcionar bien, mejora el estado de ánimo y promueve un sueño reparador.", 
+        "category": "magnesiums",
+        "img": "magnesio_b6.png",
+        "elements": [
+            {"name": "Vitamina B6", "qty": "280mg"},
+            {"name": "Citrato de Magnesio", "qty": "200mg"}
+        ],
+        "approval_number": "A-165.180",
+        "cpe": "1024572002"
+    },
+    {
+        "name": "Magnesio + Vitamina C",
+        "price": 12,
+        "short_description": "",
+        "description": "Disminuye el cansancio, la fatiga, contribuye al funcionamiento normal del sistema nervioso y ayuda a la salud de los músculos.", 
+        "category": "magnesiums",
+        "img": "magnesio_vitamina_c.png",
+        "elements": [
+            {"name": "Óxido de Magnesio", "qty": "240mg"},
+            {"name": "Ácido L-ascórbico", "qty": "240mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
