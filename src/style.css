@@ -362,9 +362,10 @@ body {
 	display: inline-block;
 	background-color: var(--navy);
 	color: var(--bs-white);
-	padding: .25rem .75rem;
+	padding: .2rem .6rem;
 	border-radius: 0px 8px 0 8px;
 	width: 110px;
+  font-size: .95rem;
 }
 .product-info .product-description .description {
   font-size: .95rem;

@@ -443,6 +443,21 @@
         "cpe": "000000000",
         "posology": "Tomar una (1) cápsula diariamente, con comida."
     },
+    {
+        "name": "Ácido Fólico",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a prevenir defectos de nacimiento y cambios en el ADN que pueden causar cáncer. Es importante para las mujeres en edad fértil",
+        "category": "vitamins",
+        "img": "acido_folico.png",
+        "elements": [
+            {"name": "Folato (800mcg de Ácido Fólico)", "qty": "1,333mg"},
+            {"name": "Vitamina B12", "qty": "25mg"}
+        ],
+        "approval_number": "A-166.179",
+        "cpe": "1024572005",
+        "posology": "Tomar una (1) tableta con el almuerzo diariamente."
+    },
 
 
 
@@ -1470,6 +1485,19 @@
         "img": "creatina_ifs_nutrition.png",
         "elements": [
             {"name": "Creatina Monohidratada", "qty": "200g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Creatina Angry 300g",
+        "price": 30,
+        "short_description": "",
+        "description": "Angry Supplements ofrece creatina monohidratada en polvo, la forma más estudiada y reconocida por su efectividad. Este producto está formulado para mejorar la fuerza, acelerar la recuperación muscular y potenciar el rendimiento deportivo en general.",
+        "category": "proteins",
+        "img": "creatina_angry.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "300g"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
