@@ -244,7 +244,7 @@ body {
 	color: var(--lightgray);
 }
 .product-card .card-body {
-  padding: .5rem;
+  padding: .375rem;
 }
 .product-card .card-title-container {
 	display: flex;
@@ -260,7 +260,7 @@ body {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	white-space: normal;
-  margin-bottom: .25rem;
+  margin-bottom: .2rem;
   text-decoration: none;
 }
 .product-card .card-price {
