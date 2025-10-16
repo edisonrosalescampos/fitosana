@@ -283,9 +283,11 @@ body {
   padding-right: .5rem;
 }
 .product-card .btn {
-  background-color: var(--navy);
-  border-color: var(--navy);
-  border-radius: 20px;
+	background-color: var(--navy);
+	border-color: var(--navy);
+	border-radius: 20px;
+	padding-top: .15rem;
+	padding-bottom: .15rem;
 }
 .product-card .btn.active,
 .product-card .btn:active {
@@ -505,6 +507,13 @@ body {
   }
   .product-card .card-text {
     font-size: .9rem;
+  }
+  .product-card .btn {
+    background-color: var(--navy);
+    border-color: var(--navy);
+    border-radius: 20px;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
   }
 }
 @media (min-width: 768px) { 
