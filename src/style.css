@@ -260,7 +260,7 @@ body {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	white-space: normal;
-  margin-bottom: .1rem;
+  margin-bottom: .25rem;
   text-decoration: none;
 }
 .product-card .card-price {

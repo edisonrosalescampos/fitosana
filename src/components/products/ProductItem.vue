@@ -6,19 +6,23 @@
       </RouterLink>  
     </div> 
     <div class="card-body"> 
-      <div class="card-title-container">        
-        <RouterLink class="card-title" :to="'/product/' + getSlug(name)">
-            {{ name }}
-        </RouterLink>  
+      <RouterLink class="card-title" :to="'/product/' + getSlug(name)">
+        {{ name }}
+      </RouterLink>  
         
-        <RouterLink class="card-link" :to="'/product/' + getSlug(name)">
-          <i class="far fa-arrow-alt-circle-right fa-lg"></i>
-        </RouterLink>
-      </div>
+      <!--<RouterLink class="card-link" :to="'/product/' + getSlug(name)">
+        <i class="far fa-arrow-alt-circle-right fa-lg"></i>
+      </RouterLink>-->
 
       <!--<p class="card-text d-md-none">{{ short_description }}</p>-->
 
-      <p class="card-text">{{ description }}</p>
+      <!--<p class="card-text">{{ description }}</p>-->
+
+      <RouterLink :to="'/product/' + getSlug(name)">
+        <button class="btn btn-primary btn-sm w-100">
+           Ver más... <i class="fas fa-search ms-1"></i>
+        </button>
+      </RouterLink> 
     </div>
     <!--<div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">

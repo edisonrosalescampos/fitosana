@@ -95,8 +95,8 @@
             {"name": "Perejil, Polvo de hojas (Petroselinumsativum)", "qty": "50mg"},
             {"name": "Almidón de Maíz (Excipiente C.S.P.)", "qty": "100mg"}
         ],
-        "approval_number": "A-147.041",
-        "cpe": "0721502303",
+        "approval_number": "10-2467",
+        "cpe": "0721502304",
         "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
     },
     {
@@ -113,8 +113,8 @@
             {"name": "Valeriana (Valeriana officinalis), polvo de raíz", "qty": "125mg"},
             {"name": "Ashwagandha (Withania somnífera), polvo de raíz", "qty": "125mg"}
         ],
-        "approval_number": "A-147.041",
-        "cpe": "0721502303",
+        "approval_number": "24-0361",
+        "cpe": "0524560947",
         "posology": "Adultos: Una cápsula, media hora antes de acostarse."
     },
     {
@@ -130,8 +130,8 @@
             {"name": "OXIDO DE ZINC", "qty": "15mg"},
             {"name": "VITAMINA E (D-l-alfatocoferol)", "qty": "15mg"}
         ],
-        "approval_number": "A-147.041",
-        "cpe": "0721502303",
+        "approval_number": "10-2466",
+        "cpe": "0521498131",
         "posology": "Adultos: Tomar 1 cápsula diaria después de la comida."
     },
     {
@@ -146,8 +146,8 @@
             {"name": "GRAPE, Polvo de semillas (Vitis vinífera)", "qty": "90mg"},
             {"name": "COLA DE CABALLO, Polvo planta entera (Equisetumarvenses)", "qty": "80mg"}
         ],
-        "approval_number": "A-147.041",
-        "cpe": "0721502303",
+        "approval_number": "10-2465",
+        "cpe": "0521498130",
         "posology": "Adultos: Tomar 1 cápsula antes del desayuno y otra después de la cena con suficiente líquido."
     },
     {
@@ -169,9 +169,38 @@
             {"name": "Vehículo (Excipientes C.S.P.)", "qty": "15ml"},
             {"name": "Contenido total de Etanol en 100ml", "qty": "3,81ml"}
         ],
-        "approval_number": "A-147.041",
-        "cpe": "0721502303",
+        "approval_number": "07-2211/17",
+        "cpe": "0622518399",
         "posology": "Adultos: una cucharada (15ml) tres veces al día. Niños: mayores de 12 años una cucharadita (5ml) tres veces al día."
+    },
+    {
+        "name": "Zarzaparrilla 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético natural y eficaz depurativo sanguíneo. Ayuda a controlar los procesos hormonales en hombre y mujer.", 
+        "category": "natural premium",
+        "img": "zarzaparrilla_np.png",
+        "elements": [
+            {"name": "ZARZAPARRILLA, polvo de raíz (Smilax officinalis).", "qty": "300mg"},
+            {"name": "ALMIDÓN DE MAÍZ (Excipiente).", "qty": "150mg"}
+        ],
+        "approval_number": "07-2170/17",
+        "cpe": "0812256096",
+        "posology": "ADULTOS: Una cápsula tres veces al día."
+    },
+    {
+        "name": "Cola de Caballo 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de la diuresis. Diurético eficaz que te ayuda a limpiar las vías urinarias y a eliminar la retención de líquido. Se recomienda en casos de litiasis renal (piedra en los riñones).", 
+        "category": "natural premium",
+        "img": "cola_caballo_np.png",
+        "elements": [
+            {"name": "COLA DE CABALLO, Polvo de planta entera (Equisetum arvense)", "qty": "300mg"}
+        ],
+        "approval_number": "06-2048/17",
+        "cpe": "0812256098",
+        "posology": "Adultos: Una cápsula tres veces al día."
     },
 
 
