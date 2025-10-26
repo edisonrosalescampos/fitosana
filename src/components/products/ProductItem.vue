@@ -20,7 +20,7 @@
 
       <RouterLink :to="'/product/' + getSlug(name)">
         <button class="btn btn-primary btn-sm w-100">
-           Ver más... <i class="fas fa-search ms-1"></i>
+           VER DETALLE <!--<i class="fas fa-search ms-1"></i>-->
         </button>
       </RouterLink> 
     </div>

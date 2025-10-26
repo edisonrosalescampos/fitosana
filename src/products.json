@@ -202,6 +202,34 @@
         "cpe": "0812256098",
         "posology": "Adultos: Una cápsula tres veces al día."
     },
+    {
+        "name": "Ginkgo Biloba 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de los trastornos caracterizados por la disminución de la capacidad de atención, concentración y memoria. Mejora la microcirculación sanguínea y molestias y dolores de los miembros inferiores.", 
+        "category": "natural premium",
+        "img": "ginkgo_biloba_np.png",
+        "elements": [
+            {"name": "Ginkgo, Polvo de hojas (Ginkgo biloba)", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Adultos: Una cápsula dos veces al día."
+    },
+    {
+        "name": "Centella Asiática 300mg",
+        "price": 9,
+        "short_description": "",
+        "description": "Coadyuvante en el tratamiento para la prevención y control de la celulitis, control de peso y eliminación de quistes de senos y ovarios.", 
+        "category": "natural premium",
+        "img": "centella_asiatica_np.png",
+        "elements": [
+            {"name": " CENTELLA ASIÁTICA, Polvo de hojas (Hidrocotyle asiática).", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Adultos: Una cápsula tres veces al día."
+    },
 
 
 
