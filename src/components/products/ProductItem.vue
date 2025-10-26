@@ -6,7 +6,7 @@
       </RouterLink>  
     </div> 
     <div class="card-body"> 
-      <RouterLink class="card-title" :to="'/product/' + getSlug(name)">
+      <RouterLink class="card-title mb-0" :to="'/product/' + getSlug(name)">
         {{ name }}
       </RouterLink>  
         
@@ -17,12 +17,6 @@
       <!--<p class="card-text d-md-none">{{ short_description }}</p>-->
 
       <!--<p class="card-text">{{ description }}</p>-->
-
-      <RouterLink :to="'/product/' + getSlug(name)">
-        <button class="btn btn-primary btn-sm w-100">
-           VER DETALLE <!--<i class="fas fa-search ms-1"></i>-->
-        </button>
-      </RouterLink> 
     </div>
     <!--<div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">
