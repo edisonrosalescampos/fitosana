@@ -1559,6 +1559,21 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Proteína de Suero IFS NUTRITION 1Kg (Whey Protein)",
+        "price": 30,
+        "short_description": "",
+        "description": "Es una mezcla de concentrados de proteína de suero de leche, enriquecida con vitaminas, minerales y aminoácidos esenciales que promueven el desarrollo y crecimiento de tejido muscular, de rápida absorción y fácil de preparar.",
+        "category": "proteins",
+        "img": "proteina_ifs_nutrition_1kg.png",
+        "elements": [
+            {"name": "Proteína", "qty": "25g"},
+            {"name": "BCAA", "qty": "8g"},
+            {"name": "Calorías", "qty": "130kcal"}
+        ],
+        "approval_number": "A-89.730",
+        "cpe": "2022/4847"
+    },
     
 
 
