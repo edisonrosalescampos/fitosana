@@ -106,12 +106,20 @@ body {
   padding: .25rem .5rem;
 }
 .company-logo {
+  position: relative;
   margin-bottom: 0;
 }
-.company-logo img {
+.company-img {
   height: 55px;
   width: auto;
   /*border-radius: 50%;*/
+}
+.christmas-img {
+	position: absolute;
+	height: 22px;
+	top: -3px;
+	left: -7px;
+	transform: rotate(-25deg);
 }
 .company-info {
   text-align: center;
@@ -538,7 +546,7 @@ body {
     background-color: transparent;
     padding: 0;
   }
-  .company-logo img {
+  .company-img {
     height: 60px;
   }
   .social ul {

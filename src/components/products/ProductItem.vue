@@ -21,7 +21,7 @@
     <div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">
         <button class="btn btn-primary btn-sm w-100">
-           Ver Detalle 
+          Ver Detalle 
         </button>
       </RouterLink>      
     </div>

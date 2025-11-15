@@ -4,7 +4,9 @@
       <div class="top px-0 container-xl">
         <div class="company">
           <div class="company-logo">
-            <img src="/images/logo_suplementos_acarigua.png" alt="">
+            <img class="company-img" src="/images/logo_suplementos_acarigua.png" alt="">
+
+            <img class="christmas-img" src="/images/gorrito_navidad.png" alt="">
           </div>
         </div>
 
