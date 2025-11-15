@@ -1574,6 +1574,19 @@
         "approval_number": "A-89.730",
         "cpe": "2022/4847"
     },
+    {
+        "name": "Creatina Muscletech Platinum 400g",
+        "price": 55,
+        "short_description": "",
+        "description": "Es un suplemento de creatina monohidratada micronizada de alta pureza, diseñado para mejorar la fuerza, la potencia, la resistencia y la recuperación muscular.",
+        "category": "proteins",
+        "img": "creatina_muscletech_platinum.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "400g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
     
 
 
