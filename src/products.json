@@ -387,7 +387,7 @@
         "category": "vitamins",
         "img": "niacina.png",
         "elements": [
-            {"name": "Niacina", "qty": "500mg"}
+            {"name": "Niacina", "qty": "30mg"}
         ],
         "approval_number": "A-165.255",
         "cpe": "0724563660",
@@ -429,27 +429,11 @@
         "category": "vitamins",
         "img": "zinc.png",
         "elements": [
-            {"name": "Zinc", "qty": "50mg"},
-            {"name": "Calcio", "qty": "46mg"}
+            {"name": "Zinc", "qty": "50mg"}
         ],
         "approval_number": "A-165.219",
         "cpe": "0624562263",
         "posology": "Tomar una (1) tableta después del almuerzo diariamente."
-    },
-    {
-        "name": "Citrato de Calcio con Vitamina D",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a mantener los dientes y huesos sanos, es posible que evite el cáncer, la diábetes y la presión arterial.", 
-        "category": "vitamins",
-        "img": "citrato_calcio_vitamina_d.png",
-        "elements": [
-            {"name": "Citrato de Calcio", "qty": "400mg"},
-            {"name": "Vitamina D", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "posology": "Tomar una (1) tableta al día, media hora después de la comida."
     },
     {
         "name": "Hierro",
@@ -514,6 +498,25 @@
         "approval_number": "A-166.179",
         "cpe": "1024572005",
         "posology": "Tomar una (1) tableta con el almuerzo diariamente."
+    },
+    {
+        "name": "Vitaminas + Hierro",
+        "price": 12,
+        "short_description": "",
+        "description": "Estimula el crecimiento y el funcionamiento normal del sistema inmunitario y ayuda a fabricar la hemoglobina.",
+        "category": "vitamins",
+        "img": "vitaminas_minerales.png",
+        "elements": [
+            {"name": "Citrato de Hierro", "qty": "125mg"},
+            {"name": "Vitamina B1", "qty": "10mg"},
+            {"name": "Vitamina B2", "qty": "5mg"},
+            {"name": "Vitamina B3", "qty": "20mg"},
+            {"name": "Vitamina B6", "qty": "10mg"},
+            {"name": "Vitamina B12", "qty": "0,10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
     },
 
 
@@ -983,19 +986,6 @@
         "cpe": "000000000"
     }, 
     {
-        "name": "Ginseng Koreano",
-        "price": 12,
-        "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
-        "description": "Aumenta la actividad mental y el deseo sexual.",
-        "category": "suplements",
-        "img": "ginseng_koreano.png",
-        "elements": [
-            {"name": "Ginseng Koreano", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "1024572005"
-    },
-    {
         "name": "Aguaje",
         "price": 12,
         "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
@@ -1075,23 +1065,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Circulación",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
-        "category": "suplements",
-        "img": "circulacion.png",
-        "elements": [
-            {"name": "Castaño de India", "qty": "100mg"},
-            {"name": "Cola de Caballo", "qty": "100mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"},
-            {"name": "Muérdago", "qty": "100mg"},
-            {"name": "Jengibre", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Maca",
         "price": 12,
         "short_description": "",
@@ -1116,20 +1089,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
-    {
-        "name": "Cardo Lechozo",
-        "price": 12,
-        "short_description": "",
-        "description": "Previene trastornos del hígado, trata la cirrosis y baja los niveles de alcohol.", 
-        "category": "suplements",
-        "img": "cardo_lechozo.png",
-        "elements": [
-            {"name": "Cardo Lechozo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },    
+    },        
     {
         "name": "Glucosamina",
         "price": 12,
@@ -1142,20 +1102,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Cartílago de Tiburón",
-        "price": 12,
-        "short_description": "",
-        "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
-        "category": "suplements",
-        "img": "cartilago_tiburon.png",
-        "elements": [
-            {"name": "Cartílago de Tiburón", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    }, 
     {
         "name": "Arándano Negro",
         "price": 12,
@@ -1178,21 +1125,6 @@
         "img": "arandano_rojo.png",
         "elements": [
             {"name": "Arándano Rojo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Dulce Sueño",
-        "price": 12,
-        "short_description": "",
-        "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
-        "category": "suplements",
-        "img": "dulce_sueno.png",
-        "elements": [
-            {"name": "Valeriana", "qty": "240mg"},
-            {"name": "Magnesio", "qty": "120mg"},
-            {"name": "5 HTP", "qty": "120mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1414,6 +1346,92 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
+    },
+    {
+        "name": "Ginseng Koreano",
+        "price": 12,
+        "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
+        "description": "Aumenta la actividad mental y el deseo sexual.",
+        "category": "others",
+        "img": "ginseng_koreano.png",
+        "elements": [
+            {"name": "Ginseng Koreano", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "1024572005"
+    },
+    {
+        "name": "Circulación",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "others",
+        "img": "circulacion.png",
+        "elements": [
+            {"name": "Castaño de India", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cardo Lechozo",
+        "price": 12,
+        "short_description": "",
+        "description": "Previene trastornos del hígado, trata la cirrosis y baja los niveles de alcohol.", 
+        "category": "others",
+        "img": "cardo_lechozo.png",
+        "elements": [
+            {"name": "Cardo Lechozo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cartílago de Tiburón",
+        "price": 12,
+        "short_description": "",
+        "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
+        "category": "others",
+        "img": "cartilago_tiburon.png",
+        "elements": [
+            {"name": "Cartílago de Tiburón", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Dulce Sueño",
+        "price": 12,
+        "short_description": "",
+        "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
+        "category": "others",
+        "img": "dulce_sueno.png",
+        "elements": [
+            {"name": "Valeriana", "qty": "240mg"},
+            {"name": "Magnesio", "qty": "120mg"},
+            {"name": "5 HTP", "qty": "120mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Citrato de Calcio con Vitamina D",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a mantener los dientes y huesos sanos, es posible que evite el cáncer, la diábetes y la presión arterial.", 
+        "category": "others",
+        "img": "citrato_calcio_vitamina_d.png",
+        "elements": [
+            {"name": "Citrato de Calcio", "qty": "400mg"},
+            {"name": "Vitamina D", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta al día, media hora después de la comida."
     },
 
     
