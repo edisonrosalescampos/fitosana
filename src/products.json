@@ -1430,8 +1430,20 @@
             {"name": "Vitamina D", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "posology": "Tomar una (1) tableta al día, media hora después de la comida."
+        "cpe": "000000000"
+    },
+    {
+        "name": "Luteína",
+        "price": 12,
+        "short_description": "",
+        "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
+        "category": "others",
+        "img": "luteina.png",
+        "elements": [
+            {"name": "Luteína", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },
 
     
