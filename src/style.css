@@ -279,7 +279,7 @@ body {
 .product-card .card-price {
 	font-size: .9rem;
 	margin-bottom: 0;
-	color: #6c757d;
+	color: var(--lightgray);
 	font-weight: 500;
 }
 .product-card .card-text {
