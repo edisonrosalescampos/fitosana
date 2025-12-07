@@ -6,9 +6,13 @@
       </RouterLink>  
     </div> 
     <div class="card-body"> 
-      <RouterLink class="card-title mb-0" :to="'/product/' + getSlug(name)">
-        {{ name }}
-      </RouterLink>  
+      <div class="card-title-container">
+        <RouterLink class="card-title mb-0" :to="'/product/' + getSlug(name)">
+          {{ name }}
+        </RouterLink> 
+        
+        <span class="card-price">{{ price + "$" }}</span>
+      </div>
         
       <!--<RouterLink class="card-link" :to="'/product/' + getSlug(name)">
         <i class="far fa-arrow-alt-circle-right fa-lg"></i>

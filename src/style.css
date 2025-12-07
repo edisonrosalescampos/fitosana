@@ -262,7 +262,7 @@ body {
 	display: flex;
   align-items: center;
 	justify-content: space-between;
-  gap: .25rem;
+  gap: .5rem;
 }
 .product-card .card-title {
   font-size: .9rem;
@@ -273,11 +273,14 @@ body {
 	overflow: hidden;
 	white-space: normal;
   margin-bottom: .2rem;
-  text-align: center;
+  text-align: left;
   text-decoration: none;
 }
 .product-card .card-price {
-  margin-bottom: 0;
+	font-size: .95rem;
+	margin-bottom: 0;
+	color: #6c757d;
+	font-weight: 500;
 }
 .product-card .card-text {
   font-size: .875rem;
@@ -553,7 +556,7 @@ body {
     gap: .75rem;
   }
   .product-card .card-body {
-    padding: .5rem;
+    padding: .5rem .375rem;
   }
   .product-card .card-title {
     margin-bottom: .2rem;
