@@ -120,6 +120,7 @@ body {
 	top: -3px;
 	left: -7px;
 	transform: rotate(-25deg);
+  display: none;
 }
 .company-info {
   text-align: center;
