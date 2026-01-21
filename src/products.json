@@ -224,11 +224,43 @@
         "category": "natural premium",
         "img": "centella_asiatica_np.png",
         "elements": [
-            {"name": " CENTELLA ASIÁTICA, Polvo de hojas (Hidrocotyle asiática).", "qty": "300mg"}
+            {"name": "CENTELLA ASIÁTICA, Polvo de hojas (Hidrocotyle asiática).", "qty": "300mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000",
         "posology": "Adultos: Una cápsula tres veces al día."
+    },
+    {
+        "name": "Colágeno 500mg",
+        "price": 10,
+        "short_description": "",
+        "description": "El colágeno es una proteína estructural que proporciona firmeza y elasticidad a los tejidos osteoarticular y a la piel, además de brindar las siguientes bondades: Mejora el aspecto y elasticidad de la piel, fortalece uñas y cabello, brinda brillo a tu cabello y rejuvenece tu belleza.", 
+        "category": "natural premium",
+        "img": "colageno_np.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar 1 a 2 cápsulas al día."
+    },
+    {
+        "name": "Grinatos Jarabe 180ml",
+        "price": 7,
+        "short_description": "",
+        "description": "Jarabe a base de malojillo, jengibre, miel y vitamina C, con sabor a menta. Antigripal y descongestionante del tracto respiratorio. Alivia la tos y promueve la expectoración. Fortalece el sistema inmunológico gracias a la acción de la vitamina C. Limpia las vías respiratorias de forma natural.", 
+        "category": "natural premium",
+        "img": "grinatos_np.png",
+        "elements": [
+            {"name": "Malojillo (Cymbopogoncitratus)", "qty": "35ml"},
+            {"name": "Jengibre (Zingiberofficinale)", "qty": "15ml"},
+            {"name": "Ácido ascórbico (Vitamina C)", "qty": "0,015g"},
+            {"name": "Miel de abejas", "qty": "10ml"},
+            {"name": "Sacarosa", "qty": "10g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Adultos: Una cucharada (15ml), tres veces al día. Niños mayores de seis años: Una cucharadita (5ml) tres veces al día."
     },
 
 
@@ -1545,9 +1577,22 @@
         "short_description": "",
         "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
         "category": "proteins",
-        "img": "creatina_ifs_nutrition.png",
+        "img": "creatina_ifsnutrition_nueva.png",
         "elements": [
             {"name": "Creatina Monohidratada", "qty": "200g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "BCAA IFS NUTRITION 300g",
+        "price": 20,
+        "short_description": "",
+        "description": "Aminoácidos ramificados L- Leucine L-Valine L- Isoleucine: este compuesto de aminoácidos ayudan a la síntesis de proteína muscular, mejora la fuerza y reduce la fatiga, logrando un mayor desempeño y rendimiento en la actividad física.",
+        "category": "proteins",
+        "img": "bcaa_ifsnutrition_nueva.png",
+        "elements": [
+            {"name": "BCAA", "qty": "300g"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
