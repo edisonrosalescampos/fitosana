@@ -276,7 +276,7 @@
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
         "description": "Mantiene la salud cerebral, cardíaca, la formación del ADN y la regulación de la energía. Previene las migrañas y reduce los síntomas de depresión y ansiedad.",
         "category": "vitamins",
-        "img": "complejo_b.png",
+        "img": "complejo_b_termo.png",
         "elements": [
             {"name": "Vitamina B1", "qty": "20mg"},
             {"name": "Vitamina B2", "qty": "20mg"},
@@ -297,7 +297,7 @@
         "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
         "description": "Fortalece el sistema inmunológico, antioxidante, ayuda a la salud de la piel, previene enfermedades degenerativas y mejora la vista.",
         "category": "vitamins",
-        "img": "vitamina_c.png",
+        "img": "vitamina_c_termo.png",
         "elements": [
             {"name": "Ácido Ascórbico", "qty": "480mg"}
         ],
@@ -311,7 +311,7 @@
         "short_description": "Apoya la salud ósea y el sistema inmunológico.",
         "description": "Ayuda a tener huesos, músculos y nervios saludables y apoya el sistema inmunitario. Extrae el calcio de los alimentos y mejora el funcionamiento de los músculos.",
         "category": "vitamins",
-        "img": "vitamina_d3.png",
+        "img": "vitamina_d3_termo.png",
         "elements": [
             {"name": "Vitamina D3", "qty": "125mcg"}
         ],
@@ -348,12 +348,12 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con las comidas."
     },
     {
-        "name": "Vibazina",
+        "name": "Vibaxina",
         "price": 9,
         "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
         "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
         "category": "vitamins",
-        "img": "vibazina.png",
+        "img": "vibaxina_termo.png",
         "elements": [
             {"name": "Complejo B", "qty": "120mg"},
             {"name": "Vitamina C", "qty": "110mg"},
@@ -372,7 +372,7 @@
         "short_description": "Ayuda a tu salud ósea, cardiovascular, inmunológica, mental y cutánea.",
         "description": "Mejora la salud ósea, la salud cardiovascular y el sistema inmunitario. Ayuda a absorber mejor el calcio y previene la calcificación de las arterias.",
         "category": "vitamins",
-        "img": "vitamina_d3_k2.png",
+        "img": "vitamina_d3_k2_termo.png",
         "elements": [
             {"name": "Vitamina D3", "qty": "25mcg"},
             {"name": "Vitamina K2", "qty": "100mcg"}
@@ -387,7 +387,7 @@
         "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
         "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas y cabello.",
         "category": "vitamins",
-        "img": "centrunex.png",
+        "img": "centrunex_termo.png",
         "elements": [
             {"name": "Vitaminas Complejo B", "qty": "240mg"},
             {"name": "Ginseng Koreano", "qty": "120mg"},
@@ -445,7 +445,7 @@
         "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
         "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
         "category": "vitamins",
-        "img": "selenio.png",        
+        "img": "selenio_termo.png",        
         "elements": [
             {"name": "Selenio", "qty": "200mg"}
         ],
@@ -546,7 +546,7 @@
         "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
         "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
         "category": "collagens",
-        "img": "colageno.png",
+        "img": "colageno_termo.png",
         "elements": [
             {"name": "Colágeno Hidrolizado", "qty": "480mg"}
         ],
@@ -573,7 +573,7 @@
         "short_description": "",
         "description": "Aporta firmeza, elasticidad y flexibilidad a la piel.", 
         "category": "collagens",
-        "img": "colageno_elastina.png",
+        "img": "colageno_elastina_termo.png",
         "elements": [
             {"name": "Colágeno Hidrolizado", "qty": "260mg"},
             {"name": "Elastina", "qty": "124mg"},
@@ -649,7 +649,7 @@
         "short_description": "",
         "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
         "category": "magnesiums",
-        "img": "magnesio_potasio.png",
+        "img": "magnesio_potasio_termo.png",
         "elements": [
             {"name": "Citrato de Potasio", "qty": "280mg"},
             {"name": "Citrato de Magnesio", "qty": "120mg"},
@@ -664,7 +664,7 @@
         "short_description": "",
         "description": "Trata la osteoporosis, una enfermedad donde los huesos se vuelven débiles y frágiles.", 
         "category": "magnesiums",
-        "img": "magnesio_zinc.png",
+        "img": "magnesio_zinc_termo.png",
         "elements": [
             {"name": "Citrato de Magnesio", "qty": "250mg"},
             {"name": "Súlfato de Zinc", "qty": "250mg"}
@@ -772,7 +772,7 @@
         "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
         "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
         "category": "prostate",
-        "img": "saw_palmetto.png",
+        "img": "saw_palmetto_termo.png",
         "elements": [
             {"name": "Saw Palmetto", "qty": "480mg"}
         ],
@@ -807,7 +807,7 @@
         "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
         "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
         "category": "fat burner",
-        "img": "vinagre_manzana.png",
+        "img": "vinagre_manzana_termo.png",
         "elements": [
             {"name": "Vinagre de Manzana", "qty": "480mg"}
         ],
@@ -820,7 +820,7 @@
         "short_description": "",
         "description": "Limpia el cólon, elimina el estreñimiento, la pesadez y la inflamación estomacal. Mejora el metabolismo.", 
         "category": "fat burner",
-        "img": "colon_clean.png",
+        "img": "colon_clean_termo.png",
         "elements": [
             {"name": "Aloe Vera", "qty": "150mg"},
             {"name": "Diente de León", "qty": "125mg"},
@@ -959,7 +959,7 @@
         "short_description": "Mejora la circulación sanguínea.",
         "description": "Mejora la circulación venosa, evita la caída de cabello, celulitis y tiene propiedades antiinflamatorias.",
         "category": "suplements",
-        "img": "castano_indias.png",
+        "img": "castano_indias_termo.png",
         "elements": [
             {"name": "Castaño de Indias", "qty": "480mg"}
         ],
@@ -972,7 +972,7 @@
         "short_description": "Ayuda a la prevención de la anemia.",
         "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
         "category": "suplements",
-        "img": "levadura_cerveza.png",
+        "img": "levadura_cerveza_termo.png",
         "elements": [
             {"name": "Levadura de Cerveza", "qty": "500mg"}
         ],
@@ -998,7 +998,7 @@
         "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
         "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
         "category": "suplements",
-        "img": "calostro_bovino.png",
+        "img": "calostro_bovino_termo.png",
         "elements": [
             {"name": "Calostro Bovino", "qty": "480mg"}
         ],
@@ -1169,7 +1169,7 @@
         "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
         "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
         "category": "suplements",
-        "img": "resveratrol.png",
+        "img": "resveratrol_termo.png",
         "elements": [
             {"name": "Resveratrol", "qty": "480mg"}
         ],
@@ -1292,7 +1292,7 @@
         "short_description": "",
         "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
         "category": "others",
-        "img": "lochita.png",
+        "img": "lochita_termo.png",
         "elements": [
             {"name": "Lochita", "qty": "480mg"}
         ],
@@ -1459,7 +1459,7 @@
         "short_description": "",
         "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
         "category": "others",
-        "img": "luteina.png",
+        "img": "luteina_termo.png",
         "elements": [
             {"name": "Luteína", "qty": "40mg"}
         ],
