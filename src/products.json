@@ -412,20 +412,6 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     }, 
     {
-        "name": "Niacina",
-        "price": 9,
-        "short_description": "",
-        "description": "Reduce el colesterol, transforma alimentos en energía, evita y trata la pelagra, mejora la salud mental, la función cognitiva y el flujo sanguíneo.", 
-        "category": "vitamins",
-        "img": "niacina.png",
-        "elements": [
-            {"name": "Niacina", "qty": "30mg"}
-        ],
-        "approval_number": "A-165.255",
-        "cpe": "0724563660",
-        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
-    },
-    {
         "name": "Citrato de Potasio",
         "price": 9,
         "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
@@ -518,23 +504,58 @@
         "posology": "Tomar una (1) tableta con el almuerzo diariamente."
     },
     {
-        "name": "Vitaminas + Hierro",
+        "name": "Centrunex Man",
         "price": 9,
         "short_description": "",
-        "description": "Estimula el crecimiento y el funcionamiento normal del sistema inmunitario y ayuda a fabricar la hemoglobina.",
+        "description": "Centrunex Man es un multivitaminico diseñado para apoyar la energía, el rendimiento físico y la salud integral del hombre, gracias a su fórmula que incluye vitaminas B2, B5, B6, B8, B9 y B12, las cuales favorecen el metabolismo energético, la función cognitiva y el sistema nervioso; además, fortalece músculos y huesos, refuerza la inmunidad y la salud reproductiva, y otros nutrientes que contribuyen al bienestar general, especialmente en hombres activos o con alta demanda nutricional.",
         "category": "vitamins",
-        "img": "vitaminas_minerales.png",
+        "img": "centrunex_man_termo.png",
         "elements": [
-            {"name": "Citrato de Hierro", "qty": "125mg"},
-            {"name": "Vitamina B1", "qty": "10mg"},
-            {"name": "Vitamina B2", "qty": "5mg"},
-            {"name": "Vitamina B3", "qty": "20mg"},
-            {"name": "Vitamina B6", "qty": "10mg"},
-            {"name": "Vitamina B12", "qty": "0,10mg"}
+            {"name": "Magnesio", "qty": "100mg"},
+            {"name": "Calcio", "qty": "30mg"},
+            {"name": "Citrato de Magnesio", "qty": "25mg"},
+            {"name": "Fosfato de Calcio", "qty": "25mg"},
+            {"name": "Hierro", "qty": "16mg"},
+            {"name": "Potasio", "qty": "15mg"},
+            {"name": "Zinc", "qty": "12.5mg"},
+            {"name": "Vitamina B5 - Pantotenato de Calcio", "qty": "11.5mg"},
+            {"name": "Vitamina B2 - Riboflavina", "qty": "2mg"},
+            {"name": "Vitamina B6 - Piridoxina", "qty": "2mg"},
+            {"name": "Vitamina B9 - Ácido Fólico", "qty": "0.35mg"},
+            {"name": "Vitamina B8 - Biotina", "qty": "0.2mg"},
+            {"name": "Vitamina B12 - Cianocobalamina", "qty": "0.006mg"},
+            {"name": "Lactosa Monohidratada", "qty": "30mg"}
         ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
+        "approval_number": "A-170.925",
+        "cpe": "05255584977",
+        "posology": "Tomar una (1) tableta al día preferiblemente con las comidas y abundante agua."
+    },
+    {
+        "name": "Centrunex Woman",
+        "price": 9,
+        "short_description": "",
+        "description": "Centrunex Woman es un multivitamínico formulado para apoyar la energía, el equilibrio hormonal y la salud integral de la mujer, con vitaminas B2, B5, B6, B8, B9 y B12 que favorecen el metabolismo energético, el sistema nervioso y el bienestar emocional; además, ayuda a fortalecer huesos y músculos, apoyar la inmunidad, la piel y la salud reproductiva. Asi como a contribuir a mantener la vitalidad, la concentración y el equilibrio físico y mental en cada etapa de la vida femenina.",
+        "category": "vitamins",
+        "img": "centrunex_woman_termo.png",
+        "elements": [
+            {"name": "Magnesio", "qty": "100mg"},
+            {"name": "Calcio", "qty": "30mg"},
+            {"name": "Citrato de Magnesio", "qty": "25mg"},
+            {"name": "Fosfato de Calcio", "qty": "25mg"},
+            {"name": "Hierro", "qty": "16mg"},
+            {"name": "Potasio", "qty": "15mg"},
+            {"name": "Zinc", "qty": "12.5mg"},
+            {"name": "Vitamina B5 - Pantotenato de Calcio", "qty": "11.5mg"},
+            {"name": "Vitamina B2 - Riboflavina", "qty": "2mg"},
+            {"name": "Vitamina B6 - Piridoxina", "qty": "2mg"},
+            {"name": "Vitamina B9 - Ácido Fólico", "qty": "0.35mg"},
+            {"name": "Vitamina B8 - Biotina", "qty": "0.2mg"},
+            {"name": "Vitamina B12 - Cianocobalamina", "qty": "0.006mg"},
+            {"name": "Lactosa Monohidratada", "qty": "30mg"}
+        ],
+        "approval_number": "A-170.924",
+        "cpe": "05255584980",
+        "posology": "Tomar una (1) tableta al día preferiblemente con las comidas y abundante agua."
     },
 
 
@@ -940,19 +961,7 @@
 
 
 
-    {
-        "name": "Mapurite",
-        "price": 9,
-        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
-        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
-        "category": "suplements",
-        "img": "mapurite.png",
-        "elements": [
-            {"name": "Mapurite (petiveria alliacea)", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+
     {
         "name": "Castaño de Indias",
         "price": 9,
@@ -1156,7 +1165,7 @@
         "short_description": "",
         "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
         "category": "suplements",
-        "img": "nad.png",
+        "img": "nad_termo.png",
         "elements": [
             {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
         ],
@@ -1202,7 +1211,62 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Luteína",
+        "price": 9,
+        "short_description": "",
+        "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
+        "category": "suplements",
+        "img": "luteina_termo.png",
+        "elements": [
+            {"name": "Luteína", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Lochita",
+        "price": 9,
+        "short_description": "",
+        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
+        "category": "suplements",
+        "img": "lochita_termo.png",
+        "elements": [
+            {"name": "Lochita", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Espirulina",
+        "price": 9,
+        "short_description": "",
+        "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
+        "category": "suplements",
+        "img": "espirulina_termo.png",
+        "elements": [
+            {"name": "Espirulina (Spirulina platensis)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Orégano",
+        "price": 9,
+        "short_description": "",
+        "description": "El orégano es una hierba aromática con potentes propiedades antibacterianas, antiinflamatorias y antioxidantes. Se utiliza para aliviar afecciones respiratorias (tos, gripe), trastornos gastrointestinales, dolores menstruales y dolores articulares o dentales. Es rico en vitaminas A, C, E, K, fibra, hierro y calcio, lo que fortalece el sistema inmunológico.",
+        "category": "suplements",
+        "img": "oregano_termo.png",
+        "elements": [
+            {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
     
+
     
 
 
@@ -1285,20 +1349,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    }, 
-    {
-        "name": "Lochita",
-        "price": 9,
-        "short_description": "",
-        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
-        "category": "others",
-        "img": "lochita_termo.png",
-        "elements": [
-            {"name": "Lochita", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
+    },   
     {
         "name": "Uña de Gato",
         "price": 9,
@@ -1454,17 +1505,50 @@
         "cpe": "000000000"
     },
     {
-        "name": "Luteína",
+        "name": "Niacina",
         "price": 9,
         "short_description": "",
-        "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
+        "description": "Reduce el colesterol, transforma alimentos en energía, evita y trata la pelagra, mejora la salud mental, la función cognitiva y el flujo sanguíneo.", 
         "category": "others",
-        "img": "luteina_termo.png",
+        "img": "niacina.png",
         "elements": [
-            {"name": "Luteína", "qty": "40mg"}
+            {"name": "Niacina", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.255",
+        "cpe": "0724563660",
+        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
+    },
+    {
+        "name": "Mapurite",
+        "price": 9,
+        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
+        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
+        "category": "others",
+        "img": "mapurite.png",
+        "elements": [
+            {"name": "Mapurite (petiveria alliacea)", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
+    },
+    {
+        "name": "Vitaminas + Hierro",
+        "price": 9,
+        "short_description": "",
+        "description": "Estimula el crecimiento y el funcionamiento normal del sistema inmunitario y ayuda a fabricar la hemoglobina.",
+        "category": "others",
+        "img": "vitaminas_minerales.png",
+        "elements": [
+            {"name": "Citrato de Hierro", "qty": "125mg"},
+            {"name": "Vitamina B1", "qty": "10mg"},
+            {"name": "Vitamina B2", "qty": "5mg"},
+            {"name": "Vitamina B3", "qty": "20mg"},
+            {"name": "Vitamina B6", "qty": "10mg"},
+            {"name": "Vitamina B12", "qty": "0,10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
     },
 
     
