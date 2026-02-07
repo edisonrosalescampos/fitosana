@@ -575,7 +575,7 @@ body {
   }
   .product-info .product-img-container img {
     height: 400px;
-    object-fit: cover;
+    /*object-fit: cover;*/
   }
   .product-info .product-description {
     padding: 1.25rem;

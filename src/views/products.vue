@@ -68,6 +68,13 @@
         category="fatBurner"  
       />   
 
+      <!--SOFTGELS-->
+      <ProductGroup 
+        title="Softgels"      
+        :products="softgels"
+        category="softgels"  
+      /> 
+
       <!--SUPLEMENTOS-->
       <ProductGroup 
         title="Suplementos"      
@@ -156,6 +163,11 @@ export default {
     },
     fatBurner() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "fat burner");
+
+      return this.sortAscByName(filteredResults);
+    },
+    softgels() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "softgels");
 
       return this.sortAscByName(filteredResults);
     },

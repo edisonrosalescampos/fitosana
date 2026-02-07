@@ -503,20 +503,6 @@
         "posology": "Tomar una (1) tableta con el almuerzo."
     },
     {
-        "name": "Vitamina E",
-        "price": 9,
-        "short_description": "Mantén tu sistema inmunitario fuerte.",
-        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
-        "category": "vitamins",
-        "img": "vitamina_e.png",
-        "elements": [
-            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "posology": "Tomar una (1) cápsula diariamente, con comida."
-    },
-    {
         "name": "Ácido Fólico",
         "price": 9,
         "short_description": "",
@@ -929,6 +915,22 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "4 en 1",
+        "price": 9,
+        "short_description": "",
+        "description": "Excelente quemador de grasa. Favorece la digestion y ayuda a eliminar las toxinas del organismo así como acelerar el metabolismo y reducir la absorción de grasas.",
+        "category": "fat burner",
+        "img": "4_en_1.png",
+        "elements": [
+            {"name": "Grapefruit", "qty": "150mg"},
+            {"name": "Piña", "qty": "125mg"},
+            {"name": "Té verde", "qty": "120mg"},
+            {"name": "Alcachofa", "qty": "85mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -1062,20 +1064,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Omega 3",
-        "price": 9,
-        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
-        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
-        "category": "suplements",
-        "img": "omega3.png",
-        "elements": [
-            {"name": "Aceite de Pescado", "qty": "753mcg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },       
+    },     
     {
         "name": "Quiste Ginol",
         "price": 9,
@@ -1669,6 +1658,81 @@
         "approval_number": "A-166.181",
         "cpe": "000000000"
     },  
+
+
+
+
+
+
+    {
+        "name": "NAD 30 Softgel",
+        "price": 12,
+        "short_description": "",
+        "description": "El NAD+ es una coenzima esencial para la producción de energía celular, la reparación del ADN y la regulación del metabolismo. Su suplementación puede mejorar la función cognitiva, aumentar la vitalidad, retrasar el envejecimiento celular y fortalecer el sistema inmunológico. También se asocia con mejor sensibilidad a la insulina y reducción del estrés oxidativo.",
+        "category": "softgels",
+        "img": "nad_30softgel_termo.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "700mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Resveratrol + NAD 30 Softgel",
+        "price": 10,
+        "short_description": "",
+        "description": "En formato Softgel, el resveratrol y el NAD ofrecen rápida absorción, lo que potencia sus efectos antioxidantes y energéticos. El resveratrol protege el corazón y las células frente al envejecimiento, mientras que el NAD mejora la producción de energía celular, la reparación del ADN y la vitalidad general. Juntos, apoyan la longevidad y el bienestar metabólico.",
+        "category": "softgels",
+        "img": "resveratrol_nad_30softgel_termo.png",
+        "elements": [
+            {"name": "NAD+", "qty": "30mg"},
+            {"name": "Resveratrol", "qty": "250mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Resveratrol 30 Softgel",
+        "price": 10,
+        "short_description": "",
+        "description": "El resveratrol es un polifenol presente en la uva y otros frutos, con efectos antioxidantes y antiinflamatorios. Protege el corazón al mejorar la circulación y reducir el colesterol LDL, favorece la longevidad celular, regula la glucosa en sangre y apoya la salud cerebral. También se estudia por su potencial anticancerígeno y su capacidad de retrasar el envejecimiento.",
+        "category": "softgels",
+        "img": "resveratrol_30softgel_termo.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "700mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Omega 3",
+        "price": 9,
+        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
+        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
+        "category": "softgels",
+        "img": "omega3.png",
+        "elements": [
+            {"name": "Aceite de Pescado", "qty": "753mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "name": "Vitamina E",
+        "price": 9,
+        "short_description": "Mantén tu sistema inmunitario fuerte.",
+        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
+        "category": "softgels",
+        "img": "vitamina_e.png",
+        "elements": [
+            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
 
 
 
