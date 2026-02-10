@@ -605,8 +605,8 @@
         "cpe": "1024572007"
     },
     {
-        "name": "Cólageno Hidrolizado",
-        "price": 20,
+        "name": "Cólageno Hidrolizado 500g",
+        "price": 22,
         "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "collagens",
@@ -1109,7 +1109,7 @@
     },
     {
         "name": "Ashwagandha",
-        "price": 9,
+        "price": 10,
         "short_description": "",
         "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
         "category": "suplements",
@@ -1239,7 +1239,7 @@
     },
     {
         "name": "Espirulina",
-        "price": 9,
+        "price": 10,
         "short_description": "",
         "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
         "category": "suplements",
@@ -1568,7 +1568,7 @@
 
     {
         "name": "Proteína de Suero 907g (Chocolate)",
-        "price": 32,
+        "price": 35,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -1581,7 +1581,7 @@
     },
     {
         "name": "Proteína de Suero 907g (Vainilla)",
-        "price": 32,
+        "price": 35,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -1594,7 +1594,7 @@
     },
     {
         "name": "Proteína de Huevo 907g (Vainilla)",
-        "price": 32,
+        "price": 35,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -1646,7 +1646,7 @@
     },
     {
         "name": "Creatina IFS NUTRITION 200g",
-        "price": 20,
+        "price": 22,
         "short_description": "",
         "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
         "category": "proteins",
