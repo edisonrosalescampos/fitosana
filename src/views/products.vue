@@ -19,6 +19,13 @@
       </template>
     </template>
     <template v-else>
+      <!--STRONG LIFE-->
+      <ProductGroup 
+        title="Strong Life"       
+        :products="strongLife" 
+        category="strongLife" 
+      />
+
       <!--NATURAL PREMIUM-->
       <ProductGroup 
         title="Natural Premium"       
@@ -131,6 +138,11 @@ export default {
     products: productsJson
   }),
   computed: {
+    strongLife() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "strong life");
+
+      return this.sortAscByName(filteredResults);
+    },
     naturalPremium() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "natural premium");
 

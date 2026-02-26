@@ -1,5 +1,60 @@
 [
     {
+        "name": "Citrato de Potasio 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "Diurético natural. Contribuye al desarrollo muscular. Regula la presión arterial. Favorece la eliminación de desechos metabólicos.", 
+        "category": "strong life",
+        "img": "citrato_potasio_stronglife.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "500mg"}
+        ],
+        "approval_number": "23-0237",
+        "cpe": "1223549869"
+    },  
+    {
+        "name": "Citrato de Magnesio 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "Ayuda a mejorar tu descanso y a tener un sueño más profundo. Combate el insomnio de forma natural. Reduce el estrés y la tensión diaria. Elimina los dolores de piernas. Aumenta tu energía y vitalidad.", 
+        "category": "strong life",
+        "img": "citrato_magnesio_stronglife.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "500mg"}
+        ],
+        "approval_number": "23-0237",
+        "cpe": "1223549869"
+    },  
+    {
+        "name": "Castaña de Indias 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "Alivia síntomas asociados a alteraciones leves de la circulación venosa.", 
+        "category": "strong life",
+        "img": "castano_indias_stronglife.png",
+        "elements": [
+            {"name": "Castaña de Indias", "qty": "500mg"}
+        ],
+        "approval_number": "23-0237",
+        "cpe": "1223549869"
+    },   
+    {
+        "name": "Resveratrol 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "Fortalece tu sistema cardiovascular y combate el envejecimiento.", 
+        "category": "strong life",
+        "img": "resveratrol_stronglife.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "500mg"}
+        ],
+        "approval_number": "23-0237",
+        "cpe": "1223549869"
+    },   
+
+
+
+    {
         "name": "Aceite de Orégano 30ml",
         "price": 10,
         "short_description": "",
