@@ -9,8 +9,8 @@
         "elements": [
             {"name": "Citrato de Potasio", "qty": "500mg"}
         ],
-        "approval_number": "23-0237",
-        "cpe": "1223549869"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },  
     {
         "name": "Citrato de Magnesio 500mg",
@@ -22,8 +22,8 @@
         "elements": [
             {"name": "Citrato de Magnesio", "qty": "500mg"}
         ],
-        "approval_number": "23-0237",
-        "cpe": "1223549869"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },  
     {
         "name": "Castaña de Indias 500mg",
@@ -33,10 +33,10 @@
         "category": "strong life",
         "img": "castano_indias_stronglife.png",
         "elements": [
-            {"name": "Castaña de Indias", "qty": "500mg"}
+            {"name": "Castaña de Indias (Extracto Puro)", "qty": "500mg"}
         ],
-        "approval_number": "23-0237",
-        "cpe": "1223549869"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },   
     {
         "name": "Resveratrol 500mg",
@@ -48,9 +48,90 @@
         "elements": [
             {"name": "Resveratrol", "qty": "500mg"}
         ],
-        "approval_number": "23-0237",
-        "cpe": "1223549869"
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
     },   
+    {
+        "name": "Vitamina C 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "vitamina_c_stronglife.png",
+        "elements": [
+            {"name": "Vitamina C", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Garcinia Cambogia 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "garcinia_cambogia_stronglife.png",
+        "elements": [
+            {"name": "Garcinia Cambogia (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Centella Asiática 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "centella_asiatica_stronglife.png",
+        "elements": [
+            {"name": "Centella Asiática (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Chanca Piedra 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "chanca_piedra_stronglife.png",
+        "elements": [
+            {"name": "Chanca Piedra (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ñame Salvaje 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "name_salvaje_stronglife.png",
+        "elements": [
+            {"name": "Ñame Salvaje (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cúrcuma con Jengibre y Pimienta",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado", 
+        "category": "strong life",
+        "img": "curcuma_pimienta_stronglife.png",
+        "elements": [
+            {"name": "Cúrcuma", "qty": "200mg"},
+            {"name": "Jengibre", "qty": "200mg"},
+            {"name": "Pimienta Negra", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
 
 
 
