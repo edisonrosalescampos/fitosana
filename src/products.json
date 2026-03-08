@@ -16,7 +16,7 @@
         "name": "Citrato de Magnesio 500mg",
         "price": 8,
         "short_description": "",
-        "description": "Ayuda a mejorar tu descanso y a tener un sueño más profundo. Combate el insomnio de forma natural. Reduce el estrés y la tensión diaria. Elimina los dolores de piernas. Aumenta tu energía y vitalidad.", 
+        "description": "Ayuda a mejorar tu descanso y a tener un sueño más profundo. Combate el insomnio de forma natural. Reduce el estrés y la tensión diaria. Ayuda a la absorción del calcio en los huesos. Elimina los dolores de piernas. Aumenta tu energía y vitalidad.", 
         "category": "strong life",
         "img": "citrato_magnesio_stronglife.png",
         "elements": [
@@ -29,7 +29,7 @@
         "name": "Castaña de Indias 500mg",
         "price": 8,
         "short_description": "",
-        "description": "Alivia síntomas asociados a alteraciones leves de la circulación venosa.", 
+        "description": "Alivia síntomas asociados a alteraciones leves de la circulación venosa. Combate las várices y dolor de piernas. Evita el adormecimiento de las extremidades inferiores. Combate las hemorroides.", 
         "category": "strong life",
         "img": "castano_indias_stronglife.png",
         "elements": [
@@ -55,7 +55,7 @@
         "name": "Vitamina C 500mg",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Fortalece el sistema inmunológico. Previene el alzheimer.", 
         "category": "strong life",
         "img": "vitamina_c_stronglife.png",
         "elements": [
@@ -68,7 +68,7 @@
         "name": "Garcinia Cambogia 500mg",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Reduce los niveles de colesterol y triglicéridos. Aumenta el metabolismo. Controla el apetito.", 
         "category": "strong life",
         "img": "garcinia_cambogia_stronglife.png",
         "elements": [
@@ -81,7 +81,7 @@
         "name": "Centella Asiática 500mg",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Aporta firmeza y elasticidad a la piel. Elimina la acumulación de grasa y estrías. Adelgazante natural.", 
         "category": "strong life",
         "img": "centella_asiatica_stronglife.png",
         "elements": [
@@ -94,7 +94,7 @@
         "name": "Chanca Piedra 500mg",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Elimina los cálculos y arenilla de los riñones y vejiga. Regulador de la hipertensión. Combate la cistitis, várices y flebitis.", 
         "category": "strong life",
         "img": "chanca_piedra_stronglife.png",
         "elements": [
@@ -107,7 +107,7 @@
         "name": "Ñame Salvaje 500mg",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Coadyuvante en los procesos menopáusicos. Ayuda a la fertilidad de la mujer. Evita calambres menstruales.", 
         "category": "strong life",
         "img": "name_salvaje_stronglife.png",
         "elements": [
@@ -120,7 +120,7 @@
         "name": "Cúrcuma con Jengibre y Pimienta",
         "price": 8,
         "short_description": "",
-        "description": "No especificado", 
+        "description": "Ofrece un alivio natural y eficaz gracias a su propiedades antiinflamatorias y antioxidantes. Mejora la digestión fortaleciendo tu sistema inmunológico.", 
         "category": "strong life",
         "img": "curcuma_pimienta_stronglife.png",
         "elements": [
