@@ -461,7 +461,7 @@
         "short_description": "Multivitamínico para adultos mayores de 50 años.",
         "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
         "category": "vitamins",
-        "img": "centrunex_silver.png",
+        "img": "centrunex_silver_termo.png",
         "elements": [
             {"name": "Vitamina A", "qty": "114mg"},
             {"name": "Vitamina B1", "qty": "65mg"},
@@ -615,7 +615,7 @@
         "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
         "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
         "category": "vitamins",
-        "img": "biotina.png",
+        "img": "biotina_termo.png",
         "elements": [
             {"name": "Biotina", "qty": "5mg"},
             {"name": "Calcio (Fosfato Dicálcico)", "qty": "113mg"}
@@ -716,7 +716,7 @@
         "short_description": "",
         "description": "Ayuda a mantener una piel saludable, fortalece el sistema inmunológico, retarda la aparición de líneas de expresión e hidrata la piel.", 
         "category": "collagens",
-        "img": "colageno_vitamina_c.png",
+        "img": "colageno_vitamina_c_termo.png",
         "elements": [
             {"name": "Colágeno Hidrolizado", "qty": "400mg"},
             {"name": "Vitamina C", "qty": "80mg"}
@@ -993,7 +993,7 @@
         "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
         "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
         "category": "fat burner",
-        "img": "tumba_barriga.png",
+        "img": "tumba_barriga_termo.png",
         "elements": [
             {"name": "Grapefruit", "qty": "200mg"},
             {"name": "Piña", "qty": "110mg"},
@@ -1249,7 +1249,7 @@
         "short_description": "",
         "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
         "category": "suplements",
-        "img": "ashwagandha.png",
+        "img": "ashwagandha_termo.png",
         "elements": [
             {"name": "Ashwagandha", "qty": "480mg"}
         ],
@@ -1395,6 +1395,19 @@
         "img": "oregano_termo.png",
         "elements": [
             {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Carbón Activado",
+        "price": 9,
+        "short_description": "",
+        "description": "El carbón activado es un potente desintoxicante que ayuda a eliminar toxinas y gases del sistema digestivo. Se utiliza para aliviar la hinchazón, mejorar la digestión y tratar intoxicaciones leves. También puede apoyar la salud bucal y la piel gracias a su capacidad de absorción.",
+        "category": "suplements",
+        "img": "carbon_activado_termo.png",
+        "elements": [
+            {"name": "Carbón Activado", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1928,24 +1941,37 @@
         "name": "Omega 3",
         "price": 9,
         "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
-        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
+        "description": "El omega 3 es un ácido graso esencial que protege la salud cardiovascular al reducir triglicéridos y mejorar la circulación. También favorece la función cerebral, reduce la inflamación en articulaciones, fortalece la visión y apoya el sistema inmunológico. Es clave para prevenir enfermedades crónicas y mejorar el bienestar general.",
         "category": "softgels",
-        "img": "omega3.png",
+        "img": "omega3_30softgel_termo.png",
         "elements": [
-            {"name": "Aceite de Pescado", "qty": "753mcg"}
+            {"name": "Aceite de Pescado", "qty": "753mcg (1000IU)"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },  
     {
         "name": "Vitamina E",
-        "price": 9,
+        "price": 10,
         "short_description": "Mantén tu sistema inmunitario fuerte.",
         "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
         "category": "softgels",
-        "img": "vitamina_e.png",
+        "img": "vitamina_e_30softgel_termo.png",
         "elements": [
-            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
+            {"name": "Vitamina E", "qty": "450mcg (1000IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Biotina 30 softgel",
+        "price": 10,
+        "short_description": "",
+        "description": "La biotina, también conocida como vitamina B7, es esencial para el metabolismo energético y la salud de cabello, piel y uñas. En formato Softgel, ofrece rápida absorción, lo que mejora su eficacia en fortalecer los folículos capilares, reducir la caída del cabello y mejorar la textura de la piel. También regula el azúcar en sangre, apoya la digestión y contribuye a la regeneración celular.",
+        "category": "softgels",
+        "img": "biotina_30softgel_termo.png",
+        "elements": [
+            {"name": "Biotina", "qty": "700mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
