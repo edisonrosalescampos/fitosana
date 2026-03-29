@@ -1423,7 +1423,7 @@
 
     {
         "name": "Acidophilus",
-        "price": 9,
+        "price": 8,
         "short_description": "",
         "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
         "category": "others",
@@ -1436,7 +1436,7 @@
     },
     {
         "name": "Valeriana",
-        "price": 9,
+        "price": 8,
         "short_description": "Actúa como sedante y relajante nervioso.",
         "description": "Combate el dolor de cabeza, cólicos intestinales, dolores reumáticos, dismenorreas y elimina la intranquilidad.",
         "category": "others",
@@ -1449,7 +1449,7 @@
     },
     {
         "name": "Ajo",
-        "price": 9,
+        "price": 8,
         "short_description": "",
         "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
         "category": "others",
@@ -1462,7 +1462,7 @@
     },
     {
         "name": "Ajo Perejil",
-        "price": 9,
+        "price": 8,
         "short_description": "",
         "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
         "category": "others",
@@ -1488,7 +1488,7 @@
     },
     {
         "name": "5-HTP",
-        "price": 9,
+        "price": 8,
         "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "others",
@@ -1570,7 +1570,7 @@
     },
     {
         "name": "Ginseng Koreano",
-        "price": 9,
+        "price": 8,
         "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
         "description": "Aumenta la actividad mental y el deseo sexual.",
         "category": "others",
@@ -1782,7 +1782,7 @@
     },
     {
         "name": "Creatina Nutrex 300g",
-        "price": 35,
+        "price": 32,
         "short_description": "",
         "description": "Mejora la fuerza y el rendimiento en entrenamientos de alta intensidad, favorece el aumento de masa corporal magra y acelera la recuperación muscular.",
         "category": "proteins",
@@ -1795,7 +1795,7 @@
     },
     {
         "name": "Creatina IFS NUTRITION 200g",
-        "price": 22,
+        "price": 20,
         "short_description": "",
         "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
         "category": "proteins",
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "Creatina Muscletech Platinum 400g",
-        "price": 60,
+        "price": 55,
         "short_description": "",
         "description": "Proporciona a tus músculos la forma de creatina más estudiada y de alta calidad, diseñada para maximizar tu fuerza y rendimiento físico.",
         "category": "proteins",
