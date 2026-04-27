@@ -135,7 +135,7 @@
         "name": "Daflon'X Force",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Mejora la circulación sanguínea, combate los dolores en las piernas, elimina calambres, hemorroides y úlceras varicosas, excelente venotónico, evita el adormecimiento de las extremidades.", 
         "category": "strong life",
         "img": "daflonxforce_stronglife.png",
         "elements": [
@@ -150,7 +150,7 @@
         "name": "Turmeric (Cúrcuma)",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "La cúrcuma es un desintoxicante hepático, que fortalece tu sistema inmunológico.", 
         "category": "strong life",
         "img": "turmeric_stronglife.png",
         "elements": [
@@ -232,7 +232,7 @@
     },
     {
         "name": "Colágeno con Vitamina C 500mg",
-        "price": 11,
+        "price": 10,
         "short_description": "",
         "description": "La vitamina C tiene un rol antioxidante y promueve la síntesis de colágeno, favorece el mantenimiento de la integridad del sistema inmune, e interviene en el funcionamiento normal de los huesos y de los cartílagos. Fortalece uñas y cabello, mejora el aspecto y elasticidad de la piel y rejuvenece tu belleza.", 
         "category": "natural premium",
@@ -264,18 +264,18 @@
         "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
     },
     {
-        "name": "Melatonina Plus 3mg",
+        "name": "Melatonina Plus 5mg",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento del estrés y control del sueño, antioxidante.", 
         "category": "natural premium",
         "img": "melatonina_plus_np.png",
         "elements": [
-            {"name": "Melatonina, polvo", "qty": "3mg"},
-            {"name": "Clorhidrato de Piridoxina, polvo", "qty": "15mg"},
-            {"name": "Citrato de Magnesio, polvo", "qty": "32mg"},
-            {"name": "Valeriana (Valeriana officinalis), polvo de raíz", "qty": "125mg"},
-            {"name": "Ashwagandha (Withania somnífera), polvo de raíz", "qty": "125mg"}
+            {"name": "Melatonina, polvo", "qty": "5mg"},
+            {"name": "Clorhidrato de Piridoxina, polvo", "qty": "12mg"},
+            {"name": "Citrato de Magnesio, polvo", "qty": "42,91mg"},
+            {"name": "Valeriana (Valeriana officinalis), polvo de raíz", "qty": "140,09mg"},
+            {"name": "Ashwagandha (Withania somnífera), polvo de raíz", "qty": "200mg"}
         ],
         "approval_number": "24-0361",
         "cpe": "0524560947",
@@ -581,7 +581,7 @@
         "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
         "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
         "category": "vitamins",
-        "img": "citrato_potasio.png",
+        "img": "citrato_potasio_termo.png",
         "elements": [
             {"name": "Citrato de Potasio", "qty": "99mg"}
         ],
@@ -658,7 +658,7 @@
         "short_description": "",
         "description": "Ayuda a prevenir defectos de nacimiento y cambios en el ADN que pueden causar cáncer. Es importante para las mujeres en edad fértil",
         "category": "vitamins",
-        "img": "acido_folico.png",
+        "img": "acido_folico_termo.png",
         "elements": [
             {"name": "Folato (800mcg de Ácido Fólico)", "qty": "1,333mg"},
             {"name": "Vitamina B12", "qty": "25mg"}
@@ -746,8 +746,8 @@
         "category": "collagens",
         "img": "colageno_vitamina_c_termo.png",
         "elements": [
-            {"name": "Colágeno Hidrolizado", "qty": "400mg"},
-            {"name": "Vitamina C", "qty": "80mg"}
+            {"name": "Colágeno Hidrolizado", "qty": "168mg"},
+            {"name": "Vitamina C", "qty": "96mg"}
         ],
         "approval_number": "A-165.568",
         "cpe": "0724563661"
@@ -794,10 +794,10 @@
         "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
         "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
         "category": "magnesiums",
-        "img": "magnesio_melatonina.png",
+        "img": "magnesio_melatonina_termo.png",
         "elements": [
-            {"name": "Citrato de Magnesio", "qty": "470mg"},
-            {"name": "Melatonina", "qty": "10mg"}
+            {"name": "Citrato de Magnesio", "qty": "295mg"},
+            {"name": "Melatonina", "qty": "5mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -808,7 +808,7 @@
         "short_description": "Regula la función de los músculos y del sistema nervioso.",
         "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
         "category": "magnesiums",
-        "img": "citrato_magnesio.png",
+        "img": "citrato_magnesio_termo.png",
         "elements": [
             {"name": "Citrato de Magnesio", "qty": "400mg"}
         ],
@@ -823,7 +823,7 @@
         "category": "magnesiums",
         "img": "glicinato_magnesio.png",
         "elements": [
-            {"name": "Bisglicinato de Magnesio", "qty": "480mg"}
+            {"name": "Bisglicinato de Magnesio", "qty": "200mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -865,7 +865,7 @@
         "category": "magnesiums",
         "img": "magnesio_b6.png",
         "elements": [
-            {"name": "Vitamina B6", "qty": "280mg"},
+            {"name": "Vitamina B6", "qty": "2.5mg"},
             {"name": "Citrato de Magnesio", "qty": "200mg"}
         ],
         "approval_number": "A-165.180",
@@ -898,7 +898,7 @@
         "category": "turmerics",
         "img": "curcuma.png",
         "elements": [
-            {"name": "Cúrcuma", "qty": "480mg"}
+            {"name": "Cúrcuma", "qty": "250mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -944,9 +944,9 @@
         "short_description": "Previene el cáncer de próstata.",
         "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
         "category": "prostate",
-        "img": "prosta_sana.png",
+        "img": "prostasana_termo.png",
         "elements": [
-            {"name": "Hojas de Achiote (Bixa Orellana)", "qty": "480mg"}
+            {"name": "Hojas de Achiote (Bixa Orellana)", "qty": "250mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -970,7 +970,7 @@
         "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
         "description": "Incrementa la energía sexual y la función eréctil.",
         "category": "prostate",
-        "img": "macho_viril.png",
+        "img": "macho_viril_termo.png",
         "elements": [
             {"name": "Ginseng Koreano", "qty": "290mg"},
             {"name": "Ginseng Rojo", "qty": "95mg"},
@@ -1409,7 +1409,7 @@
         "category": "suplements",
         "img": "lochita_termo.png",
         "elements": [
-            {"name": "Lochita", "qty": "480mg"}
+            {"name": "Lochita", "qty": "300mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1559,7 +1559,7 @@
         "short_description": "Es usado para mitigar los efectos de la menopausia.",
         "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
         "category": "others",
-        "img": "name_salvaje.png",
+        "img": "name_salvaje_termo.png",
         "elements": [
             {"name": "Castaño de Indias", "qty": "100mg"},
             {"name": "Cola de Caballo", "qty": "100mg"},
@@ -1912,9 +1912,9 @@
         "short_description": "",
         "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
         "category": "amino acids",
-        "img": "l_arginina.png",
+        "img": "l_arginina_termo.png",
         "elements": [
-            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "250mg"}
         ],
         "approval_number": "A-166.183",
         "cpe": "1024572005"
@@ -1925,9 +1925,9 @@
         "short_description": "",
         "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
         "category": "amino acids",
-        "img": "l_carnitina.png",
+        "img": "l_carnitina_termo.png",
         "elements": [
-            {"name": "L-Carnitina (L-carnipure)", "qty": "500mg"}
+            {"name": "L-Carnitina (L-carnipure)", "qty": "200mg"}
         ],
         "approval_number": "A-166.181",
         "cpe": "000000000"
