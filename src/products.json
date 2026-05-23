@@ -1250,27 +1250,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },     
-    {
-        "name": "Quiste Ginol",
-        "price": 9,
-        "short_description": "",
-        "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
-        "category": "suplements",
-        "img": "quiste_ginol.png",
-        "elements": [
-            {"name": "Caléndula", "qty": "110mg"},
-            {"name": "Centella Asiática", "qty": "100mg"},
-            {"name": "Graviola", "qty": "80mg"},
-            {"name": "Cola de Caballo", "qty": "60mg"},
-            {"name": "Té verde", "qty": "60mg"},
-            {"name": "Muérdago", "qty": "30mg"},
-            {"name": "Cúrcuma", "qty": "30mg"},
-            {"name": "Uña de gato", "qty": "10mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },         
     {
         "name": "Maca",
         "price": 9,
@@ -1316,7 +1296,7 @@
         "short_description": "",
         "description": "Trata las afecciones oculares, evita las varices y hemorroides.", 
         "category": "suplements",
-        "img": "arandano_negro.png",
+        "img": "arandano_negro_termo.png",
         "elements": [
             {"name": "Arándano Negro", "qty": "480mg"}
         ],
@@ -1329,26 +1309,13 @@
         "short_description": "",
         "description": "Elimina las infecciones urinarias, antioxidante y reduce el riesgo de cáncer.", 
         "category": "suplements",
-        "img": "arandano_rojo.png",
+        "img": "arandano_rojo_termo.png",
         "elements": [
             {"name": "Arándano Rojo", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
-    {
-        "name": "NAD",
-        "price": 9,
-        "short_description": "",
-        "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
-        "category": "suplements",
-        "img": "nad_termo.png",
-        "elements": [
-            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
-        ],
-        "approval_number": "A-165.212",
-        "cpe": "0724563660"
-    },
+    },        
     {
         "name": "Resveratrol",
         "price": 9,
@@ -1368,7 +1335,7 @@
         "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
         "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
         "category": "suplements",
-        "img": "centella_asiatica.png",
+        "img": "centella_asiatica_termo.png",
         "elements": [
             {"name": "Centella Asiática", "qty": "480mg"}
         ],
@@ -1413,42 +1380,33 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
+    },  
     {
-        "name": "Espirulina",
-        "price": 10,
-        "short_description": "",
-        "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
+        "name": "Ñame Salvaje",
+        "price": 9,
+        "short_description": "Es usado para mitigar los efectos de la menopausia.",
+        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
         "category": "suplements",
-        "img": "espirulina_termo.png",
+        "img": "name_salvaje_termo.png",
         "elements": [
-            {"name": "Espirulina (Spirulina platensis)", "qty": "400mg"}
+            {"name": "Castaño de Indias", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
     {
-        "name": "Orégano",
+        "name": "Cardo Lechozo",
         "price": 9,
         "short_description": "",
-        "description": "El orégano es una hierba aromática con potentes propiedades antibacterianas, antiinflamatorias y antioxidantes. Se utiliza para aliviar afecciones respiratorias (tos, gripe), trastornos gastrointestinales, dolores menstruales y dolores articulares o dentales. Es rico en vitaminas A, C, E, K, fibra, hierro y calcio, lo que fortalece el sistema inmunológico.",
+        "description": "Previene trastornos del hígado, trata la cirrosis y baja los niveles de alcohol.", 
         "category": "suplements",
-        "img": "oregano_termo.png",
+        "img": "cardo_lechozo_termo.png",
         "elements": [
-            {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Carbón Activado",
-        "price": 9,
-        "short_description": "",
-        "description": "El carbón activado es un potente desintoxicante que ayuda a eliminar toxinas y gases del sistema digestivo. Se utiliza para aliviar la hinchazón, mejorar la digestión y tratar intoxicaciones leves. También puede apoyar la salud bucal y la piel gracias a su capacidad de absorción.",
-        "category": "suplements",
-        "img": "carbon_activado_termo.png",
-        "elements": [
-            {"name": "Carbón Activado", "qty": "480mg"}
+            {"name": "Cardo Lechozo", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1461,7 +1419,26 @@
 
 
 
-
+    {
+        "name": "Quiste Ginol",
+        "price": 9,
+        "short_description": "",
+        "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
+        "category": "others",
+        "img": "quiste_ginol.png",
+        "elements": [
+            {"name": "Caléndula", "qty": "110mg"},
+            {"name": "Centella Asiática", "qty": "100mg"},
+            {"name": "Graviola", "qty": "80mg"},
+            {"name": "Cola de Caballo", "qty": "60mg"},
+            {"name": "Té verde", "qty": "60mg"},
+            {"name": "Muérdago", "qty": "30mg"},
+            {"name": "Cúrcuma", "qty": "30mg"},
+            {"name": "Uña de gato", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
     {
         "name": "Acidophilus",
         "price": 8,
@@ -1552,24 +1529,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Ñame Salvaje",
-        "price": 9,
-        "short_description": "Es usado para mitigar los efectos de la menopausia.",
-        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
-        "category": "others",
-        "img": "name_salvaje_termo.png",
-        "elements": [
-            {"name": "Castaño de Indias", "qty": "100mg"},
-            {"name": "Cola de Caballo", "qty": "100mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"},
-            {"name": "Muérdago", "qty": "100mg"},
-            {"name": "Jengibre", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    }, 
+    },     
     {
         "name": "Cola de Caballo",
         "price": 9,
@@ -1638,20 +1598,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Cardo Lechozo",
-        "price": 9,
-        "short_description": "",
-        "description": "Previene trastornos del hígado, trata la cirrosis y baja los niveles de alcohol.", 
-        "category": "others",
-        "img": "cardo_lechozo.png",
-        "elements": [
-            {"name": "Cardo Lechozo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },    
     {
         "name": "Cartílago de Tiburón",
         "price": 9,
@@ -1740,14 +1687,60 @@
         "cpe": "000000000",
         "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
     },
+    {
+        "name": "Espirulina",
+        "price": 10,
+        "short_description": "",
+        "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
+        "category": "others",
+        "img": "espirulina_termo.png",
+        "elements": [
+            {"name": "Espirulina (Spirulina platensis)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Orégano",
+        "price": 9,
+        "short_description": "",
+        "description": "El orégano es una hierba aromática con potentes propiedades antibacterianas, antiinflamatorias y antioxidantes. Se utiliza para aliviar afecciones respiratorias (tos, gripe), trastornos gastrointestinales, dolores menstruales y dolores articulares o dentales. Es rico en vitaminas A, C, E, K, fibra, hierro y calcio, lo que fortalece el sistema inmunológico.",
+        "category": "others",
+        "img": "oregano_termo.png",
+        "elements": [
+            {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Carbón Activado",
+        "price": 9,
+        "short_description": "",
+        "description": "El carbón activado es un potente desintoxicante que ayuda a eliminar toxinas y gases del sistema digestivo. Se utiliza para aliviar la hinchazón, mejorar la digestión y tratar intoxicaciones leves. También puede apoyar la salud bucal y la piel gracias a su capacidad de absorción.",
+        "category": "others",
+        "img": "carbon_activado_termo.png",
+        "elements": [
+            {"name": "Carbón Activado", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "NAD",
+        "price": 9,
+        "short_description": "",
+        "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "category": "others",
+        "img": "nad_termo.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563660"
+    },
 
-    
-
-
-
-
-
-   
+      
 
 
 
@@ -1823,7 +1816,7 @@
     },
     {
         "name": "Creatina Nutrex 300g",
-        "price": 32,
+        "price": 30,
         "short_description": "",
         "description": "Mejora la fuerza y el rendimiento en entrenamientos de alta intensidad, favorece el aumento de masa corporal magra y acelera la recuperación muscular.",
         "category": "proteins",
