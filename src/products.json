@@ -159,6 +159,38 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Adelgamax",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "adelgamax_stronglife.png",
+        "elements": [
+            {"name": "Alcachofa", "qty": "100mg"},
+            {"name": "Centella Asiática", "qty": "100mg"},            
+            {"name": "Grapefruit", "qty": "100mg"},
+            {"name": "Cáscara Sagrada", "qty": "50mg"},
+            {"name": "Valeriana", "qty": "50mg"},
+            {"name": "Aloe Vera", "qty": "50mg"},
+            {"name": "Marrubio", "qty": "50mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Carbón Vegetal",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "carbon_vegetal_stronglife.png",
+        "elements": [
+            {"name": "Carbón Vegetal Activado", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
