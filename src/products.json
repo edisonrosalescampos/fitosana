@@ -1751,7 +1751,7 @@
 
     {
         "name": "Proteína de Suero 907g (Chocolate)",
-        "price": 35,
+        "price": 33,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -1764,7 +1764,7 @@
     },
     {
         "name": "Proteína de Suero 907g (Vainilla)",
-        "price": 35,
+        "price": 33,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -1777,7 +1777,7 @@
     },
     {
         "name": "Proteína de Huevo 907g (Vainilla)",
-        "price": 35,
+        "price": 33,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -1868,7 +1868,7 @@
     },
     {
         "name": "Proteína de Suero IFS NUTRITION 1Kg",
-        "price": 40,
+        "price": 38,
         "short_description": "",
         "description": "Es una mezcla de concentrados de proteína de suero de leche, enriquecida con vitaminas, minerales y aminoácidos esenciales que promueven el desarrollo y crecimiento de tejido muscular, de rápida absorción y fácil de preparar.",
         "category": "proteins",
