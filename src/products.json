@@ -191,6 +191,32 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Saw Palmetto",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "saw_palmetto_stronglife.png",
+        "elements": [
+            {"name": "Saw Palmetto (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Lochita",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "lochita_stronglife.png",
+        "elements": [
+            {"name": "Lochita (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
