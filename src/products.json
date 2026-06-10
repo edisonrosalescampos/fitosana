@@ -117,7 +117,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Cúrcuma con Jengibre y Pimienta",
+        "name": "Cúrcuma con Jengibre y Pimienta 500mg",
         "price": 8,
         "short_description": "",
         "description": "Ofrece un alivio natural y eficaz gracias a su propiedades antiinflamatorias y antioxidantes. Mejora la digestión fortaleciendo tu sistema inmunológico.", 
@@ -132,7 +132,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Daflon'X Force",
+        "name": "Daflon'X Force 500mg",
         "price": 8,
         "short_description": "",
         "description": "Mejora la circulación sanguínea, combate los dolores en las piernas, elimina calambres, hemorroides y úlceras varicosas, excelente venotónico, evita el adormecimiento de las extremidades.", 
@@ -147,7 +147,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Turmeric (Cúrcuma)",
+        "name": "Turmeric (Cúrcuma) 500mg",
         "price": 8,
         "short_description": "",
         "description": "La cúrcuma es un desintoxicante hepático, que fortalece tu sistema inmunológico.", 
@@ -160,7 +160,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Adelgamax",
+        "name": "Adelgamax 500mg",
         "price": 8,
         "short_description": "",
         "description": "No especificado.", 
@@ -179,7 +179,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Carbón Vegetal",
+        "name": "Carbón Vegetal 500mg",
         "price": 8,
         "short_description": "",
         "description": "No especificado.", 
@@ -192,7 +192,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Saw Palmetto",
+        "name": "Saw Palmetto 500mg",
         "price": 8,
         "short_description": "",
         "description": "No especificado.", 
@@ -205,7 +205,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Lochita",
+        "name": "Lochita 500mg",
         "price": 8,
         "short_description": "",
         "description": "No especificado.", 
@@ -217,6 +217,109 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Erectomax 500mg",
+        "price": 9,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "erectomax_stronglife.png",
+        "elements": [
+            {"name": "Maca Blanca", "qty": "250mg"},
+            {"name": "Saw Palmetto", "qty": "150mg"},
+            {"name": "Ginkgo Biloba", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cáscara Sagrada 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "cascara_sagrada_stronglife.png",
+        "elements": [
+            {"name": "Cáscara Sagrada (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cardo Lechozo 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "cardo_lechozo_stronglife.png",
+        "elements": [
+            {"name": "Cardo Lechozo (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Levadura de Cerveza 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "levadura_cerveza_stronglife.png",
+        "elements": [
+            {"name": "Levadura de Cerveza", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Rheumadaul 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "rheumadaul_stronglife.png",
+        "elements": [
+            {"name": "Ortiga", "qty": "100mg"},
+            {"name": "Uña de Gato", "qty": "100mg"},
+            {"name": "Palo de Arco", "qty": "100mg"},
+            {"name": "Chuchuguaza", "qty": "100mg"},
+            {"name": "Moringa", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Alcachofa 500mg",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "alcachofa_stronglife.png",
+        "elements": [
+            {"name": "Alcachofa", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Parasivida Desparasitante 120ml",
+        "price": 6,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "parasivida_stronglife.png",
+        "elements": [
+            {"name": "Ruibardo", "qty": "-"},
+            {"name": "Pasota", "qty": "-"},
+            {"name": "Ajo", "qty": "-"},
+            {"name": "Cebolla", "qty": "-"},
+            {"name": "Ajenjo", "qty": "-"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
 
 
 
