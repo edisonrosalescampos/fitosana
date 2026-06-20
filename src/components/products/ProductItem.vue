@@ -22,13 +22,13 @@
 
       <!--<p class="card-text">{{ description }}</p>-->
     </div>
-    <div class="card-footer text-center">
+    <!--<div class="card-footer text-center">
       <RouterLink :to="'/product/' + getSlug(name)">
         <button class="btn btn-primary btn-sm w-100">
           Ver Detalle 
         </button>
       </RouterLink>      
-    </div>
+    </div>-->
   </div>
 </template>
 

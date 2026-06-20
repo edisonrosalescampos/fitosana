@@ -1,7 +1,7 @@
 <template>
   <section class="product-section" :id="category">
     <div class="subheader">
-      <h6 class="title">{{ title }}</h6>
+      <h6 class="title text-uppercase">{{ title }}</h6>
     </div>
 
     <ProductList :products="products" />
