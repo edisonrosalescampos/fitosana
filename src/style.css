@@ -263,7 +263,7 @@ body {
 	display: flex;
   align-items: flex-start;
 	justify-content: space-between;
-  height: 40px;
+  height: 36px;
   gap: .5rem;
 }
 .product-card .card-title {
@@ -388,6 +388,7 @@ body {
   border-radius: 25px;  
 }
 .product-info .product-description .title {
+  font-size: 1.25rem;
   text-transform: uppercase;
   text-align: center;
 }
@@ -398,10 +399,10 @@ body {
 	padding: .2rem .5rem;
 	border-radius: 0px 8px 0 8px;
 	width: 110px;
-  font-size: .95rem;
+  font-size: .9rem;
 }
 .product-info .product-description .description {
-  font-size: .95rem;
+  font-size: .9rem;
 	border: 2px solid #dee2e6;
 	border-radius: 8px;
 	padding: .375rem;
@@ -418,7 +419,7 @@ body {
 	border-radius: .8rem;
 	padding: .5rem 1rem;
   box-shadow: var(--bs-box-shadow);
-  font-size: .8rem;
+  font-size: .75rem;
   font-weight: 600;
   line-height: 1.2;
   width: 100%;
@@ -459,7 +460,7 @@ body {
   padding-bottom: .25rem;
 }
 .nutrition-facts .element {
-  font-size: .85rem;
+  font-size: .8rem;
   font-weight: 600;
   text-transform: uppercase;
 	display: -webkit-box;
@@ -525,6 +526,9 @@ body {
     padding-top: .75rem;
     padding-bottom: .75rem;
   }*/
+  .product-card .card-title-container {
+    height: 40px;
+  }
   .product-card .card-title {
     font-size: .9rem;
     margin-bottom: .25rem;
@@ -583,6 +587,9 @@ body {
   }
   .product-info .product-description {
     padding: 1.25rem;
+  }
+  .product-info .product-description .title {
+    font-size: 1.5rem;
   }
   .product-info .product-description .description {
     font-size: 1rem;
