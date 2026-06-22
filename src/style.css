@@ -92,7 +92,7 @@ body {
 .social ul li a {
 	background-color: var(--lightgray);
   color: #FFF;
-  padding: .5rem;
+  padding: .375rem .5rem;
   border-radius: 20px;
 }
 
