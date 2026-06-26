@@ -470,6 +470,7 @@ body {
 }
 .nutrition-facts .badge {
   background-color: var(--lightgray);
+  font-size: .7rem;
   min-width: 55px;
 }
 

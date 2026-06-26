@@ -68,7 +68,7 @@
 
       <!--QUEMADOR DE GRASAS-->
       <ProductGroup 
-        title="Quemador de grasas y Detox"      
+        title="Quemadores de grasa"      
         :products="fatBurner"
         category="fatBurner"  
       />   
@@ -95,11 +95,11 @@
       />
 
       <!--AMINOÁCIDOS-->
-      <ProductGroup 
+      <!--<ProductGroup 
         title="Aminoácidos"       
         :products="aminoAcids" 
         category="aminoAcids" 
-      />
+      />-->
 
       <!--OTROS-->
       <ProductGroup 

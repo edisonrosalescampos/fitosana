@@ -425,7 +425,7 @@
         "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
     },
     {
-        "name": "Melatonina Plus 5mg",
+        "name": "Melatonina 5mg",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento del estrés y control del sueño, antioxidante.", 
@@ -770,7 +770,7 @@
         "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
         "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
         "category": "vitamins",
-        "img": "zinc.png",
+        "img": "zinc_termo.png",
         "elements": [
             {"name": "Zinc", "qty": "50mg"}
         ],
@@ -931,7 +931,7 @@
     },
     {
         "name": "Cólageno Hidrolizado 500g",
-        "price": 22,
+        "price": 25,
         "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "collagens",
@@ -982,7 +982,7 @@
         "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
         "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
         "category": "magnesiums",
-        "img": "glicinato_magnesio.png",
+        "img": "glicinato_magnesio_termo.png",
         "elements": [
             {"name": "Bisglicinato de Magnesio", "qty": "200mg"}
         ],
@@ -1019,12 +1019,12 @@
         "cpe": "1024572010"
     },
     {
-        "name": "Magnesio + B6",
+        "name": "Magnesio + Vitamina B6",
         "price": 9,
         "short_description": "",
         "description": "Ayuda al sistema nervioso a funcionar bien, mejora el estado de ánimo y promueve un sueño reparador.", 
         "category": "magnesiums",
-        "img": "magnesio_b6.png",
+        "img": "magnesio_vitamina_b6_termo.png",
         "elements": [
             {"name": "Vitamina B6", "qty": "2.5mg"},
             {"name": "Citrato de Magnesio", "qty": "200mg"}
@@ -1038,7 +1038,7 @@
         "short_description": "",
         "description": "Disminuye el cansancio, la fatiga, contribuye al funcionamiento normal del sistema nervioso y ayuda a la salud de los músculos.", 
         "category": "magnesiums",
-        "img": "magnesio_vitamina_c.png",
+        "img": "magnesio_vitamina_c_termo.png",
         "elements": [
             {"name": "Óxido de Magnesio", "qty": "240mg"},
             {"name": "Ácido L-ascórbico", "qty": "240mg"}
@@ -1225,7 +1225,7 @@
         "short_description": "",
         "description": "Ayuda a la pérdida de peso, posee propiedades adelgazantes y obtiene resultados rápidos y eficientes.", 
         "category": "fat burner",
-        "img": "sabila_linaza.png",
+        "img": "sabila_linaza_termo.png",
         "elements": [
             {"name": "Sábila", "qty": "320mg"},
             {"name": "Linaza", "qty": "160mg"}
@@ -1244,7 +1244,8 @@
             {"name": "Boldo", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },
     {
         "name": "Piña + Linaza y Sábila",
@@ -1262,12 +1263,12 @@
         "cpe": "000000000"
     },
     {
-        "name": "4 en 1",
+        "name": "Adelgazante 4 en 1",
         "price": 9,
         "short_description": "",
         "description": "Excelente quemador de grasa. Favorece la digestion y ayuda a eliminar las toxinas del organismo así como acelerar el metabolismo y reducir la absorción de grasas.",
         "category": "fat burner",
-        "img": "4_en_1.png",
+        "img": "4_en_1_termo.png",
         "elements": [
             {"name": "Grapefruit", "qty": "150mg"},
             {"name": "Piña", "qty": "125mg"},
@@ -1288,7 +1289,8 @@
             {"name": "Aceite de Coco Virgen", "qty": "210ml"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },
 
 
@@ -1615,7 +1617,7 @@
     },
     {
         "name": "Valeriana",
-        "price": 8,
+        "price": 9,
         "short_description": "Actúa como sedante y relajante nervioso.",
         "description": "Combate el dolor de cabeza, cólicos intestinales, dolores reumáticos, dismenorreas y elimina la intranquilidad.",
         "category": "others",
@@ -1667,7 +1669,7 @@
     },
     {
         "name": "5-HTP",
-        "price": 8,
+        "price": 9,
         "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
         "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "others",
@@ -1676,7 +1678,8 @@
             {"name": "5-hidroxitriptófano", "qty": "200mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },   
     {
         "name": "Uña de Gato",
@@ -1684,7 +1687,7 @@
         "short_description": "",
         "description": "Evita el crecimiento de células cancerígenas, fortalece el sistema inmunológico y renegera el sistema óseo.", 
         "category": "others",
-        "img": "una_gato.png",
+        "img": "una_gato_termo.png",
         "elements": [
             {"name": "Uña de Gato", "qty": "480mg"}
         ],
@@ -1723,7 +1726,7 @@
         "short_description": "",
         "description": "Protege el cerebro, reduce la presión arterial, alivia el dolor articular y controla la tensión baja.", 
         "category": "others",
-        "img": "moringa.png",
+        "img": "moringa_termo.png",
         "elements": [
             {"name": "Moringa", "qty": "480mg"}
         ],
@@ -1758,7 +1761,8 @@
             {"name": "Jengibre", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },    
     {
         "name": "Cartílago de Tiburón",
@@ -1766,7 +1770,7 @@
         "short_description": "",
         "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
         "category": "others",
-        "img": "cartilago_tiburon.png",
+        "img": "cartilago_tiburon_termo.png",
         "elements": [
             {"name": "Cartílago de Tiburón", "qty": "480mg"}
         ],
@@ -1779,7 +1783,7 @@
         "short_description": "",
         "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
         "category": "others",
-        "img": "dulce_sueno.png",
+        "img": "dulce_sueno_termo.png",
         "elements": [
             {"name": "Valeriana", "qty": "240mg"},
             {"name": "Magnesio", "qty": "120mg"},
@@ -1800,7 +1804,8 @@
             {"name": "Vitamina D", "qty": "80mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },
     {
         "name": "Niacina",
@@ -1814,7 +1819,8 @@
         ],
         "approval_number": "A-165.255",
         "cpe": "0724563660",
-        "posology": "Tomar una (1) tableta diariamente con el almuerzo."
+        "posology": "Tomar una (1) tableta diariamente con el almuerzo.",
+        "hidden": true
     },
     {
         "name": "Mapurite",
@@ -2055,17 +2061,12 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
-    
-
-
-    
-    
     {
         "name": "L-Arginina",
         "price": 9,
         "short_description": "",
         "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "amino acids",
+        "category": "proteins",
         "img": "l_arginina_termo.png",
         "elements": [
             {"name": "L-Arginina (diaminometilidenoamino)", "qty": "250mg"}
@@ -2078,7 +2079,7 @@
         "price": 9,
         "short_description": "",
         "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
-        "category": "amino acids",
+        "category": "proteins",
         "img": "l_carnitina_termo.png",
         "elements": [
             {"name": "L-Carnitina (L-carnipure)", "qty": "200mg"}
@@ -2086,6 +2087,9 @@
         "approval_number": "A-166.181",
         "cpe": "000000000"
     },  
+    
+
+
 
 
 
@@ -2133,7 +2137,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Omega 3",
+        "name": "Omega 3 30 softgel",
         "price": 9,
         "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
         "description": "El omega 3 es un ácido graso esencial que protege la salud cardiovascular al reducir triglicéridos y mejorar la circulación. También favorece la función cerebral, reduce la inflamación en articulaciones, fortalece la visión y apoya el sistema inmunológico. Es clave para prevenir enfermedades crónicas y mejorar el bienestar general.",
@@ -2146,7 +2150,7 @@
         "cpe": "000000000"
     },  
     {
-        "name": "Vitamina E",
+        "name": "Vitamina E 30 softgel",
         "price": 12,
         "short_description": "Mantén tu sistema inmunitario fuerte.",
         "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
@@ -2171,6 +2175,23 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Omega 3-6-9 30 softgel",
+        "price": 12,
+        "short_description": "",
+        "description": "Este complejo de ácidos grasos esenciales apoya la salud cardiovascular, cerebral y articular. El omega-3 reduce la inflamación y protege el corazón, el omega-6 favorece la piel y el sistema inmunológico, y el omega-9 mejora el colesterol HDL. Juntos, equilibran el metabolismo y fortalecen el bienestar general.",
+        "category": "softgels",
+        "img": "omega_369_30softgel_termo.png",
+        "elements": [
+            {"name": "Aceite de Pescado (Omega 3)", "qty": "224mg"},
+            {"name": "Aceite de Borraja (Omega 6)", "qty": "240mg"},
+            {"name": "Aceite de Lino (Omega 9)", "qty": "224mg"},
+            {"name": "Vitamina E", "qty": "15mg"}
+
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
@@ -2179,7 +2200,7 @@
 
     {
         "name": "Miel de Abejas 500gr",
-        "price": 7,
+        "price": 12,
         "short_description": "",
         "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
         "category": "honey",
@@ -2190,7 +2211,7 @@
     },
     {
         "name": "Miel de Abejas 1kg",
-        "price": 10,
+        "price": 18,
         "short_description": "",
         "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
         "category": "honey",
