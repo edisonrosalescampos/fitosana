@@ -17,13 +17,6 @@
       </template>
     </template>
     <template v-else>
-      <!--STRONG LIFE-->
-      <ProductGroup 
-        title="Strong Life"       
-        :products="strongLife" 
-        category="strongLife" 
-      />
-
       <!--NATURAL PREMIUM-->
       <ProductGroup 
         title="Natural Premium"       
@@ -85,6 +78,13 @@
         title="Suplementos"      
         :products="suplements" 
         category="suplements" 
+      />
+
+      <!--STRONG LIFE-->
+      <ProductGroup 
+        title="Strong Life"       
+        :products="strongLife" 
+        category="strongLife" 
       />
 
       <!--PROTEINAS-->

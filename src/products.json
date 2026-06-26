@@ -2200,7 +2200,7 @@
 
     {
         "name": "Miel de Abejas 500gr",
-        "price": 12,
+        "price": 10,
         "short_description": "",
         "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
         "category": "honey",
@@ -2211,7 +2211,7 @@
     },
     {
         "name": "Miel de Abejas 1kg",
-        "price": 18,
+        "price": 16,
         "short_description": "",
         "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
         "category": "honey",
