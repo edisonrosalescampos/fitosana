@@ -136,11 +136,6 @@ export default {
     products: productsJson
   }),
   computed: {
-    strongLife() {
-      let filteredResults = this.$store.state.products.filter(item => item.category == "strong life");
-
-      return this.sortAscByName(filteredResults);
-    },
     naturalPremium() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "natural premium");
 
@@ -183,6 +178,11 @@ export default {
     },
     suplements() {
       let filteredResults = this.$store.state.products.filter(item => item.category == "suplements");
+
+      return this.sortAscByName(filteredResults);
+    },
+    strongLife() {
+      let filteredResults = this.$store.state.products.filter(item => item.category == "strong life");
 
       return this.sortAscByName(filteredResults);
     },  

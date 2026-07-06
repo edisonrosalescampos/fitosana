@@ -1,330 +1,6 @@
 [
     {
-        "name": "Citrato de Potasio 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Diurético natural. Contribuye al desarrollo muscular. Regula la presión arterial. Favorece la eliminación de desechos metabólicos.", 
-        "category": "strong life",
-        "img": "citrato_potasio_stronglife.png",
-        "elements": [
-            {"name": "Citrato de Potasio", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
-    {
-        "name": "Citrato de Magnesio 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Ayuda a mejorar tu descanso y a tener un sueño más profundo. Combate el insomnio de forma natural. Reduce el estrés y la tensión diaria. Ayuda a la absorción del calcio en los huesos. Elimina los dolores de piernas. Aumenta tu energía y vitalidad.", 
-        "category": "strong life",
-        "img": "citrato_magnesio_stronglife.png",
-        "elements": [
-            {"name": "Citrato de Magnesio", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
-    {
-        "name": "Castaña de Indias 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Alivia síntomas asociados a alteraciones leves de la circulación venosa. Combate las várices y dolor de piernas. Evita el adormecimiento de las extremidades inferiores. Combate las hemorroides.", 
-        "category": "strong life",
-        "img": "castano_indias_stronglife.png",
-        "elements": [
-            {"name": "Castaña de Indias (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },   
-    {
-        "name": "Resveratrol 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Fortalece tu sistema cardiovascular y combate el envejecimiento.", 
-        "category": "strong life",
-        "img": "resveratrol_stronglife.png",
-        "elements": [
-            {"name": "Resveratrol", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },   
-    {
-        "name": "Vitamina C 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Fortalece el sistema inmunológico. Previene el alzheimer.", 
-        "category": "strong life",
-        "img": "vitamina_c_stronglife.png",
-        "elements": [
-            {"name": "Vitamina C", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Garcinia Cambogia 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Reduce los niveles de colesterol y triglicéridos. Aumenta el metabolismo. Controla el apetito.", 
-        "category": "strong life",
-        "img": "garcinia_cambogia_stronglife.png",
-        "elements": [
-            {"name": "Garcinia Cambogia (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Centella Asiática 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Aporta firmeza y elasticidad a la piel. Elimina la acumulación de grasa y estrías. Adelgazante natural.", 
-        "category": "strong life",
-        "img": "centella_asiatica_stronglife.png",
-        "elements": [
-            {"name": "Centella Asiática (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Chanca Piedra 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Elimina los cálculos y arenilla de los riñones y vejiga. Regulador de la hipertensión. Combate la cistitis, várices y flebitis.", 
-        "category": "strong life",
-        "img": "chanca_piedra_stronglife.png",
-        "elements": [
-            {"name": "Chanca Piedra (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Ñame Salvaje 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Coadyuvante en los procesos menopáusicos. Ayuda a la fertilidad de la mujer. Evita calambres menstruales.", 
-        "category": "strong life",
-        "img": "name_salvaje_stronglife.png",
-        "elements": [
-            {"name": "Ñame Salvaje (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Cúrcuma con Jengibre y Pimienta 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Ofrece un alivio natural y eficaz gracias a su propiedades antiinflamatorias y antioxidantes. Mejora la digestión fortaleciendo tu sistema inmunológico.", 
-        "category": "strong life",
-        "img": "curcuma_pimienta_stronglife.png",
-        "elements": [
-            {"name": "Cúrcuma", "qty": "200mg"},
-            {"name": "Jengibre", "qty": "200mg"},
-            {"name": "Pimienta Negra", "qty": "100mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Daflon'X Force 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "Mejora la circulación sanguínea, combate los dolores en las piernas, elimina calambres, hemorroides y úlceras varicosas, excelente venotónico, evita el adormecimiento de las extremidades.", 
-        "category": "strong life",
-        "img": "daflonxforce_stronglife.png",
-        "elements": [
-            {"name": "Centella Asiática", "qty": "200mg"},
-            {"name": "Castaño de Indias", "qty": "200mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Turmeric (Cúrcuma) 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "La cúrcuma es un desintoxicante hepático, que fortalece tu sistema inmunológico.", 
-        "category": "strong life",
-        "img": "turmeric_stronglife.png",
-        "elements": [
-            {"name": "Cúrcuma (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Adelgamax 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "adelgamax_stronglife.png",
-        "elements": [
-            {"name": "Alcachofa", "qty": "100mg"},
-            {"name": "Centella Asiática", "qty": "100mg"},            
-            {"name": "Grapefruit", "qty": "100mg"},
-            {"name": "Cáscara Sagrada", "qty": "50mg"},
-            {"name": "Valeriana", "qty": "50mg"},
-            {"name": "Aloe Vera", "qty": "50mg"},
-            {"name": "Marrubio", "qty": "50mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Carbón Vegetal 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "carbon_vegetal_stronglife.png",
-        "elements": [
-            {"name": "Carbón Vegetal Activado", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Saw Palmetto 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "saw_palmetto_stronglife.png",
-        "elements": [
-            {"name": "Saw Palmetto (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Lochita 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "lochita_stronglife.png",
-        "elements": [
-            {"name": "Lochita (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Erectomax 500mg",
-        "price": 9,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "erectomax_stronglife.png",
-        "elements": [
-            {"name": "Maca Blanca", "qty": "250mg"},
-            {"name": "Saw Palmetto", "qty": "150mg"},
-            {"name": "Ginkgo Biloba", "qty": "100mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Cáscara Sagrada 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "cascara_sagrada_stronglife.png",
-        "elements": [
-            {"name": "Cáscara Sagrada (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Cardo Lechozo 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "cardo_lechozo_stronglife.png",
-        "elements": [
-            {"name": "Cardo Lechozo (Extracto Puro)", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Levadura de Cerveza 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "levadura_cerveza_stronglife.png",
-        "elements": [
-            {"name": "Levadura de Cerveza", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Rheumadaul 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "rheumadaul_stronglife.png",
-        "elements": [
-            {"name": "Ortiga", "qty": "100mg"},
-            {"name": "Uña de Gato", "qty": "100mg"},
-            {"name": "Palo de Arco", "qty": "100mg"},
-            {"name": "Chuchuguaza", "qty": "100mg"},
-            {"name": "Moringa", "qty": "100mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Alcachofa 500mg",
-        "price": 8,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "alcachofa_stronglife.png",
-        "elements": [
-            {"name": "Alcachofa", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Parasivida Desparasitante 120ml",
-        "price": 6,
-        "short_description": "",
-        "description": "No especificado.", 
-        "category": "strong life",
-        "img": "parasivida_stronglife.png",
-        "elements": [
-            {"name": "Ruibardo", "qty": "-"},
-            {"name": "Pasota", "qty": "-"},
-            {"name": "Ajo", "qty": "-"},
-            {"name": "Cebolla", "qty": "-"},
-            {"name": "Ajenjo", "qty": "-"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-
-
-
-
-
-
-    {
+        "sku": "NATURAL-PREMIUM-ACEITE-OREGANO",
         "name": "Aceite de Orégano 30ml",
         "price": 10,
         "short_description": "",
@@ -340,7 +16,8 @@
         "posology": "Adultos: Tomar 2 gotas de aceite de orégano en un vaso de agua media hora antes del desayuno y cena. Niños mayores de 6 años: tomar 1 gota de aceite de orégano media hora antes del desayuno y cena."
     },
     {
-        "name": "Keratium 300mg",
+        "sku": "NATURAL-PREMIUM-KERATIUM",
+        "name": "Keratium",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento para el fortalecimiento del cabello, uñas y piel. Brinda fortaleza y nutrición al cabello, favorece el crecimiento de uñas fuertes, embellece la piel brindándole un aspecto lozano y juvenil.", 
@@ -364,7 +41,8 @@
         "posology": "Tomar dos (2) cápsulas al día (1 cápsula antes del desayuno y otra después de la cena)."
     },
     {
-        "name": "Magnesio 500mg",
+        "sku": "NATURAL-PREMIUM-CITRATO-MAGNESIO",
+        "name": "Citrato de Magnesio",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento de la deficiencia de magnesio. Mejora la salud ósea. Regula el sistema nervioso.", 
@@ -378,7 +56,8 @@
         "posology": "Una (1) cápsula al día junto con la comida."
     },
     {
-        "name": "Diente de León 300mg",
+        "sku": "NATURAL-PREMIUM-DIENTE-LEON",
+        "name": "Diente de León",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético eficaz y estimulante hepatobiliar. Se recomienda en casos de litiasis vesicular (piedras en vesícula) y en casos de hígado graso.", 
@@ -392,7 +71,8 @@
         "posology": "Una (1) cápsula tres veces al día."
     },
     {
-        "name": "Colágeno con Vitamina C 500mg",
+        "sku": "NATURAL-PREMIUM-COLAGENO-VITAMINA-C",
+        "name": "Colágeno con Vitamina C",
         "price": 10,
         "short_description": "",
         "description": "La vitamina C tiene un rol antioxidante y promueve la síntesis de colágeno, favorece el mantenimiento de la integridad del sistema inmune, e interviene en el funcionamiento normal de los huesos y de los cartílagos. Fortalece uñas y cabello, mejora el aspecto y elasticidad de la piel y rejuvenece tu belleza.", 
@@ -407,7 +87,8 @@
         "posology": "Tomar 1 a 2 cápsulas al día."
     },
     {
-        "name": "Singrass 400mg",
+        "sku": "NATURAL-PREMIUM-SINGRASS",
+        "name": "Singrass",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento de regímenes para el control de peso. Adelgazante, diurético y quemador de grasa corporal.", 
@@ -425,6 +106,7 @@
         "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
     },
     {
+        "sku": "NATURAL-PREMIUM-MEATONINA",
         "name": "Melatonina 5mg",
         "price": 8,
         "short_description": "",
@@ -443,7 +125,8 @@
         "posology": "Adultos: Una cápsula, media hora antes de acostarse."
     },
     {
-        "name": "Prostinat 300mg",
+        "sku": "NATURAL-PREMIUM-PROSTINAT",
+        "name": "Prostinat",
         "price": 10,
         "short_description": "",
         "description": "Ayuda en el tratamiento del proceso inflamatorio en caso de hiperplasia prostática benigna. Desintoxica y limpia la próstata eliminando la inflamación, disminuye las micciones nocturnas y mejora la virilidad en el hombre.", 
@@ -460,7 +143,8 @@
         "posology": "Adultos: Tomar 1 cápsula diaria después de la comida."
     },
     {
-        "name": "Varisan 300mg",
+        "sku": "NATURAL-PREMIUM-VARISAN",
+        "name": "Varisan",
         "price": 10,
         "short_description": "",
         "description": "Ayuda en el tratamiento de los síntomas asociados a insuficiencia venosa de los miembros inferiores. Piernas cansadas, edemas, várices, sensación de pesadez y calambres nocturnos.", 
@@ -476,6 +160,7 @@
         "posology": "Adultos: Tomar 1 cápsula antes del desayuno y otra después de la cena con suficiente líquido."
     },
     {
+        "sku": "NATURAL-PREMIUM-NONNA-JARABE",
         "name": "Nonna Jarabe 180ml",
         "price": 7,
         "short_description": "",
@@ -499,7 +184,8 @@
         "posology": "Adultos: una cucharada (15ml) tres veces al día. Niños: mayores de 12 años una cucharadita (5ml) tres veces al día."
     },
     {
-        "name": "Zarzaparrilla 300mg",
+        "sku": "NATURAL-PREMIUM-ZARZAPARRILLA",
+        "name": "Zarzaparrilla",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento para el aumento de la diuresis. Diurético natural y eficaz depurativo sanguíneo. Ayuda a controlar los procesos hormonales en hombre y mujer.", 
@@ -514,7 +200,8 @@
         "posology": "Adultos: Una cápsula tres veces al día."
     },
     {
-        "name": "Cola de Caballo 300mg",
+        "sku": "NATURAL-PREMIUM-COLA-CABALLO",
+        "name": "Cola de Caballo",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento de la diuresis. Diurético eficaz que te ayuda a limpiar las vías urinarias y a eliminar la retención de líquido. Se recomienda en casos de litiasis renal (piedra en los riñones).", 
@@ -528,7 +215,8 @@
         "posology": "Adultos: Una cápsula tres veces al día."
     },
     {
-        "name": "Ginkgo Biloba 300mg",
+        "sku": "NATURAL-PREMIUM-GINKGO-BILOBA",
+        "name": "Ginkgo Biloba",
         "price": 10,
         "short_description": "",
         "description": "Ayuda en el tratamiento de los trastornos caracterizados por la disminución de la capacidad de atención, concentración y memoria. Mejora la microcirculación sanguínea y molestias y dolores de los miembros inferiores.", 
@@ -542,7 +230,8 @@
         "posology": "Adultos: Una cápsula dos veces al día."
     },
     {
-        "name": "Centella Asiática 300mg",
+        "sku": "NATURAL-PREMIUM-CENTELLA-ASIATICA",
+        "name": "Centella Asiática",
         "price": 10,
         "short_description": "",
         "description": "Coadyuvante en el tratamiento para la prevención y control de la celulitis, control de peso y eliminación de quistes de senos y ovarios.", 
@@ -556,7 +245,8 @@
         "posology": "Adultos: Una cápsula tres veces al día."
     },
     {
-        "name": "Colágeno 500mg",
+        "sku": "NATURAL-PREMIUM-COLAGENO",
+        "name": "Colágeno",
         "price": 10,
         "short_description": "",
         "description": "El colágeno es una proteína estructural que proporciona firmeza y elasticidad a los tejidos osteoarticular y a la piel, además de brindar las siguientes bondades: Mejora el aspecto y elasticidad de la piel, fortalece uñas y cabello, brinda brillo a tu cabello y rejuvenece tu belleza.", 
@@ -570,6 +260,7 @@
         "posology": "Tomar 1 a 2 cápsulas al día."
     },
     {
+        "sku": "NATURAL-PREMIUM-GRINATOS-JARABE",
         "name": "Grinatos Jarabe 180ml",
         "price": 7,
         "short_description": "",
@@ -595,7 +286,359 @@
 
 
 
+
     {
+        "sku": "STRONG-LIFE-CITRATO-POTASIO",
+        "name": "Citrato de Potasio",
+        "price": 8,
+        "short_description": "",
+        "description": "Diurético natural. Contribuye al desarrollo muscular. Regula la presión arterial. Favorece la eliminación de desechos metabólicos.", 
+        "category": "strong life",
+        "img": "citrato_potasio_stronglife.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "sku": "STRONG.LIFE-CITRATO-MAGNESIO",
+        "name": "Citrato de Magnesio",
+        "price": 8,
+        "short_description": "",
+        "description": "Ayuda a mejorar tu descanso y a tener un sueño más profundo. Combate el insomnio de forma natural. Reduce el estrés y la tensión diaria. Ayuda a la absorción del calcio en los huesos. Elimina los dolores de piernas. Aumenta tu energía y vitalidad.", 
+        "category": "strong life",
+        "img": "citrato_magnesio_stronglife.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "sku": "STRONG-LIFE-CASTANA-INDIAS",
+        "name": "Castaña de Indias",
+        "price": 8,
+        "short_description": "",
+        "description": "Alivia síntomas asociados a alteraciones leves de la circulación venosa. Combate las várices y dolor de piernas. Evita el adormecimiento de las extremidades inferiores. Combate las hemorroides.", 
+        "category": "strong life",
+        "img": "castano_indias_stronglife.png",
+        "elements": [
+            {"name": "Castaña de Indias (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },   
+    {
+        "sku": "STRONG-LIFE-RESVERATROL",
+        "name": "Resveratrol",
+        "price": 8,
+        "short_description": "",
+        "description": "Fortalece tu sistema cardiovascular y combate el envejecimiento.", 
+        "category": "strong life",
+        "img": "resveratrol_stronglife.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },   
+    {
+        "sku": "STRONG-LIFE-VITAMINA-C",
+        "name": "Vitamina C",
+        "price": 8,
+        "short_description": "",
+        "description": "Fortalece el sistema inmunológico. Previene el alzheimer.", 
+        "category": "strong life",
+        "img": "vitamina_c_stronglife.png",
+        "elements": [
+            {"name": "Vitamina C", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-GARCINIA-CAMBOGIA",
+        "name": "Garcinia Cambogia",
+        "price": 8,
+        "short_description": "",
+        "description": "Reduce los niveles de colesterol y triglicéridos. Aumenta el metabolismo. Controla el apetito.", 
+        "category": "strong life",
+        "img": "garcinia_cambogia_stronglife.png",
+        "elements": [
+            {"name": "Garcinia Cambogia (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CENTELLA-ASIATICA",
+        "name": "Centella Asiática",
+        "price": 8,
+        "short_description": "",
+        "description": "Aporta firmeza y elasticidad a la piel. Elimina la acumulación de grasa y estrías. Adelgazante natural.", 
+        "category": "strong life",
+        "img": "centella_asiatica_stronglife.png",
+        "elements": [
+            {"name": "Centella Asiática (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CHANCA-PIEDRA",
+        "name": "Chanca Piedra",
+        "price": 8,
+        "short_description": "",
+        "description": "Elimina los cálculos y arenilla de los riñones y vejiga. Regulador de la hipertensión. Combate la cistitis, várices y flebitis.", 
+        "category": "strong life",
+        "img": "chanca_piedra_stronglife.png",
+        "elements": [
+            {"name": "Chanca Piedra (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-NAME-SALVAJE",
+        "name": "Ñame Salvaje",
+        "price": 8,
+        "short_description": "",
+        "description": "Coadyuvante en los procesos menopáusicos. Ayuda a la fertilidad de la mujer. Evita calambres menstruales.", 
+        "category": "strong life",
+        "img": "name_salvaje_stronglife.png",
+        "elements": [
+            {"name": "Ñame Salvaje (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CURCUMA-JENJIBRE-PIMIENTA",
+        "name": "Cúrcuma con Jengibre y Pimienta",
+        "price": 8,
+        "short_description": "",
+        "description": "Ofrece un alivio natural y eficaz gracias a su propiedades antiinflamatorias y antioxidantes. Mejora la digestión fortaleciendo tu sistema inmunológico.", 
+        "category": "strong life",
+        "img": "curcuma_pimienta_stronglife.png",
+        "elements": [
+            {"name": "Cúrcuma", "qty": "200mg"},
+            {"name": "Jengibre", "qty": "200mg"},
+            {"name": "Pimienta Negra", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-DAFLON",
+        "name": "Daflon'X Force",
+        "price": 8,
+        "short_description": "",
+        "description": "Mejora la circulación sanguínea, combate los dolores en las piernas, elimina calambres, hemorroides y úlceras varicosas, excelente venotónico, evita el adormecimiento de las extremidades.", 
+        "category": "strong life",
+        "img": "daflonxforce_stronglife.png",
+        "elements": [
+            {"name": "Centella Asiática", "qty": "200mg"},
+            {"name": "Castaño de Indias", "qty": "200mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CURCUMA",
+        "name": "Turmeric (Cúrcuma)",
+        "price": 8,
+        "short_description": "",
+        "description": "La cúrcuma es un desintoxicante hepático, que fortalece tu sistema inmunológico.", 
+        "category": "strong life",
+        "img": "turmeric_stronglife.png",
+        "elements": [
+            {"name": "Cúrcuma (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-ADELGAMAX",
+        "name": "Adelgamax",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "adelgamax_stronglife.png",
+        "elements": [
+            {"name": "Alcachofa", "qty": "100mg"},
+            {"name": "Centella Asiática", "qty": "100mg"},            
+            {"name": "Grapefruit", "qty": "100mg"},
+            {"name": "Cáscara Sagrada", "qty": "50mg"},
+            {"name": "Valeriana", "qty": "50mg"},
+            {"name": "Aloe Vera", "qty": "50mg"},
+            {"name": "Marrubio", "qty": "50mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CARBON-VEGETAL",
+        "name": "Carbón Vegetal",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "carbon_vegetal_stronglife.png",
+        "elements": [
+            {"name": "Carbón Vegetal Activado", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-SAW-PALMETTO",
+        "name": "Saw Palmetto",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "saw_palmetto_stronglife.png",
+        "elements": [
+            {"name": "Saw Palmetto (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-LOCHITA",
+        "name": "Lochita",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "lochita_stronglife.png",
+        "elements": [
+            {"name": "Lochita (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-ERECTOMAX",
+        "name": "Erectomax",
+        "price": 9,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "erectomax_stronglife.png",
+        "elements": [
+            {"name": "Maca Blanca", "qty": "250mg"},
+            {"name": "Saw Palmetto", "qty": "150mg"},
+            {"name": "Ginkgo Biloba", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CASCARA-SAGRADA",
+        "name": "Cáscara Sagrada",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "cascara_sagrada_stronglife.png",
+        "elements": [
+            {"name": "Cáscara Sagrada (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-CARDO-LECHOZO",
+        "name": "Cardo Lechozo",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "cardo_lechozo_stronglife.png",
+        "elements": [
+            {"name": "Cardo Lechozo (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-LEVADURA-CERVEZA",
+        "name": "Levadura de Cerveza",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "levadura_cerveza_stronglife.png",
+        "elements": [
+            {"name": "Levadura de Cerveza", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-RHEUMADAUL",
+        "name": "Rheumadaul",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "rheumadaul_stronglife.png",
+        "elements": [
+            {"name": "Ortiga", "qty": "100mg"},
+            {"name": "Uña de Gato", "qty": "100mg"},
+            {"name": "Palo de Arco", "qty": "100mg"},
+            {"name": "Chuchuguaza", "qty": "100mg"},
+            {"name": "Moringa", "qty": "100mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-ALCACHOFA",
+        "name": "Alcachofa",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "alcachofa_stronglife.png",
+        "elements": [
+            {"name": "Alcachofa", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-PARASIVIDA-DESPARASITANTE",
+        "name": "Parasivida Desparasitante 120ml",
+        "price": 6,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "parasivida_stronglife.png",
+        "elements": [
+            {"name": "Ruibardo", "qty": "-"},
+            {"name": "Pasota", "qty": "-"},
+            {"name": "Ajo", "qty": "-"},
+            {"name": "Cebolla", "qty": "-"},
+            {"name": "Ajenjo", "qty": "-"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+
+
+
+
+
+    {
+        "sku": "FITOSANA-COMPLEJO-B",
         "name": "Complejo B",
         "price": 9,
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
@@ -617,6 +660,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con el almuerzo."
     },
     {
+        "sku": "FITOSANA-VITAMINA-C",
         "name": "Vitamina C",
         "price": 9,
         "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
@@ -631,6 +675,7 @@
         "posology": "Tomar una (1) o dos (2) tabletas al día, preferiblemente con el desayuno y la cena."
     },
     {
+        "sku": "FITOSANA-VITAMINA-D3",
         "name": "Vitamina D3",
         "price": 9,
         "short_description": "Apoya la salud ósea y el sistema inmunológico.",
@@ -645,6 +690,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     },
     {
+        "sku": "FITOSANA-CENTRUNEX-SILVER",
         "name": "Centrunex Silver",
         "price": 9,
         "short_description": "Multivitamínico para adultos mayores de 50 años.",
@@ -673,6 +719,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con las comidas."
     },
     {
+        "sku": "FITOSANA-VIBAXINA",
         "name": "Vibaxina",
         "price": 9,
         "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
@@ -692,6 +739,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     },      
     {
+        "sku": "FITOSANA-VITAMINA-D3-K2",
         "name": "Vitamina D3 + K2",
         "price": 9,
         "short_description": "Ayuda a tu salud ósea, cardiovascular, inmunológica, mental y cutánea.",
@@ -707,6 +755,7 @@
         "posology": "Tomar una (1) tableta diariamente con el almuerzo."
     },  
     {
+        "sku": "FITOSANA-CENTRUNEX",
         "name": "Centrunex",
         "price": 9,
         "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
@@ -723,6 +772,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     }, 
     {
+        "sku": "FITOSANA-B-12",
         "name": "B-12",
         "price": 9,
         "short_description": "",
@@ -737,6 +787,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con comidas."
     }, 
     {
+        "sku": "FITOSANA-CITRATO-POTASIO",
         "name": "Citrato de Potasio",
         "price": 9,
         "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
@@ -751,6 +802,7 @@
         "posology": "Tomar dos (2) a tres (3) tabletas diarias, una (1) después de cada comida."
     },
     {
+        "sku": "FITOSANA-SELENIO",
         "name": "Selenio",
         "price": 9,
         "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
@@ -765,6 +817,7 @@
         "posology": "Tomar una (1) tableta diariamente con el almuerzo."
     },
     {
+        "sku": "FITOSANA-ZINC",
         "name": "Zinc",
         "price": 9,
         "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
@@ -779,6 +832,7 @@
         "posology": "Tomar una (1) tableta después del almuerzo diariamente."
     },
     {
+        "sku": "FITOSANA-HIERRO",
         "name": "Hierro",
         "price": 9,
         "short_description": "",
@@ -799,6 +853,7 @@
         "posology": "Tomar una (1) tableta al día, preferiblemente con el almuerzo."
     }, 
     {
+        "sku": "FITOSANA-BIOTINA",
         "name": "Biotina",
         "price": 9,
         "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
@@ -814,6 +869,7 @@
         "posology": "Tomar una (1) tableta con el almuerzo."
     },
     {
+        "sku": "FITOSANA-ACIDO-FOLICO",
         "name": "Ácido Fólico",
         "price": 9,
         "short_description": "",
@@ -829,6 +885,7 @@
         "posology": "Tomar una (1) tableta con el almuerzo diariamente."
     },
     {
+        "sku": "FITOSANA-CENTRUNEX-MAN",
         "name": "Centrunex Man",
         "price": 9,
         "short_description": "",
@@ -856,6 +913,7 @@
         "posology": "Tomar una (1) tableta al día preferiblemente con las comidas y abundante agua."
     },
     {
+        "sku": "FITOSANA-CENTRUNEX-WOMAN",
         "name": "Centrunex Woman",
         "price": 9,
         "short_description": "",
@@ -886,7 +944,11 @@
 
 
 
+
+
+
     {
+        "sku": "FITOSANA-COLAGENO",
         "name": "Colágeno",
         "price": 9,
         "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
@@ -900,6 +962,7 @@
         "cpe": "1024572008"
     },
     {
+        "sku": "FITOSANA-COLAGENO-VITAMINA-C",
         "name": "Colágeno con Vitamina C",
         "price": 9,
         "short_description": "",
@@ -914,6 +977,7 @@
         "cpe": "0724563661"
     },
     {
+        "sku": "FITOSANA-COLAGENO-ELASTINA",
         "name": "Colágeno con Elastina + Vitamina E y C",
         "price": 9,
         "short_description": "",
@@ -930,6 +994,7 @@
         "cpe": "1024572007"
     },
     {
+        "sku": "FITOSANA-COLAGENO-HIDROLIZADO",
         "name": "Cólageno Hidrolizado 500g",
         "price": 25,
         "short_description": "",
@@ -949,7 +1014,10 @@
 
 
 
+
+
     {
+        "sku": "FITOSANA-MAGNESIO-MELATONINA",
         "name": "Magnesio + Melatonina",
         "price": 9,
         "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
@@ -964,6 +1032,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CITRATO-MAGNESIO",
         "name": "Citrato de Magnesio",
         "price": 9,
         "short_description": "Regula la función de los músculos y del sistema nervioso.",
@@ -977,6 +1046,7 @@
         "cpe": "1223550879"
     },
     {
+        "sku": "FITOSANA-GLICINATO-MAGNESIO",
         "name": "Glicinato de Magnesio",
         "price": 9,
         "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
@@ -990,6 +1060,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-MAGNESIO-POTASIO",
         "name": "Magnesio + Potasio",
         "price": 9,
         "short_description": "",
@@ -1005,6 +1076,7 @@
         "cpe": "0724563659"
     },
     {
+        "sku": "FITOSANA-MAGNESIO-ZINC",
         "name": "Magnesio + Zinc",
         "price": 9,
         "short_description": "",
@@ -1019,6 +1091,7 @@
         "cpe": "1024572010"
     },
     {
+        "sku": "FITOSANA-MAGNESIO-VITAMINA-B6",
         "name": "Magnesio + Vitamina B6",
         "price": 9,
         "short_description": "",
@@ -1033,6 +1106,7 @@
         "cpe": "1024572002"
     },
     {
+        "sku": "FITOSANA-MAGNESIO-VITAMINA-C",
         "name": "Magnesio + Vitamina C",
         "price": 9,
         "short_description": "",
@@ -1052,6 +1126,7 @@
 
 
     {
+        "sku": "FITOSANA-CURCUMA",
         "name": "Cúrcuma",
         "price": 9,
         "short_description": "Eleva el sistema inmunológico.",
@@ -1065,6 +1140,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CURCUMA-JENGIBRE",
         "name": "Cúrcuma con Jengibre",
         "price": 9,
         "short_description": "",
@@ -1079,6 +1155,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CURCUMA-PIMIENTA-NEGRA",
         "name": "Cúrcuma con Jengibre, Pimienta Negra y Vitamina C",
         "price": 9,
         "short_description": "",
@@ -1100,6 +1177,7 @@
 
 
     {
+        "sku": "FITOSANA-PROSTASANA",
         "name": "Prosta Sana",
         "price": 9,
         "short_description": "Previene el cáncer de próstata.",
@@ -1113,6 +1191,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-SAW-PALMETTO",
         "name": "Saw Palmetto",
         "price": 9,
         "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
@@ -1126,6 +1205,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-MACHO-VIRIL",
         "name": "Macho Viril",
         "price": 9,
         "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
@@ -1148,6 +1228,7 @@
 
 
     {
+        "sku": "FITOSANA-VINAGRE-MANZANA",
         "name": "Vinagre de Manzana",
         "price": 9,
         "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
@@ -1161,6 +1242,7 @@
         "cpe": "0724563634"
     },
     {
+        "sku": "FITOSANA-COLON-CLEAN",
         "name": "Colon Clean",
         "price": 9,
         "short_description": "",
@@ -1177,6 +1259,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-TUMBA-BARRIGA",
         "name": "Tumba Barriga",
         "price": 9,
         "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
@@ -1194,6 +1277,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-TE-VERDE",
         "name": "Té Verde",
         "price": 9,
         "short_description": "",
@@ -1207,6 +1291,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CASCARA-SAGRADA",
         "name": "Cáscara Sagrada",
         "price": 9,
         "short_description": "",
@@ -1220,6 +1305,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-SABILA-LINAZA",
         "name": "Sábila con Linaza",
         "price": 9,
         "short_description": "",
@@ -1234,20 +1320,7 @@
         "cpe": "000000000"
     },
     {
-        "name": "Boldo",
-        "price": 9,
-        "short_description": "",
-        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
-        "category": "fat burner",
-        "img": "boldo.png",
-        "elements": [
-            {"name": "Boldo", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "hidden": true
-    },
-    {
+        "sku": "FITOSANA-PINA-LINAZA-SABILA",
         "name": "Piña + Linaza y Sábila",
         "price": 9,
         "short_description": "",
@@ -1263,7 +1336,8 @@
         "cpe": "000000000"
     },
     {
-        "name": "Adelgazante 4 en 1",
+        "sku": "FITOSANA-ADELGAZANTE-4-EN-1",
+        "name": "4 en 1",
         "price": 9,
         "short_description": "",
         "description": "Excelente quemador de grasa. Favorece la digestion y ayuda a eliminar las toxinas del organismo así como acelerar el metabolismo y reducir la absorción de grasas.",
@@ -1278,22 +1352,114 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+
+
+
+
+
     {
-        "name": "Aceite de Coco Natri 210ml",
-        "price": 14,
+        "sku": "FITOSANA-SOFTGEL-NAD",
+        "name": "NAD 30 Softgel",
+        "price": 12,
         "short_description": "",
-        "description": "El consumo de aceite de coco favorece la quema de grasa, ayuda a controlar el apetito, regula los niveles de azúcar en sangre y contribuye a mejorar la salud cardiovascular.",
-        "category": "fat burner",
-        "img": "aceite_coco_natri.png",
+        "description": "El NAD+ es una coenzima esencial para la producción de energía celular, la reparación del ADN y la regulación del metabolismo. Su suplementación puede mejorar la función cognitiva, aumentar la vitalidad, retrasar el envejecimiento celular y fortalecer el sistema inmunológico. También se asocia con mejor sensibilidad a la insulina y reducción del estrés oxidativo.",
+        "category": "softgels",
+        "img": "nad_30softgel_termo.png",
         "elements": [
-            {"name": "Aceite de Coco Virgen", "qty": "210ml"}
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "700mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "hidden": true
+        "cpe": "000000000"
     },
+    {
+        "sku": "FITOSANA-SOFTGEL-RESVERATROL-NAD",
+        "name": "Resveratrol + NAD 30 Softgel",
+        "price": 12,
+        "short_description": "",
+        "description": "En formato Softgel, el resveratrol y el NAD ofrecen rápida absorción, lo que potencia sus efectos antioxidantes y energéticos. El resveratrol protege el corazón y las células frente al envejecimiento, mientras que el NAD mejora la producción de energía celular, la reparación del ADN y la vitalidad general. Juntos, apoyan la longevidad y el bienestar metabólico.",
+        "category": "softgels",
+        "img": "resveratrol_nad_30softgel_termo.png",
+        "elements": [
+            {"name": "NAD+", "qty": "30mg"},
+            {"name": "Resveratrol", "qty": "250mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-SOFTGEL-RESVERATROL",
+        "name": "Resveratrol 30 Softgel",
+        "price": 10,
+        "short_description": "",
+        "description": "El resveratrol es un polifenol presente en la uva y otros frutos, con efectos antioxidantes y antiinflamatorios. Protege el corazón al mejorar la circulación y reducir el colesterol LDL, favorece la longevidad celular, regula la glucosa en sangre y apoya la salud cerebral. También se estudia por su potencial anticancerígeno y su capacidad de retrasar el envejecimiento.",
+        "category": "softgels",
+        "img": "resveratrol_30softgel_termo.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "700mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-SOFTGEL-OMEGA-3",
+        "name": "Omega 3 30 softgel",
+        "price": 9,
+        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
+        "description": "El omega 3 es un ácido graso esencial que protege la salud cardiovascular al reducir triglicéridos y mejorar la circulación. También favorece la función cerebral, reduce la inflamación en articulaciones, fortalece la visión y apoya el sistema inmunológico. Es clave para prevenir enfermedades crónicas y mejorar el bienestar general.",
+        "category": "softgels",
+        "img": "omega3_30softgel_termo.png",
+        "elements": [
+            {"name": "Aceite de Pescado", "qty": "753mcg (1000IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "sku": "FITOSANA-SOFTGEL-VITAMINA-E",
+        "name": "Vitamina E 30 softgel",
+        "price": 12,
+        "short_description": "Mantén tu sistema inmunitario fuerte.",
+        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
+        "category": "softgels",
+        "img": "vitamina_e_30softgel_termo.png",
+        "elements": [
+            {"name": "Vitamina E", "qty": "450mcg (1000IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-SOFTGEL-BIOTINA",
+        "name": "Biotina 30 softgel",
+        "price": 12,
+        "short_description": "",
+        "description": "La biotina, también conocida como vitamina B7, es esencial para el metabolismo energético y la salud de cabello, piel y uñas. En formato Softgel, ofrece rápida absorción, lo que mejora su eficacia en fortalecer los folículos capilares, reducir la caída del cabello y mejorar la textura de la piel. También regula el azúcar en sangre, apoya la digestión y contribuye a la regeneración celular.",
+        "category": "softgels",
+        "img": "biotina_30softgel_termo.png",
+        "elements": [
+            {"name": "Biotina", "qty": "700mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-SOFTGEL-OMEGA-3-6-9",
+        "name": "Omega 3-6-9 30 softgel",
+        "price": 12,
+        "short_description": "",
+        "description": "Este complejo de ácidos grasos esenciales apoya la salud cardiovascular, cerebral y articular. El omega-3 reduce la inflamación y protege el corazón, el omega-6 favorece la piel y el sistema inmunológico, y el omega-9 mejora el colesterol HDL. Juntos, equilibran el metabolismo y fortalecen el bienestar general.",
+        "category": "softgels",
+        "img": "omega_369_30softgel_termo.png",
+        "elements": [
+            {"name": "Aceite de Pescado (Omega 3)", "qty": "224mg"},
+            {"name": "Aceite de Borraja (Omega 6)", "qty": "240mg"},
+            {"name": "Aceite de Lino (Omega 9)", "qty": "224mg"},
+            {"name": "Vitamina E", "qty": "15mg"}
 
-
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
      
 
@@ -1303,6 +1469,7 @@
 
 
     {
+        "sku": "FITOSANA-CASTANO-INDIAS", 
         "name": "Castaño de Indias",
         "price": 9,
         "short_description": "Mejora la circulación sanguínea.",
@@ -1316,6 +1483,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-LEVADURA-CERVEZA",
         "name": "Levadura de Cerveza",
         "price": 9,
         "short_description": "Ayuda a la prevención de la anemia.",
@@ -1329,6 +1497,7 @@
         "cpe": "1223550881"
     }, 
     {
+        "sku": "FITOSANA-CHANCA-PIEDRA",
         "name": "Chanca Piedra",
         "price": 9,
         "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
@@ -1342,6 +1511,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CALOSTRO-BOVINO",
         "name": "Calostro Bovino",
         "price": 9,
         "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
@@ -1355,6 +1525,7 @@
         "cpe": "1024572004"
     },
     {
+        "sku": "FITOSANA-GLUCOSAMINA-CONDROITINA",
         "name": "Glucosamina Condroitina",
         "price": 9,
         "short_description": "Estimula la formación y reparación del cartílago articulatorio",
@@ -1369,6 +1540,7 @@
         "cpe": "000000000"
     }, 
     {
+        "sku": "FITOSANA-AGUAJE",
         "name": "Aguaje",
         "price": 9,
         "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
@@ -1386,6 +1558,7 @@
         "cpe": "1024572005"
     },
     {
+        "sku": "FITOSANA-GINKGO-BILOBA",
         "name": "Ginkgo Biloba",
         "price": 9,
         "short_description": "Ayuda a aumentar la vitalidad mental.",
@@ -1399,6 +1572,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-FENOGRECO",
         "name": "Fenogreco",
         "price": 9,
         "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
@@ -1415,6 +1589,7 @@
         "cpe": "000000000"
     },         
     {
+        "sku": "FITOSANA-MACA",
         "name": "Maca",
         "price": 9,
         "short_description": "",
@@ -1428,6 +1603,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-ASHWAGANDHA",
         "name": "Ashwagandha",
         "price": 10,
         "short_description": "",
@@ -1441,6 +1617,7 @@
         "cpe": "000000000"
     },        
     {
+        "sku": "FITOSANA-GLUCOSAMINA",
         "name": "Glucosamina",
         "price": 9,
         "short_description": "",
@@ -1454,6 +1631,7 @@
         "cpe": "000000000"
     }, 
     {
+        "sku": "FITOSANA-ARANDANO-NEGRO",
         "name": "Arándano Negro",
         "price": 9,
         "short_description": "",
@@ -1467,6 +1645,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-ARANDANO-ROJO",
         "name": "Arándano Rojo",
         "price": 9,
         "short_description": "",
@@ -1480,6 +1659,7 @@
         "cpe": "000000000"
     },        
     {
+        "sku": "FITOSANA-RESVERATROL",
         "name": "Resveratrol",
         "price": 9,
         "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
@@ -1493,6 +1673,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CENTELLA-ASIATICA",
         "name": "Centella Asiática",
         "price": 9,
         "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
@@ -1506,6 +1687,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-INOSITOL",
         "name": "Inositol",
         "price": 9,
         "short_description": "",
@@ -1519,6 +1701,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-LUTEINA",
         "name": "Luteína",
         "price": 9,
         "short_description": "",
@@ -1532,6 +1715,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-LOCHITA",
         "name": "Lochita",
         "price": 9,
         "short_description": "",
@@ -1545,6 +1729,7 @@
         "cpe": "000000000"
     },  
     {
+        "sku": "FITOSANA-NAME-SALVAJE",
         "name": "Ñame Salvaje",
         "price": 9,
         "short_description": "Es usado para mitigar los efectos de la menopausia.",
@@ -1562,6 +1747,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-CARDO-LECHOZO",
         "name": "Cardo Lechozo",
         "price": 9,
         "short_description": "",
@@ -1578,11 +1764,174 @@
 
     
 
+
+
+
+    {
+        "sku": "FITOSANA-PROTEINA-SUERO-907G-CHOCOLATE",
+        "name": "Proteína de Suero 907g (Chocolate)",
+        "price": 33,
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
+        "category": "proteins",
+        "img": "proteina_suero_chocolate.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47g/30g"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-PROTEINA-SUERO-907G-VAINILLA",
+        "name": "Proteína de Suero 907g (Vainilla)",
+        "price": 33,
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_suero_vainilla.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47g/30g"}
+        ],
+        "approval_number": "A-165.231",
+        "cpe": "0724563818"
+    },
+    {
+        "sku": "FITOSANA-PROTEINA-HUEVO-907G-VAINILLA",
+        "name": "Proteína de Huevo 907g (Vainilla)",
+        "price": 33,
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_huevo_vainilla.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47g/30g"}
+        ],
+        "approval_number": "A-165.571",
+        "cpe": "0724563820"
+    },
+    {
+        "sku": "FITOSANA-CREATINA-500G",
+        "name": "Creatina Fitosana 500g",
+        "price": 25,
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
+        "category": "proteins",
+        "img": "creatina.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "29,3g/90g"}
+        ],
+        "approval_number": "A-165.570",
+        "cpe": "0724563657"
+    },
+    {
+        "sku": "FITOSANA-CREATINA",
+        "name": "Creatina Fitosana 2.5g",
+        "price": 9,
+        "short_description": "",
+        "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
+        "category": "proteins",
+        "img": "creatina_monohidratada_termo.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "2,5g"}
+        ],
+        "approval_number": "A-165.181",
+        "cpe": "0724563632"
+    },
+    {
+        "sku": "NUTREX-CREATINA-300G",
+        "name": "Creatina Nutrex 300g",
+        "price": 30,
+        "short_description": "",
+        "description": "Mejora la fuerza y el rendimiento en entrenamientos de alta intensidad, favorece el aumento de masa corporal magra y acelera la recuperación muscular.",
+        "category": "proteins",
+        "img": "creatina_nutrex.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "300g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "IFS-NUTRITION-CREATINA-200G",
+        "name": "Creatina IFS NUTRITION 200g",
+        "price": 20,
+        "short_description": "",
+        "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
+        "category": "proteins",
+        "img": "creatina_ifsnutrition_nueva.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "200g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "IFS-NUTRITION-BCAA-300G",
+        "name": "BCAA IFS NUTRITION 300g",
+        "price": 20,
+        "short_description": "",
+        "description": "Aminoácidos ramificados L-Leucine L-Valine L-Isoleucine: este compuesto de aminoácidos ayudan a la síntesis de proteína muscular, mejora la fuerza y reduce la fatiga, logrando un mayor desempeño y rendimiento en la actividad física.",
+        "category": "proteins",
+        "img": "bcaa_ifsnutrition_nueva.png",
+        "elements": [
+            {"name": "BCAA", "qty": "300g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "ANGRY-SUPPLEMENTS-CREATINA-300G",
+        "name": "Creatina Angry Supplements 300g",
+        "price": 35,
+        "short_description": "",
+        "description": "Angry Supplements ofrece creatina monohidratada en polvo, la forma más estudiada y reconocida por su efectividad. Este producto está formulado para mejorar la fuerza, acelerar la recuperación muscular y potenciar el rendimiento deportivo en general.",
+        "category": "proteins",
+        "img": "creatina_angry.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "300g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "IFS-NUTRITION-PROTEINA-SUERO-1KG-VAINILLA",
+        "name": "Proteína de Suero IFS NUTRITION 1Kg",
+        "price": 38,
+        "short_description": "",
+        "description": "Es una mezcla de concentrados de proteína de suero de leche, enriquecida con vitaminas, minerales y aminoácidos esenciales que promueven el desarrollo y crecimiento de tejido muscular, de rápida absorción y fácil de preparar.",
+        "category": "proteins",
+        "img": "proteina_ifs_nutrition_1kg.png",
+        "elements": [
+            {"name": "Proteína", "qty": "25g"},
+            {"name": "BCAA", "qty": "8g"},
+            {"name": "Calorías", "qty": "130kcal"}
+        ],
+        "approval_number": "A-89.730",
+        "cpe": "2022/4847"
+    },
+    {
+        "sku": "MUSCLETECH-CREATINA-400G",
+        "name": "Creatina Muscletech Platinum 400g",
+        "price": 55,
+        "short_description": "",
+        "description": "Proporciona a tus músculos la forma de creatina más estudiada y de alta calidad, diseñada para maximizar tu fuerza y rendimiento físico.",
+        "category": "proteins",
+        "img": "creatina_muscletech_platinum_nueva_imagen.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "400g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
     
 
 
 
     {
+        "sku": "FITOSANA-QUISTE-GINOL",
         "name": "Quiste Ginol",
         "price": 9,
         "short_description": "",
@@ -1601,21 +1950,9 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
+    },    
     {
-        "name": "Acidophilus",
-        "price": 8,
-        "short_description": "",
-        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
-        "category": "others",
-        "img": "acidophilus.png",
-        "elements": [
-            {"name": "Acidophilus", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
+        "sku": "FITOSANA-VALERIANA",
         "name": "Valeriana",
         "price": 9,
         "short_description": "Actúa como sedante y relajante nervioso.",
@@ -1627,34 +1964,9 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
+    },    
     {
-        "name": "Ajo",
-        "price": 8,
-        "short_description": "",
-        "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
-        "category": "others",
-        "img": "ajo.png",
-        "elements": [
-            {"name": "Polvos Bulbos", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Ajo Perejil",
-        "price": 8,
-        "short_description": "",
-        "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
-        "category": "others",
-        "img": "ajo_perejil.png",
-        "elements": [
-            {"name": "Polvos Bulbos", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
+        "sku": "FITOSANA-QUINCHONCHO",
         "name": "Quinchoncho",
         "price": 9,
         "short_description": "",
@@ -1666,22 +1978,9 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
+    },    
     {
-        "name": "5-HTP",
-        "price": 9,
-        "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
-        "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
-        "category": "others",
-        "img": "5_htp.png",
-        "elements": [
-            {"name": "5-hidroxitriptófano", "qty": "200mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "hidden": true
-    },   
-    {
+        "sku": "FITOSANA-UNA-GATO",
         "name": "Uña de Gato",
         "price": 9,
         "short_description": "",
@@ -1695,6 +1994,7 @@
         "cpe": "000000000"
     },     
     {
+        "sku": "FITOSANA-COLA-CABALLO",
         "name": "Cola de Caballo",
         "price": 9,
         "short_description": "",
@@ -1708,6 +2008,7 @@
         "cpe": "000000000"
     }, 
     {
+        "sku": "FITOSANA-GRAVIOLA",
         "name": "Graviola",
         "price": 9,
         "short_description": "Ayuda al tratamiento de miomas y quistes.",
@@ -1721,6 +2022,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-MORINGA",
         "name": "Moringa",
         "price": 9,
         "short_description": "",
@@ -1734,6 +2036,7 @@
         "cpe": "000000000"
     },
     {
+        "sku": "FITOSANA-GINSENG-KOREANO",
         "name": "Ginseng Koreano",
         "price": 8,
         "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
@@ -1745,6 +2048,206 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "1024572005"
+    },       
+    {
+        "sku": "FITOSANA-CARTILAGO-TIBURON",
+        "name": "Cartílago de Tiburón",
+        "price": 9,
+        "short_description": "",
+        "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
+        "category": "others",
+        "img": "cartilago_tiburon_termo.png",
+        "elements": [
+            {"name": "Cartílago de Tiburón", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-DULCE-SUENO",
+        "name": "Dulce Sueño",
+        "price": 9,
+        "short_description": "",
+        "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
+        "category": "others",
+        "img": "dulce_sueno_termo.png",
+        "elements": [
+            {"name": "Valeriana", "qty": "240mg"},
+            {"name": "Magnesio", "qty": "120mg"},
+            {"name": "5 HTP", "qty": "120mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },        
+    {
+        "sku": "FITOSANA-MAPURITE",
+        "name": "Mapurite",
+        "price": 9,
+        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
+        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
+        "category": "others",
+        "img": "mapurite.png",
+        "elements": [
+            {"name": "Mapurite (petiveria alliacea)", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-VITAMINAS-HIERRO",
+        "name": "Vitaminas + Hierro",
+        "price": 9,
+        "short_description": "",
+        "description": "Estimula el crecimiento y el funcionamiento normal del sistema inmunitario y ayuda a fabricar la hemoglobina.",
+        "category": "others",
+        "img": "vitaminas_minerales.png",
+        "elements": [
+            {"name": "Citrato de Hierro", "qty": "125mg"},
+            {"name": "Vitamina B1", "qty": "10mg"},
+            {"name": "Vitamina B2", "qty": "5mg"},
+            {"name": "Vitamina B3", "qty": "20mg"},
+            {"name": "Vitamina B6", "qty": "10mg"},
+            {"name": "Vitamina B12", "qty": "0,10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
+    },
+    {
+        "sku": "FITOSANA-ESPIRULINA",
+        "name": "Espirulina",
+        "price": 10,
+        "short_description": "",
+        "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
+        "category": "others",
+        "img": "espirulina_termo.png",
+        "elements": [
+            {"name": "Espirulina (Spirulina platensis)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-OREGANO",
+        "name": "Orégano",
+        "price": 9,
+        "short_description": "",
+        "description": "El orégano es una hierba aromática con potentes propiedades antibacterianas, antiinflamatorias y antioxidantes. Se utiliza para aliviar afecciones respiratorias (tos, gripe), trastornos gastrointestinales, dolores menstruales y dolores articulares o dentales. Es rico en vitaminas A, C, E, K, fibra, hierro y calcio, lo que fortalece el sistema inmunológico.",
+        "category": "others",
+        "img": "oregano_termo.png",
+        "elements": [
+            {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-CARBON-ACTIVADO",
+        "name": "Carbón Activado",
+        "price": 9,
+        "short_description": "",
+        "description": "El carbón activado es un potente desintoxicante que ayuda a eliminar toxinas y gases del sistema digestivo. Se utiliza para aliviar la hinchazón, mejorar la digestión y tratar intoxicaciones leves. También puede apoyar la salud bucal y la piel gracias a su capacidad de absorción.",
+        "category": "others",
+        "img": "carbon_activado_termo.png",
+        "elements": [
+            {"name": "Carbón Activado", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-NAD",
+        "name": "NAD",
+        "price": 9,
+        "short_description": "",
+        "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "category": "others",
+        "img": "nad_termo.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563660"
+    },
+    {
+        "sku": "FITOSANA-L-ARGININA",
+        "name": "L-Arginina",
+        "price": 9,
+        "short_description": "",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
+        "category": "others",
+        "img": "l_arginina_termo.png",
+        "elements": [
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "250mg"}
+        ],
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
+    },
+    {
+        "sku": "FITOSANA-L-CARNITINA",
+        "name": "L-Carnitina",
+        "price": 9,
+        "short_description": "",
+        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
+        "category": "others",
+        "img": "l_carnitina_termo.png",
+        "elements": [
+            {"name": "L-Carnitina (L-carnipure)", "qty": "200mg"}
+        ],
+        "approval_number": "A-166.181",
+        "cpe": "000000000"
+    }, 
+
+      
+     
+
+
+
+
+
+    {
+        "sku": "PRIMAVERA-MIEL-500G",
+        "name": "Miel de Abejas 500g",
+        "price": 10,
+        "short_description": "",
+        "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
+        "category": "honey",
+        "img": "miel_500gr.png",
+        "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "PRIMAVERA-MIEL-1KG",
+        "name": "Miel de Abejas 1Kg",
+        "price": 16,
+        "short_description": "",
+        "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
+        "category": "honey",
+        "img": "miel.png",
+        "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+
+
+
+    {
+        "name": "Boldo",
+        "price": 9,
+        "short_description": "",
+        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
+        "category": "fat burner",
+        "img": "boldo.png",
+        "elements": [
+            {"name": "Boldo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "hidden": true
     },
     {
         "name": "Circulación",
@@ -1763,35 +2266,7 @@
         "approval_number": "A-000.00",
         "cpe": "000000000",
         "hidden": true
-    },    
-    {
-        "name": "Cartílago de Tiburón",
-        "price": 9,
-        "short_description": "",
-        "description": "Combate dolores articulares, ayuda a recomponer el deterioro y es usado por deportistas y adultos de 3ra edad.", 
-        "category": "others",
-        "img": "cartilago_tiburon_termo.png",
-        "elements": [
-            {"name": "Cartílago de Tiburón", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Dulce Sueño",
-        "price": 9,
-        "short_description": "",
-        "description": "Combate el insomnio, elimina la hiperactividad y ayuda a conseguir sueño rápido y efectivo.", 
-        "category": "others",
-        "img": "dulce_sueno_termo.png",
-        "elements": [
-            {"name": "Valeriana", "qty": "240mg"},
-            {"name": "Magnesio", "qty": "120mg"},
-            {"name": "5 HTP", "qty": "120mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    }, 
     {
         "name": "Citrato de Calcio con Vitamina D",
         "price": 9,
@@ -1823,401 +2298,73 @@
         "hidden": true
     },
     {
-        "name": "Mapurite",
-        "price": 9,
-        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
-        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
-        "category": "others",
-        "img": "mapurite.png",
-        "elements": [
-            {"name": "Mapurite (petiveria alliacea)", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Vitaminas + Hierro",
-        "price": 9,
+        "name": "Ajo",
+        "price": 8,
         "short_description": "",
-        "description": "Estimula el crecimiento y el funcionamiento normal del sistema inmunitario y ayuda a fabricar la hemoglobina.",
+        "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
         "category": "others",
-        "img": "vitaminas_minerales.png",
+        "img": "ajo.png",
         "elements": [
-            {"name": "Citrato de Hierro", "qty": "125mg"},
-            {"name": "Vitamina B1", "qty": "10mg"},
-            {"name": "Vitamina B2", "qty": "5mg"},
-            {"name": "Vitamina B3", "qty": "20mg"},
-            {"name": "Vitamina B6", "qty": "10mg"},
-            {"name": "Vitamina B12", "qty": "0,10mg"}
+            {"name": "Polvos Bulbos", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000",
-        "posology": "Tomar una (1) tableta preferiblemente con el almuerzo."
+        "hidden": true
     },
     {
-        "name": "Espirulina",
-        "price": 10,
+        "name": "Ajo Perejil",
+        "price": 8,
         "short_description": "",
-        "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
+        "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
         "category": "others",
-        "img": "espirulina_termo.png",
+        "img": "ajo_perejil.png",
         "elements": [
-            {"name": "Espirulina (Spirulina platensis)", "qty": "400mg"}
+            {"name": "Polvos Bulbos", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },
     {
-        "name": "Orégano",
-        "price": 9,
+        "name": "Acidophilus",
+        "price": 8,
         "short_description": "",
-        "description": "El orégano es una hierba aromática con potentes propiedades antibacterianas, antiinflamatorias y antioxidantes. Se utiliza para aliviar afecciones respiratorias (tos, gripe), trastornos gastrointestinales, dolores menstruales y dolores articulares o dentales. Es rico en vitaminas A, C, E, K, fibra, hierro y calcio, lo que fortalece el sistema inmunológico.",
+        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
         "category": "others",
-        "img": "oregano_termo.png",
+        "img": "acidophilus.png",
         "elements": [
-            {"name": "Orégano (Origanum vulgare)", "qty": "400mg"}
+            {"name": "Acidophilus", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     },
     {
-        "name": "Carbón Activado",
+        "name": "5-HTP",
         "price": 9,
-        "short_description": "",
-        "description": "El carbón activado es un potente desintoxicante que ayuda a eliminar toxinas y gases del sistema digestivo. Se utiliza para aliviar la hinchazón, mejorar la digestión y tratar intoxicaciones leves. También puede apoyar la salud bucal y la piel gracias a su capacidad de absorción.",
+        "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
+        "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
         "category": "others",
-        "img": "carbon_activado_termo.png",
+        "img": "5_htp.png",
         "elements": [
-            {"name": "Carbón Activado", "qty": "480mg"}
+            {"name": "5-hidroxitriptófano", "qty": "200mg"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+        "cpe": "000000000",
+        "hidden": true
+    },   
     {
-        "name": "NAD",
-        "price": 9,
+        "name": "Aceite de Coco Natri 210ml",
+        "price": 14,
         "short_description": "",
-        "description": "Repara el ADN, protege tus células y retrasa el proceso de envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
-        "category": "others",
-        "img": "nad_termo.png",
+        "description": "El consumo de aceite de coco favorece la quema de grasa, ayuda a controlar el apetito, regula los niveles de azúcar en sangre y contribuye a mejorar la salud cardiovascular.",
+        "category": "fat burner",
+        "img": "aceite_coco_natri.png",
         "elements": [
-            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
-        ],
-        "approval_number": "A-165.212",
-        "cpe": "0724563660"
-    },
-
-      
-
-
-
-
-
-
-
-
-    {
-        "name": "Proteína de Suero 907g (Chocolate)",
-        "price": 33,
-        "short_description": "",
-        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
-        "category": "proteins",
-        "img": "proteina_suero_chocolate.png",
-        "elements": [
-            {"name": "Proteina", "qty": "23,47g/30g"}
-        ],
-        "approval_number": "A-165.183",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Proteína de Suero 907g (Vainilla)",
-        "price": 33,
-        "short_description": "",
-        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
-        "category": "proteins",
-        "img": "proteina_suero_vainilla.png",
-        "elements": [
-            {"name": "Proteina", "qty": "23,47g/30g"}
-        ],
-        "approval_number": "A-165.231",
-        "cpe": "0724563818"
-    },
-    {
-        "name": "Proteína de Huevo 907g (Vainilla)",
-        "price": 33,
-        "short_description": "",
-        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
-        "category": "proteins",
-        "img": "proteina_huevo_vainilla.png",
-        "elements": [
-            {"name": "Proteina", "qty": "23,47g/30g"}
-        ],
-        "approval_number": "A-165.571",
-        "cpe": "0724563820"
-    },
-    {
-        "name": "Creatina Fitosana 500g",
-        "price": 25,
-        "short_description": "",
-        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
-        "category": "proteins",
-        "img": "creatina.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "29,3g/90g"}
-        ],
-        "approval_number": "A-165.570",
-        "cpe": "0724563657"
-    },
-    {
-        "name": "Creatina Fitosana 2.5g",
-        "price": 9,
-        "short_description": "",
-        "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
-        "category": "proteins",
-        "img": "creatina_monohidratada_termo.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "2,5g"}
-        ],
-        "approval_number": "A-165.181",
-        "cpe": "0724563632"
-    },
-    {
-        "name": "Creatina Nutrex 300g",
-        "price": 30,
-        "short_description": "",
-        "description": "Mejora la fuerza y el rendimiento en entrenamientos de alta intensidad, favorece el aumento de masa corporal magra y acelera la recuperación muscular.",
-        "category": "proteins",
-        "img": "creatina_nutrex.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "300g"}
+            {"name": "Aceite de Coco Virgen", "qty": "210ml"}
         ],
         "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Creatina IFS NUTRITION 200g",
-        "price": 20,
-        "short_description": "",
-        "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
-        "category": "proteins",
-        "img": "creatina_ifsnutrition_nueva.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "200g"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "BCAA IFS NUTRITION 300g",
-        "price": 20,
-        "short_description": "",
-        "description": "Aminoácidos ramificados L-Leucine L-Valine L-Isoleucine: este compuesto de aminoácidos ayudan a la síntesis de proteína muscular, mejora la fuerza y reduce la fatiga, logrando un mayor desempeño y rendimiento en la actividad física.",
-        "category": "proteins",
-        "img": "bcaa_ifsnutrition_nueva.png",
-        "elements": [
-            {"name": "BCAA", "qty": "300g"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Creatina Angry Supplements 300g",
-        "price": 35,
-        "short_description": "",
-        "description": "Angry Supplements ofrece creatina monohidratada en polvo, la forma más estudiada y reconocida por su efectividad. Este producto está formulado para mejorar la fuerza, acelerar la recuperación muscular y potenciar el rendimiento deportivo en general.",
-        "category": "proteins",
-        "img": "creatina_angry.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "300g"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Proteína de Suero IFS NUTRITION 1Kg",
-        "price": 38,
-        "short_description": "",
-        "description": "Es una mezcla de concentrados de proteína de suero de leche, enriquecida con vitaminas, minerales y aminoácidos esenciales que promueven el desarrollo y crecimiento de tejido muscular, de rápida absorción y fácil de preparar.",
-        "category": "proteins",
-        "img": "proteina_ifs_nutrition_1kg.png",
-        "elements": [
-            {"name": "Proteína", "qty": "25g"},
-            {"name": "BCAA", "qty": "8g"},
-            {"name": "Calorías", "qty": "130kcal"}
-        ],
-        "approval_number": "A-89.730",
-        "cpe": "2022/4847"
-    },
-    {
-        "name": "Creatina Muscletech Platinum 400g",
-        "price": 55,
-        "short_description": "",
-        "description": "Proporciona a tus músculos la forma de creatina más estudiada y de alta calidad, diseñada para maximizar tu fuerza y rendimiento físico.",
-        "category": "proteins",
-        "img": "creatina_muscletech_platinum_nueva_imagen.png",
-        "elements": [
-            {"name": "Creatina Monohidratada", "qty": "400g"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "L-Arginina",
-        "price": 9,
-        "short_description": "",
-        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "proteins",
-        "img": "l_arginina_termo.png",
-        "elements": [
-            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "250mg"}
-        ],
-        "approval_number": "A-166.183",
-        "cpe": "1024572005"
-    },
-    {
-        "name": "L-Carnitina",
-        "price": 9,
-        "short_description": "",
-        "description": "Favorece la quema de grasas, el rendimiento físico y metabolismo energético. Mejora la resistencia física y reduce el estrés metabólico y oxidativo.",
-        "category": "proteins",
-        "img": "l_carnitina_termo.png",
-        "elements": [
-            {"name": "L-Carnitina (L-carnipure)", "qty": "200mg"}
-        ],
-        "approval_number": "A-166.181",
-        "cpe": "000000000"
-    },  
-    
-
-
-
-
-
-
-
-
-    {
-        "name": "NAD 30 Softgel",
-        "price": 12,
-        "short_description": "",
-        "description": "El NAD+ es una coenzima esencial para la producción de energía celular, la reparación del ADN y la regulación del metabolismo. Su suplementación puede mejorar la función cognitiva, aumentar la vitalidad, retrasar el envejecimiento celular y fortalecer el sistema inmunológico. También se asocia con mejor sensibilidad a la insulina y reducción del estrés oxidativo.",
-        "category": "softgels",
-        "img": "nad_30softgel_termo.png",
-        "elements": [
-            {"name": "NAD (Nicotinamida Adenina)", "qty": "700mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Resveratrol + NAD 30 Softgel",
-        "price": 12,
-        "short_description": "",
-        "description": "En formato Softgel, el resveratrol y el NAD ofrecen rápida absorción, lo que potencia sus efectos antioxidantes y energéticos. El resveratrol protege el corazón y las células frente al envejecimiento, mientras que el NAD mejora la producción de energía celular, la reparación del ADN y la vitalidad general. Juntos, apoyan la longevidad y el bienestar metabólico.",
-        "category": "softgels",
-        "img": "resveratrol_nad_30softgel_termo.png",
-        "elements": [
-            {"name": "NAD+", "qty": "30mg"},
-            {"name": "Resveratrol", "qty": "250mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Resveratrol 30 Softgel",
-        "price": 10,
-        "short_description": "",
-        "description": "El resveratrol es un polifenol presente en la uva y otros frutos, con efectos antioxidantes y antiinflamatorios. Protege el corazón al mejorar la circulación y reducir el colesterol LDL, favorece la longevidad celular, regula la glucosa en sangre y apoya la salud cerebral. También se estudia por su potencial anticancerígeno y su capacidad de retrasar el envejecimiento.",
-        "category": "softgels",
-        "img": "resveratrol_30softgel_termo.png",
-        "elements": [
-            {"name": "Resveratrol", "qty": "700mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Omega 3 30 softgel",
-        "price": 9,
-        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
-        "description": "El omega 3 es un ácido graso esencial que protege la salud cardiovascular al reducir triglicéridos y mejorar la circulación. También favorece la función cerebral, reduce la inflamación en articulaciones, fortalece la visión y apoya el sistema inmunológico. Es clave para prevenir enfermedades crónicas y mejorar el bienestar general.",
-        "category": "softgels",
-        "img": "omega3_30softgel_termo.png",
-        "elements": [
-            {"name": "Aceite de Pescado", "qty": "753mcg (1000IU)"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
-    {
-        "name": "Vitamina E 30 softgel",
-        "price": 12,
-        "short_description": "Mantén tu sistema inmunitario fuerte.",
-        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
-        "category": "softgels",
-        "img": "vitamina_e_30softgel_termo.png",
-        "elements": [
-            {"name": "Vitamina E", "qty": "450mcg (1000IU)"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Biotina 30 softgel",
-        "price": 12,
-        "short_description": "",
-        "description": "La biotina, también conocida como vitamina B7, es esencial para el metabolismo energético y la salud de cabello, piel y uñas. En formato Softgel, ofrece rápida absorción, lo que mejora su eficacia en fortalecer los folículos capilares, reducir la caída del cabello y mejorar la textura de la piel. También regula el azúcar en sangre, apoya la digestión y contribuye a la regeneración celular.",
-        "category": "softgels",
-        "img": "biotina_30softgel_termo.png",
-        "elements": [
-            {"name": "Biotina", "qty": "700mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Omega 3-6-9 30 softgel",
-        "price": 12,
-        "short_description": "",
-        "description": "Este complejo de ácidos grasos esenciales apoya la salud cardiovascular, cerebral y articular. El omega-3 reduce la inflamación y protege el corazón, el omega-6 favorece la piel y el sistema inmunológico, y el omega-9 mejora el colesterol HDL. Juntos, equilibran el metabolismo y fortalecen el bienestar general.",
-        "category": "softgels",
-        "img": "omega_369_30softgel_termo.png",
-        "elements": [
-            {"name": "Aceite de Pescado (Omega 3)", "qty": "224mg"},
-            {"name": "Aceite de Borraja (Omega 6)", "qty": "240mg"},
-            {"name": "Aceite de Lino (Omega 9)", "qty": "224mg"},
-            {"name": "Vitamina E", "qty": "15mg"}
-
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-
-
-
-
-
-
-    {
-        "name": "Miel de Abejas 500gr",
-        "price": 10,
-        "short_description": "",
-        "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
-        "category": "honey",
-        "img": "miel_500gr.png",
-        "elements": [],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Miel de Abejas 1kg",
-        "price": 16,
-        "short_description": "",
-        "description": "Sus propiedades antiinflamatorias y antibacterianas pueden ayudar a calmar la tos y aliviar el dolor de garganta.",
-        "category": "honey",
-        "img": "miel.png",
-        "elements": [],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "cpe": "000000000",
+        "hidden": true
     }
 ]

@@ -1,7 +1,7 @@
 <template>
   <div class="card product-card">  
     <div class="card-img-container">
-      <RouterLink :to="'/product/' + getSlug(name)">
+      <RouterLink :to="'/product/' + getSlug(sku)">
         <img class="card-img-top" :src="getImage(image)" alt="...">
       </RouterLink>  
     </div> 
@@ -36,6 +36,7 @@
 export default {
   name: "ProductItem",
   props: {
+    sku: String,
     name: String,
     price: Number,
     short_description: String,
@@ -46,8 +47,10 @@ export default {
     getImage(filename) {
       return "./images/hd_resized/" + filename; 
     },
-    getSlug(name) {
-      return name.split(" ").join("-").toLowerCase();
+    getSlug(slug) {
+      if (slug) return slug.toLowerCase();
+
+      return "";
     }
   },
 }

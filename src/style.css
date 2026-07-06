@@ -399,7 +399,7 @@ body {
 	padding: .2rem .5rem;
 	border-radius: 0px 8px 0 8px;
 	width: 110px;
-  font-size: .9rem;
+  font-size: .85rem;
 }
 .product-info .product-description .description {
   font-size: .9rem;
@@ -592,6 +592,9 @@ body {
   .product-info .product-description .title {
     font-size: 1.5rem;
   }
+  .product-info .product-description .subtitle {
+    font-size: .9rem;
+  }
   .product-info .product-description .description {
     font-size: 1rem;
   }
@@ -606,7 +609,7 @@ body {
   }
   .nutrition-facts .element {
     font-size: .9rem;
-  }
+  }  
 }
 @media (min-width: 992px) { 
   .navbar-expand-lg .navbar-collapse {

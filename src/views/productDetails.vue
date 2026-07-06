@@ -1,7 +1,7 @@
 <template>
   <div class="container my-4 product-page" id="detalle_producto">
     <div class="pt-1 mb-3">
-      <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
+      <RouterLink :to="{ path: '/products', hash: '#' + getSlug(product.sku) }">
         <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
@@ -56,7 +56,7 @@
     </div>
 
     <div class="pb-1 mt-3 d-md-none">
-      <RouterLink :to="{ path: '/products', hash: '#' + product.name }">
+      <RouterLink :to="{ path: '/products', hash: '#' + getSlug(product.sku) }">
         <button class="btn btn-primary btn-sm btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
@@ -83,12 +83,14 @@ export default {
     getImage(filename) {
       return "./images/hd_resized/" + filename; 
     },
-    getSlug(name) {
-      return name.split(" ").join("-").toLowerCase();
+    getSlug(slug) {
+      if (slug) return slug.toLowerCase();
+
+      return "";
     }
   },  
   mounted() {    
-    this.product = productsJson.find(item => this.getSlug(item.name) == this.$route.params.slug) || {};
+    this.product = productsJson.find(item => this.getSlug(item.sku) == this.$route.params.slug) || {};
   }
 }
 </script>
