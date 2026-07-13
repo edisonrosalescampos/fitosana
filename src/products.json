@@ -106,13 +106,13 @@
         "posology": "Adultos: Tomar 1 cápsula diaria (media hora antes de la comida)."
     },
     {
-        "sku": "NATURAL-PREMIUM-MEATONINA",
-        "name": "Melatonina 5mg",
+        "sku": "NATURAL-PREMIUM-MELATONINA",
+        "name": "Melatonina + Ashwagandha",
         "price": 8,
         "short_description": "",
         "description": "Ayuda en el tratamiento del estrés y control del sueño, antioxidante.", 
         "category": "natural premium",
-        "img": "melatonina_plus_np.png",
+        "img": "melatonina_ashwagandha_np.png",
         "elements": [
             {"name": "Melatonina, polvo", "qty": "5mg"},
             {"name": "Clorhidrato de Piridoxina, polvo", "qty": "12mg"},
@@ -277,6 +277,36 @@
         "approval_number": "A-000.00",
         "cpe": "000000000",
         "posology": "Adultos: Una cucharada (15ml), tres veces al día. Niños mayores de seis años: Una cucharadita (5ml) tres veces al día."
+    },
+    {
+        "sku": "NATURAL-PREMIUM-QUINCHONCHO",
+        "name": "Quinchoncho",
+        "price": 8,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de congestiones nasales, rinitis y sinusitis.", 
+        "category": "natural premium",
+        "img": "quinchoncho_np.png",
+        "elements": [
+            {"name": "Quinchoncho, polvo de hojas (Cajanus cajan)", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Adultos: Una cápsula al levantarse y otra al acostarse."
+    },
+    {
+        "sku": "NATURAL-PREMIUM-MORINGA",
+        "name": "Moringa",
+        "price": 8,
+        "short_description": "",
+        "description": "Producto a base de hojas de moringa. Previene y evita la multiplicación de células malignas en procesos tumorales. Rico en vitaminas y minerales (multivitamínico natural). Antioxidante y antiinflamatorio. Regula los niveles de glicemia sanguínea. Regula el colesterol.", 
+        "category": "natural premium",
+        "img": "moringa_np.png",
+        "elements": [
+            {"name": "Moringa oleifera", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "posology": "Tomar 1 cápsula dos veces al día."
     },
 
 
