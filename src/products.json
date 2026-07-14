@@ -364,7 +364,7 @@
         "name": "Resveratrol",
         "price": 8,
         "short_description": "",
-        "description": "Fortalece tu sistema cardiovascular y combate el envejecimiento.", 
+        "description": "Ayuda a proteger las células del daño causado por los radicales libres. Mejora la salud cardiovascular al reducir el colesterol. Protege el cerebro del deterioro cognitivo y el Alzheimer.", 
         "category": "strong life",
         "img": "resveratrol_stronglife.png",
         "elements": [
@@ -434,7 +434,7 @@
         "name": "Ñame Salvaje",
         "price": 8,
         "short_description": "",
-        "description": "Coadyuvante en los procesos menopáusicos. Ayuda a la fertilidad de la mujer. Evita calambres menstruales.", 
+        "description": "Coadyuvante en los procesos menopáusicos. Combate los calambres menstruales y la resequedad vaginal. Favorece la fertilidad de la mujer y aumenta la producción de estrógenos.", 
         "category": "strong life",
         "img": "name_salvaje_stronglife.png",
         "elements": [
@@ -494,7 +494,7 @@
         "name": "Adelgamax",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Ayuda a reducir la masa corporal excedente y es anticelulítico. Reduce tu talla en tiempo record y controla la obesidad mórbida", 
         "category": "strong life",
         "img": "adelgamax_stronglife.png",
         "elements": [
@@ -514,7 +514,7 @@
         "name": "Carbón Vegetal",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Protege las paredes estomacales. Evita el mal aliento. Ayuda a parar la diarrea. Coadyuvante en el tratamiento de úlceras gástricas. Trata el malestar estomacal. Combate la acidez.", 
         "category": "strong life",
         "img": "carbon_vegetal_stronglife.png",
         "elements": [
@@ -528,7 +528,7 @@
         "name": "Saw Palmetto",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Desinflama la próstata y disminuye la necesidad de orinar con frecuencia. Promueve un líbido saludable y coadyuvante en la hiperplasia de próstata benigna.", 
         "category": "strong life",
         "img": "saw_palmetto_stronglife.png",
         "elements": [
@@ -542,7 +542,7 @@
         "name": "Lochita",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Coadyuvante en la cicatrización. Excelente tónico circulatorio. Diurético natural. Ayuda a la concentración.", 
         "category": "strong life",
         "img": "lochita_stronglife.png",
         "elements": [
@@ -556,7 +556,7 @@
         "name": "Erectomax",
         "price": 9,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Promueve el líbido. Mejora la energía y el equilibrio hormonal.", 
         "category": "strong life",
         "img": "erectomax_stronglife.png",
         "elements": [
@@ -572,7 +572,7 @@
         "name": "Cáscara Sagrada",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Alivia el estreñimiento. Su efecto laxante estimula el movimiento intestinal, facilitando la evacuación y aliviando la sensación de pesadez.", 
         "category": "strong life",
         "img": "cascara_sagrada_stronglife.png",
         "elements": [
@@ -586,7 +586,7 @@
         "name": "Cardo Lechozo",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Elimina los cálculos en la vesícula, protector hepático y es un reconstituyente hepatico y biliar.", 
         "category": "strong life",
         "img": "cardo_lechozo_stronglife.png",
         "elements": [
@@ -600,7 +600,7 @@
         "name": "Levadura de Cerveza",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Aporta todas las vitaminas del complejo B. Alivia dolores musculares. Mejora la salud de la piel y uñas. Excelente para aumentar de peso. Rico en selenio. Proporciona energía.", 
         "category": "strong life",
         "img": "levadura_cerveza_stronglife.png",
         "elements": [
@@ -614,7 +614,7 @@
         "name": "Rheumadaul",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Fortalece los tendones. Desinflama las articulaciones.", 
         "category": "strong life",
         "img": "rheumadaul_stronglife.png",
         "elements": [
@@ -632,7 +632,7 @@
         "name": "Alcachofa",
         "price": 8,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Es un excelente quemador de grasa y ayuda a desintegrar los cálculos vesiculares.", 
         "category": "strong life",
         "img": "alcachofa_stronglife.png",
         "elements": [
@@ -646,7 +646,7 @@
         "name": "Parasivida Desparasitante 120ml",
         "price": 6,
         "short_description": "",
-        "description": "No especificado.", 
+        "description": "Lucha contra la ascaris lumbricoide. Combate las amebas y oxiuros. Elimina la lombríz solitaria.", 
         "category": "strong life",
         "img": "parasivida_stronglife.png",
         "elements": [
@@ -1884,7 +1884,7 @@
     {
         "sku": "IFS-NUTRITION-CREATINA-200G",
         "name": "Creatina IFS NUTRITION 200g",
-        "price": 20,
+        "price": 18,
         "short_description": "",
         "description": "CREATINA MONOHIDRATADA PURA, maximiza el rendimiento de los atletas fortaleciendo la masa muscular, creando mayor resistencia en el entrenamiento físico, reduce la fatiga dando energía, es micronizada de fácil digestión.",
         "category": "proteins",
@@ -1898,7 +1898,7 @@
     {
         "sku": "IFS-NUTRITION-BCAA-300G",
         "name": "BCAA IFS NUTRITION 300g",
-        "price": 20,
+        "price": 18,
         "short_description": "",
         "description": "Aminoácidos ramificados L-Leucine L-Valine L-Isoleucine: este compuesto de aminoácidos ayudan a la síntesis de proteína muscular, mejora la fuerza y reduce la fatiga, logrando un mayor desempeño y rendimiento en la actividad física.",
         "category": "proteins",
@@ -1942,7 +1942,7 @@
     {
         "sku": "MUSCLETECH-CREATINA-400G",
         "name": "Creatina Muscletech Platinum 400g",
-        "price": 55,
+        "price": 52,
         "short_description": "",
         "description": "Proporciona a tus músculos la forma de creatina más estudiada y de alta calidad, diseñada para maximizar tu fuerza y rendimiento físico.",
         "category": "proteins",
