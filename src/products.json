@@ -659,6 +659,41 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "sku": "STRONG-LIFE-MACA",
+        "name": "Maca",
+        "price": 10,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "maca_stronglife.png",
+        "elements": [
+            {"name": "Maca (Extracto Puro)", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "STRONG-LIFE-FUERZA-HUMANA",
+        "name": "Fuerza Humana",
+        "price": 8,
+        "short_description": "",
+        "description": "No especificado.", 
+        "category": "strong life",
+        "img": "fuerza_humana_stronglife.png",
+        "elements": [
+            {"name": "Vitamina A", "qty": "700UI"},
+            {"name": "Vitamina B1", "qty": "3mg"},
+            {"name": "Vitamina B3", "qty": "7mg"},
+            {"name": "Vitamina B5", "qty": "0.5mg"},
+            {"name": "Vitamina B12", "qty": "0.5mg"},
+            {"name": "Vitamina D3", "qty": "8mg"}, 
+            {"name": "Sodio", "qty": "90mcg"},
+            {"name": "Hierro", "qty": "2mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
