@@ -145,7 +145,7 @@
     {
         "sku": "NATURAL-PREMIUM-VARISAN",
         "name": "Varisan",
-        "price": 10,
+        "price": 9,
         "short_description": "",
         "description": "Ayuda en el tratamiento de los síntomas asociados a insuficiencia venosa de los miembros inferiores. Piernas cansadas, edemas, várices, sensación de pesadez y calambres nocturnos.", 
         "category": "natural premium",
@@ -232,7 +232,7 @@
     {
         "sku": "NATURAL-PREMIUM-CENTELLA-ASIATICA",
         "name": "Centella Asiática",
-        "price": 10,
+        "price": 9,
         "short_description": "",
         "description": "Coadyuvante en el tratamiento para la prevención y control de la celulitis, control de peso y eliminación de quistes de senos y ovarios.", 
         "category": "natural premium",
@@ -1560,21 +1560,7 @@
         ],
         "approval_number": "A-162.830",
         "cpe": "1223550881"
-    }, 
-    {
-        "sku": "FITOSANA-CHANCA-PIEDRA",
-        "name": "Chanca Piedra",
-        "price": 9,
-        "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
-        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
-        "category": "suplements",
-        "img": "chanca_piedra.png",
-        "elements": [
-            {"name": "Chancapiedra (phyllanthus niruri)", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },     
     {
         "sku": "FITOSANA-CALOSTRO-BOVINO",
         "name": "Calostro Bovino",
@@ -1596,7 +1582,7 @@
         "short_description": "Estimula la formación y reparación del cartílago articulatorio",
         "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
         "category": "suplements",
-        "img": "glucosamina_condroitina.png",
+        "img": "glucosamina_condroitina_termo.png",
         "elements": [
             {"name": "Sulfato de Glucosamina", "qty": "310mg"},
             {"name": "Sulfato de Condroitina", "qty": "170mg"}
@@ -1621,21 +1607,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "1024572005"
-    },
-    {
-        "sku": "FITOSANA-GINKGO-BILOBA",
-        "name": "Ginkgo Biloba",
-        "price": 9,
-        "short_description": "Ayuda a aumentar la vitalidad mental.",
-        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
-        "category": "suplements",
-        "img": "ginkgo_biloba.png",
-        "elements": [
-            {"name": "Polvo de Ginkgo Biloba (hojas)", "qty": "30mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },    
     {
         "sku": "FITOSANA-FENOGRECO",
         "name": "Fenogreco",
@@ -1643,7 +1615,7 @@
         "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
         "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
         "category": "suplements",
-        "img": "fenogreco.png",
+        "img": "fenogreco_termo.png",
         "elements": [
             {"name": "Fenogreco", "qty": "320mg"},
             {"name": "Maca", "qty": "110mg"},
@@ -1652,21 +1624,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },         
-    {
-        "sku": "FITOSANA-MACA",
-        "name": "Maca",
-        "price": 9,
-        "short_description": "",
-        "description": "Es un antioxidante que mejora el deseo sexual, la fertilidad, evita la anemia y ayuda a la resistencia física.",
-        "category": "suplements",
-        "img": "maca.png",
-        "elements": [
-            {"name": "Cola de Maca", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },        
     {
         "sku": "FITOSANA-ASHWAGANDHA",
         "name": "Ashwagandha",
@@ -1688,27 +1646,13 @@
         "short_description": "",
         "description": "Alivia el dolor causado por la artritis, el agarrotamiento de los tendones y la hinchazón, acelera la curación de esguinces articulares y distensiones musculares.", 
         "category": "suplements",
-        "img": "glucosamina.png",
+        "img": "glucosamina_termo.png",
         "elements": [
             {"name": "Glucosamina", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    }, 
-    {
-        "sku": "FITOSANA-ARANDANO-NEGRO",
-        "name": "Arándano Negro",
-        "price": 9,
-        "short_description": "",
-        "description": "Trata las afecciones oculares, evita las varices y hemorroides.", 
-        "category": "suplements",
-        "img": "arandano_negro_termo.png",
-        "elements": [
-            {"name": "Arándano Negro", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },     
     {
         "sku": "FITOSANA-ARANDANO-ROJO",
         "name": "Arándano Rojo",
@@ -1750,21 +1694,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "sku": "FITOSANA-INOSITOL",
-        "name": "Inositol",
-        "price": 9,
-        "short_description": "",
-        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
-        "category": "suplements",
-        "img": "inositol.png",
-        "elements": [
-            {"name": "Inositol", "qty": "500mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    },    
     {
         "sku": "FITOSANA-LUTEINA",
         "name": "Luteína",
@@ -2002,7 +1932,7 @@
         "short_description": "",
         "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
         "category": "others",
-        "img": "quiste_ginol.png",
+        "img": "quiste_ginol_termo.png",
         "elements": [
             {"name": "Caléndula", "qty": "110mg"},
             {"name": "Centella Asiática", "qty": "100mg"},
@@ -2262,6 +2192,76 @@
         "approval_number": "A-166.181",
         "cpe": "000000000"
     }, 
+    {
+        "sku": "FITOSANA-INOSITOL",
+        "name": "Inositol",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda a mantener la función cerebral, a reducir la resistencia a la insulina, los niveles de hormonas masculinas, el peso corporal, el colesterol y los triglicéridos.",
+        "category": "others",
+        "img": "inositol.png",
+        "elements": [
+            {"name": "Inositol", "qty": "500mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-MACA",
+        "name": "Maca",
+        "price": 9,
+        "short_description": "",
+        "description": "Es un antioxidante que mejora el deseo sexual, la fertilidad, evita la anemia y ayuda a la resistencia física.",
+        "category": "others",
+        "img": "maca.png",
+        "elements": [
+            {"name": "Cola de Maca", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-GINKGO-BILOBA",
+        "name": "Ginkgo Biloba",
+        "price": 9,
+        "short_description": "Ayuda a aumentar la vitalidad mental.",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "others",
+        "img": "ginkgo_biloba.png",
+        "elements": [
+            {"name": "Polvo de Ginkgo Biloba (hojas)", "qty": "30mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-CHANCA-PIEDRA",
+        "name": "Chanca Piedra",
+        "price": 9,
+        "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "others",
+        "img": "chanca_piedra.png",
+        "elements": [
+            {"name": "Chancapiedra (phyllanthus niruri)", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-ARANDANO-NEGRO",
+        "name": "Arándano Negro",
+        "price": 9,
+        "short_description": "",
+        "description": "Trata las afecciones oculares, evita las varices y hemorroides.", 
+        "category": "others",
+        "img": "arandano_negro_termo.png",
+        "elements": [
+            {"name": "Arándano Negro", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
       
      
