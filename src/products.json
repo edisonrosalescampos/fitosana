@@ -1697,20 +1697,6 @@
         "cpe": "000000000"
     },    
     {
-        "sku": "FITOSANA-LUTEINA",
-        "name": "Luteína",
-        "price": 9,
-        "short_description": "",
-        "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
-        "category": "suplements",
-        "img": "luteina_termo.png",
-        "elements": [
-            {"name": "Luteína", "qty": "40mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "sku": "FITOSANA-LOCHITA",
         "name": "Lochita",
         "price": 9,
@@ -2259,6 +2245,20 @@
         "img": "arandano_negro_termo.png",
         "elements": [
             {"name": "Arándano Negro", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-LUTEINA",
+        "name": "Luteína",
+        "price": 9,
+        "short_description": "",
+        "description": "Previene enfermedades oculares, mantiene la salud de la piel, mejora la memoria y el proceso cognitivo y previene el cáncer.", 
+        "category": "others",
+        "img": "luteina_termo.png",
+        "elements": [
+            {"name": "Luteína", "qty": "40mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
