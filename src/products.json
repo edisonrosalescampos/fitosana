@@ -1086,8 +1086,8 @@
         "sku": "FITOSANA-MAGNESIO-MELATONINA",
         "name": "Magnesio + Melatonina",
         "price": 9,
-        "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
-        "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
+        "short_description": "",
+        "description": "Esta combinación es ideal para mejorar la calidad del sueño y combatir el insomnio. El magnesio relaja el sistema nervioso y muscular, mientras que la melatonina regula el ritmo circadiano y facilita la conciliación del sueño. Juntos, reducen el estrés, mejoran el estado de ánimo y favorecen un descanso profundo y reparador. Es especialmente útil en personas con trastornos del sueño o jet lag.",
         "category": "magnesiums",
         "img": "magnesio_melatonina_termo.png",
         "elements": [
@@ -1101,8 +1101,8 @@
         "sku": "FITOSANA-CITRATO-MAGNESIO",
         "name": "Citrato de Magnesio",
         "price": 9,
-        "short_description": "Regula la función de los músculos y del sistema nervioso.",
-        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
+        "short_description": "",
+        "description": "El citrato de magnesio es un suplemento que mejora la salud ósea, muscular, nerviosa y cardiovascular. Ayuda a reducir el estrés, mejorar el sueño, aliviar el estreñimiento, regular la presión arterial y el azúcar en sangre; así como a fortalecer el sistema inmunológico. Es altamente absorbible y útil para mantener el bienestar físico y mental.",
         "category": "magnesiums",
         "img": "citrato_magnesio_termo.png",
         "elements": [
@@ -1115,8 +1115,8 @@
         "sku": "FITOSANA-GLICINATO-MAGNESIO",
         "name": "Glicinato de Magnesio",
         "price": 9,
-        "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
-        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
+        "short_description": "",
+        "description": "El glicinato de magnesio es una forma altamente biodisponible y suave para el sistema digestivo. Ayuda a mejorar la calidad del sueño, reducir el estrés y la ansiedad, aliviar calambres musculares y fortalecer los huesos. También apoya la salud cardiovascular, mejora la función cognitiva y regula la presión arterial. Su combinación con glicina potencia el efecto calmante y lo hace ideal para personas con sensibilidad digestiva.",
         "category": "magnesiums",
         "img": "glicinato_magnesio_termo.png",
         "elements": [
@@ -1176,7 +1176,7 @@
         "name": "Magnesio + Vitamina C",
         "price": 9,
         "short_description": "",
-        "description": "Disminuye el cansancio, la fatiga, contribuye al funcionamiento normal del sistema nervioso y ayuda a la salud de los músculos.", 
+        "description": "Esta combinación ofrece beneficios sinérgicos: el magnesio regula la función muscular, nerviosa y ósea, mientras que la vitamina C potencia el sistema inmunológico, mejora la absorción de hierro y estimula la producción de colágeno. Juntos, ayudan a reducir el estrés, mejorar la digestión, acelerar la recuperación muscular y proteger contra enfermedades cardiovasculares.", 
         "category": "magnesiums",
         "img": "magnesio_vitamina_c_termo.png",
         "elements": [
@@ -1210,7 +1210,7 @@
         "name": "Cúrcuma con Jengibre",
         "price": 9,
         "short_description": "",
-        "description": "Reduce la inflamación abdominal y el colesterol, antiinflamatoria. Fortalece el sistema cardiovascular y mejora la digestión.",
+        "description": "La combinación de cúrcuma y jengibre potencia sus efectos antiinflamatorios, antioxidantes y digestivos. Juntas, estas raíces ayudan a aliviar dolores articulares, mejorar la circulación, reducir migrañas y apoyar el sistema inmunológico. También son útiles en casos de mala digestión, náuseas y enfermedades respiratorias. Su sinergia favorece la termogénesis y puede contribuir al control del peso.",
         "category": "turmerics",
         "img": "curcuma_jengibre.png",
         "elements": [
@@ -1246,8 +1246,8 @@
         "sku": "FITOSANA-PROSTASANA",
         "name": "Prosta Sana",
         "price": 9,
-        "short_description": "Previene el cáncer de próstata.",
-        "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
+        "short_description": "",
+        "description": "Prosta Sana es un suplemento formulado para apoyar la salud prostática y urinaria. Sus ingredientes naturales ayudan a reducir la inflamación de la próstata, mejorar el flujo urinario y disminuir la frecuencia de micciones nocturnas. También favorece la función sexual masculina y contribuye al equilibrio hormonal, siendo útil en casos de hiperplasia prostática benigna.",
         "category": "prostate",
         "img": "prostasana_termo.png",
         "elements": [
@@ -1260,8 +1260,8 @@
         "sku": "FITOSANA-SAW-PALMETTO",
         "name": "Saw Palmetto",
         "price": 9,
-        "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
-        "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
+        "short_description": "",
+        "description": "El Saw Palmetto es conocido por su capacidad para mejorar la salud prostática y urinaria. Se utiliza en casos de hiperplasia prostática benigna, ayudando a reducir la frecuencia urinaria y mejorar el flujo. También puede apoyar la salud hormonal masculina, favorecer la función sexual y reducir la caída del cabello relacionada con exceso de DHT.",
         "category": "prostate",
         "img": "saw_palmetto_termo.png",
         "elements": [
@@ -1274,8 +1274,8 @@
         "sku": "FITOSANA-MACHO-VIRIL",
         "name": "Macho Viril",
         "price": 9,
-        "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
-        "description": "Incrementa la energía sexual y la función eréctil.",
+        "short_description": "",
+        "description": "Macho Viril está diseñado para potenciar la energía, la vitalidad y la función sexual masculina. Sus componentes naturales favorecen la producción de testosterona, mejoran la circulación sanguínea y aumentan la resistencia física. También apoya el rendimiento deportivo y la recuperación muscular, siendo un aliado para la confianza y el bienestar masculino.",
         "category": "prostate",
         "img": "macho_viril_termo.png",
         "elements": [
