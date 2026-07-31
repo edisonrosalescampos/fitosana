@@ -1453,20 +1453,6 @@
         "cpe": "000000000"
     },
     {
-        "sku": "FITOSANA-SOFTGEL-RESVERATROL",
-        "name": "Resveratrol 30 Softgel",
-        "price": 10,
-        "short_description": "",
-        "description": "El resveratrol es un polifenol presente en la uva y otros frutos, con efectos antioxidantes y antiinflamatorios. Protege el corazón al mejorar la circulación y reducir el colesterol LDL, favorece la longevidad celular, regula la glucosa en sangre y apoya la salud cerebral. También se estudia por su potencial anticancerígeno y su capacidad de retrasar el envejecimiento.",
-        "category": "softgels",
-        "img": "resveratrol_30softgel_termo.png",
-        "elements": [
-            {"name": "Resveratrol", "qty": "700mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "sku": "FITOSANA-SOFTGEL-OMEGA-3",
         "name": "Omega 3 30 softgel",
         "price": 9,
@@ -2430,6 +2416,21 @@
         "img": "aceite_coco_natri.png",
         "elements": [
             {"name": "Aceite de Coco Virgen", "qty": "210ml"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000",
+        "hidden": true
+    },
+    {
+        "sku": "FITOSANA-SOFTGEL-RESVERATROL",
+        "name": "Resveratrol 30 Softgel",
+        "price": 10,
+        "short_description": "",
+        "description": "El resveratrol es un polifenol presente en la uva y otros frutos, con efectos antioxidantes y antiinflamatorios. Protege el corazón al mejorar la circulación y reducir el colesterol LDL, favorece la longevidad celular, regula la glucosa en sangre y apoya la salud cerebral. También se estudia por su potencial anticancerígeno y su capacidad de retrasar el envejecimiento.",
+        "category": "softgels",
+        "img": "resveratrol_30softgel_termo.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "700mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000",
