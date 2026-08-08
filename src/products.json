@@ -1617,7 +1617,7 @@
     {
         "sku": "FITOSANA-ASHWAGANDHA",
         "name": "Ashwagandha",
-        "price": 10,
+        "price": 9,
         "short_description": "",
         "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
         "category": "suplements",
@@ -2086,7 +2086,7 @@
     {
         "sku": "FITOSANA-ESPIRULINA",
         "name": "Espirulina",
-        "price": 10,
+        "price": 9,
         "short_description": "",
         "description": "La espirulina es una microalga rica en proteínas, vitaminas y minerales. Mejora la energía, fortalece el sistema inmunológico, regula el colesterol y favorece la pérdida de peso. También apoya la salud intestinal, protege contra la anemia y tiene efectos antioxidantes que retrasan el envejecimiento celular.",
         "category": "others",
