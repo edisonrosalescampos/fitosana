@@ -145,7 +145,7 @@
     {
         "sku": "NATURAL-PREMIUM-VARISAN",
         "name": "Varisan",
-        "price": 9,
+        "price": 10,
         "short_description": "",
         "description": "Ayuda en el tratamiento de los síntomas asociados a insuficiencia venosa de los miembros inferiores. Piernas cansadas, edemas, várices, sensación de pesadez y calambres nocturnos.", 
         "category": "natural premium",
@@ -307,6 +307,23 @@
         "approval_number": "A-000.00",
         "cpe": "000000000",
         "posology": "Tomar 1 cápsula dos veces al día."
+    },
+    {
+        "sku": "NATURAL-PREMIUM-RESVERATROL-NAD",
+        "name": "Resveratrol + NAD",
+        "price": 21,
+        "short_description": "",
+        "description": "Ayuda en la regulación del metabolismo y en el retardo del proceso de envejecimiento, potente antioxidante, provee apoyo en el tratamiento de la arteriosclerosis, antiagregante plaquetario.", 
+        "category": "natural premium",
+        "img": "resveratrol_nad_np.png",
+        "elements": [
+            {"name": "Knotweed Japonés (Polygonum cuspidatum)", "qty": "400mg"},
+            {"name": "Nicotinamida Adenina Dinucleótido (NAD)", "qty": "200mg"},
+            {"name": "Vitamina D3 (Colecalciferol)", "qty": "0,012mg"}
+        ],
+        "approval_number": "10-2465",
+        "cpe": "0521498130",
+        "posology": "Adultos: Una cápsula dos veces al día."
     },
 
 
@@ -2251,6 +2268,20 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "sku": "FITOSANA-ACIDOPHILUS",
+        "name": "Acidophilus",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
+        "category": "others",
+        "img": "acidophilus_termo.png",
+        "elements": [
+            {"name": "Acidophilus", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
       
      
@@ -2374,20 +2405,6 @@
         "img": "ajo_perejil.png",
         "elements": [
             {"name": "Polvos Bulbos", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000",
-        "hidden": true
-    },
-    {
-        "name": "Acidophilus",
-        "price": 8,
-        "short_description": "",
-        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
-        "category": "others",
-        "img": "acidophilus.png",
-        "elements": [
-            {"name": "Acidophilus", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000",
