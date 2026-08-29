@@ -1868,8 +1868,8 @@
     },
     {
         "sku": "ANGRY-SUPPLEMENTS-CREATINA-300G",
-        "name": "Creatina Angry Supplements 300g",
-        "price": 35,
+        "name": "Creatina Angry 300g",
+        "price": 33,
         "short_description": "",
         "description": "Angry Supplements ofrece creatina monohidratada en polvo, la forma más estudiada y reconocida por su efectividad. Este producto está formulado para mejorar la fuerza, acelerar la recuperación muscular y potenciar el rendimiento deportivo en general.",
         "category": "proteins",
@@ -1899,7 +1899,7 @@
     {
         "sku": "MUSCLETECH-CREATINA-400G",
         "name": "Creatina Muscletech Platinum 400g",
-        "price": 52,
+        "price": 45,
         "short_description": "",
         "description": "Proporciona a tus músculos la forma de creatina más estudiada y de alta calidad, diseñada para maximizar tu fuerza y rendimiento físico.",
         "category": "proteins",
