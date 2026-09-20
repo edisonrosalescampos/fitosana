@@ -198,22 +198,7 @@
         "approval_number": "07-2170/17",
         "cpe": "0812256096",
         "posology": "Adultos: Una cápsula tres veces al día."
-    },
-    {
-        "sku": "NATURAL-PREMIUM-COLA-CABALLO",
-        "name": "Cola de Caballo",
-        "price": 8,
-        "short_description": "",
-        "description": "Ayuda en el tratamiento de la diuresis. Diurético eficaz que te ayuda a limpiar las vías urinarias y a eliminar la retención de líquido. Se recomienda en casos de litiasis renal (piedra en los riñones).", 
-        "category": "natural premium",
-        "img": "cola_caballo_np.png",
-        "elements": [
-            {"name": "COLA DE CABALLO, Polvo de planta entera (Equisetum arvense)", "qty": "300mg"}
-        ],
-        "approval_number": "06-2048/17",
-        "cpe": "0812256098",
-        "posology": "Adultos: Una cápsula tres veces al día."
-    },
+    },    
     {
         "sku": "NATURAL-PREMIUM-GINKGO-BILOBA",
         "name": "Ginkgo Biloba",
@@ -1799,7 +1784,7 @@
     {
         "sku": "FITOSANA-CREATINA-500G",
         "name": "Creatina Fitosana 500g",
-        "price": 25,
+        "price": 20,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
         "category": "proteins",
@@ -1834,6 +1819,25 @@
         "img": "creatina_nutrex.png",
         "elements": [
             {"name": "Creatina Monohidratada", "qty": "300g"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "NUTREX-CREATINA-WOMEN-300G",
+        "name": "Creatina Nutrex For Women 323g",
+        "price": 40,
+        "short_description": "",
+        "description": "No especificado.",
+        "category": "proteins",
+        "img": "creatina_nutrex_women.png",
+        "elements": [
+            {"name": "Creatina Monohidratada Micronizada", "qty": "5g"},
+            {"name": "Colágeno hidrolizado (péptidos)", "qty": "2g"},
+            {"name": "BCAA", "qty": "1g"},
+            {"name": "Ácido Hialurónico", "qty": "200mg"},
+            {"name": "Vitamina C", "qty": "300mg"},
+            {"name": "Biotina", "qty": "1mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -2451,6 +2455,22 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000",
+        "hidden": true
+    },
+    {
+        "sku": "NATURAL-PREMIUM-COLA-CABALLO",
+        "name": "Cola de Caballo",
+        "price": 8,
+        "short_description": "",
+        "description": "Ayuda en el tratamiento de la diuresis. Diurético eficaz que te ayuda a limpiar las vías urinarias y a eliminar la retención de líquido. Se recomienda en casos de litiasis renal (piedra en los riñones).", 
+        "category": "natural premium",
+        "img": "cola_caballo_np.png",
+        "elements": [
+            {"name": "COLA DE CABALLO, Polvo de planta entera (Equisetum arvense)", "qty": "300mg"}
+        ],
+        "approval_number": "06-2048/17",
+        "cpe": "0812256098",
+        "posology": "Adultos: Una cápsula tres veces al día.",
         "hidden": true
     }
 ]
