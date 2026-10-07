@@ -1064,7 +1064,7 @@
     {
         "sku": "FITOSANA-COLAGENO-HIDROLIZADO",
         "name": "Cólageno Hidrolizado 500g",
-        "price": 25,
+        "price": 22,
         "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "collagens",
@@ -1499,7 +1499,7 @@
     {
         "sku": "FITOSANA-SOFTGEL-OMEGA-3-6-9",
         "name": "Omega 3-6-9 30 softgel",
-        "price": 12,
+        "price": 9,
         "short_description": "",
         "description": "Este complejo de ácidos grasos esenciales apoya la salud cardiovascular, cerebral y articular. El omega-3 reduce la inflamación y protege el corazón, el omega-6 favorece la piel y el sistema inmunológico, y el omega-9 mejora el colesterol HDL. Juntos, equilibran el metabolismo y fortalecen el bienestar general.",
         "category": "softgels",
@@ -1742,7 +1742,7 @@
     {
         "sku": "FITOSANA-PROTEINA-SUERO-907G-CHOCOLATE",
         "name": "Proteína de Suero 907g (Chocolate)",
-        "price": 33,
+        "price": 30,
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
         "category": "proteins",
@@ -1756,7 +1756,7 @@
     {
         "sku": "FITOSANA-PROTEINA-SUERO-907G-VAINILLA",
         "name": "Proteína de Suero 907g (Vainilla)",
-        "price": 33,
+        "price": 30,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
@@ -1770,7 +1770,7 @@
     {
         "sku": "FITOSANA-PROTEINA-HUEVO-907G-VAINILLA",
         "name": "Proteína de Huevo 907g (Vainilla)",
-        "price": 33,
+        "price": 30,
         "short_description": "",
         "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
         "category": "proteins",
