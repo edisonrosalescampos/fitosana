@@ -1629,21 +1629,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },        
-    {
-        "sku": "FITOSANA-GLUCOSAMINA",
-        "name": "Glucosamina",
-        "price": 9,
-        "short_description": "",
-        "description": "Alivia el dolor causado por la artritis, el agarrotamiento de los tendones y la hinchazón, acelera la curación de esguinces articulares y distensiones musculares.", 
-        "category": "suplements",
-        "img": "glucosamina_termo.png",
-        "elements": [
-            {"name": "Glucosamina", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },     
+    },            
     {
         "sku": "FITOSANA-ARANDANO-ROJO",
         "name": "Arándano Rojo",
@@ -1685,21 +1671,7 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },    
-    {
-        "sku": "FITOSANA-LOCHITA",
-        "name": "Lochita",
-        "price": 9,
-        "short_description": "",
-        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
-        "category": "suplements",
-        "img": "lochita_termo.png",
-        "elements": [
-            {"name": "Lochita", "qty": "300mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },  
+    },     
     {
         "sku": "FITOSANA-NAME-SALVAJE",
         "name": "Ñame Salvaje",
@@ -1743,6 +1715,20 @@
         "elements": [
             {"name": "Polvo de semilla de Resveratrol", "qty": "140mg"},
             {"name": "NAD", "qty": "140mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-BERBERINA",
+        "name": "Berberina",
+        "price": 9,
+        "short_description": "",
+        "description": "Ayuda a controlar glucemia, resistencia a la insulina y perfil lipídico.",
+        "category": "suplements",
+        "img": "berberina_termo.png",
+        "elements": [
+            {"name": "Berberina", "qty": "300mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -1803,9 +1789,9 @@
         "short_description": "",
         "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
         "category": "proteins",
-        "img": "creatina.png",
+        "img": "creatina_500g_termo.png",
         "elements": [
-            {"name": "Creatina Monohidratada", "qty": "29,3g/90g"}
+            {"name": "Creatina Monohidratada", "qty": "500g"}
         ],
         "approval_number": "A-165.570",
         "cpe": "0724563657"
@@ -2301,6 +2287,34 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "sku": "FITOSANA-LOCHITA",
+        "name": "Lochita",
+        "price": 9,
+        "short_description": "",
+        "description": "Cicatrizante, restaura la piel dañada y trata la celulitis y las estrías.",
+        "category": "others",
+        "img": "lochita_termo.png",
+        "elements": [
+            {"name": "Lochita", "qty": "300mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "sku": "FITOSANA-GLUCOSAMINA",
+        "name": "Glucosamina",
+        "price": 9,
+        "short_description": "",
+        "description": "Alivia el dolor causado por la artritis, el agarrotamiento de los tendones y la hinchazón, acelera la curación de esguinces articulares y distensiones musculares.", 
+        "category": "others",
+        "img": "glucosamina_termo.png",
+        "elements": [
+            {"name": "Glucosamina", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
 
       
      
@@ -2487,5 +2501,5 @@
         "cpe": "0812256098",
         "posology": "Adultos: Una cápsula tres veces al día.",
         "hidden": true
-    }
+    }    
 ]
