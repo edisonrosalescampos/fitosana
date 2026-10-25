@@ -15,7 +15,7 @@
             <!--<li><a href="https://www.facebook.com/profile.php?id=61565835603289&mibextid=ZbWKwL" title="Facebook" target="_blank"><span><i class="fab fa-facebook-square fa-lg"></i></span></a></li>-->
             <li><a href="https://www.facebook.com/suplementosacarigua" title="Facebook" target="_blank"><span><i class="fab fa-facebook-square fa-lg"></i></span></a></li>
             <li><a href="https://www.instagram.com/suplementos_acarigua?igsh=MTg4dHViNmpleXQ3eg==" title="Instagram" target="_blank"><span><i class="fab fa-instagram fa-lg"></i></span></a></li>   
-            <li><a href="" title="Tiktok" target="_blank"><span><i class="fab fa-tiktok fa-lg"></i></span></a></li> 
+            <li><a href="https://www.tiktok.com/@suplementos_acarigua?_r=1&_t=ZS-9Aq0xZ8y1Gk" title="Tiktok" target="_blank"><span><i class="fab fa-tiktok fa-lg"></i></span></a></li> 
           </ul>
         </div>
       </div> 

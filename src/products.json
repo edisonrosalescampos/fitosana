@@ -1068,7 +1068,7 @@
         "short_description": "",
         "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
         "category": "collagens",
-        "img": "colageno_hidrolizado.png",
+        "img": "colageno_hidrolizado_500g_termo.png",
         "elements": [
             {"name": "Cólageno", "qty": "15g"},
             {"name": "Biotina", "qty": "30mcg"},
@@ -1728,6 +1728,21 @@
         "img": "cardo_lechozo_termo.png",
         "elements": [
             {"name": "Cardo Lechozo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "sku": "FITOSANA-RESVERATROL-NAD",
+        "name": "Resveratrol + NAD 60 tabletas",
+        "price": 9,
+        "short_description": "",
+        "description": "Antioxidante y soporte del metabolismo celular.",
+        "category": "suplements",
+        "img": "resveratrol_nad_tabletas_termo.png",
+        "elements": [
+            {"name": "Polvo de semilla de Resveratrol", "qty": "140mg"},
+            {"name": "NAD", "qty": "140mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
